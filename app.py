@@ -4,8 +4,8 @@ import pandas as pd
 # -------------------------------
 # Load Data
 # -------------------------------
-career = pd.read_csv("processed/career_roles.csv")
-resources = pd.read_csv("processed/learning_resources.csv")
+career = pd.read_csv("career_roles.csv")
+resources = pd.read_csv("learning_resources.csv")
 
 career["required_skill"] = career["required_skill"].str.lower().str.strip()
 resources["skill"] = resources["skill"].str.lower().str.strip()
