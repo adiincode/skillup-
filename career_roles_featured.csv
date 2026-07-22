@@ -1,0 +1,42 @@
+role,required_skill,importance,required_skill_count
+5,Python,1.0,7
+5,DSA,1.0,7
+5,OOP,0.9,7
+5,DBMS,0.8,7
+5,SQL,0.8,7
+5,System Design,0.8,7
+5,Git,0.7,7
+2,Python,1.0,7
+2,Pandas,1.0,7
+2,NumPy,1.0,7
+2,Machine Learning,1.0,7
+2,Scikit-learn,0.9,7
+2,SQL,0.8,7
+2,Power BI,0.7,7
+4,Python,1.0,7
+4,Machine Learning,1.0,7
+4,Deep Learning,1.0,7
+4,TensorFlow,0.9,7
+4,PyTorch,0.9,7
+4,NLP,0.8,7
+4,Computer Vision,0.8,7
+6,HTML,1.0,7
+6,CSS,1.0,7
+6,JavaScript,1.0,7
+6,React,0.9,7
+6,Node.js,0.8,7
+6,Express.js,0.7,7
+6,Git,0.7,7
+0,Kotlin,1.0,4
+0,Android,1.0,4
+0,Git,0.8,4
+0,Java,0.8,4
+3,Docker,1.0,5
+3,Kubernetes,1.0,5
+3,AWS,1.0,5
+3,Linux,0.9,5
+3,Bash,0.8,5
+1,Linux,1.0,4
+1,Cyber Security,1.0,4
+1,Python,0.8,4
+1,Computer Networks,0.8,4

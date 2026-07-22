@@ -1,0 +1,101 @@
+skill,platform,resource,difficulty
+Python,YouTube,Python Full Course,0
+Python,Official Docs,Python Documentation,1
+Java,YouTube,Java Full Course,0
+Java,Official Docs,Java Documentation,1
+C++,YouTube,C++ Full Course,0
+C++,Official Docs,C++ Documentation,1
+C,YouTube,C Full Course,0
+C,Official Docs,C Documentation,1
+JavaScript,YouTube,JavaScript Full Course,0
+JavaScript,Official Docs,JavaScript Documentation,1
+SQL,YouTube,SQL Full Course,0
+SQL,Official Docs,SQL Documentation,1
+MongoDB,YouTube,MongoDB Full Course,0
+MongoDB,Official Docs,MongoDB Documentation,1
+MySQL,YouTube,MySQL Full Course,0
+MySQL,Official Docs,MySQL Documentation,1
+PostgreSQL,YouTube,PostgreSQL Full Course,0
+PostgreSQL,Official Docs,PostgreSQL Documentation,1
+HTML,YouTube,HTML Full Course,0
+HTML,Official Docs,HTML Documentation,1
+CSS,YouTube,CSS Full Course,0
+CSS,Official Docs,CSS Documentation,1
+React,YouTube,React Full Course,0
+React,Official Docs,React Documentation,1
+Node.js,YouTube,Node.js Full Course,0
+Node.js,Official Docs,Node.js Documentation,1
+Express.js,YouTube,Express.js Full Course,0
+Express.js,Official Docs,Express.js Documentation,1
+Django,YouTube,Django Full Course,0
+Django,Official Docs,Django Documentation,1
+Flask,YouTube,Flask Full Course,0
+Flask,Official Docs,Flask Documentation,1
+Git,YouTube,Git Full Course,0
+Git,Official Docs,Git Documentation,1
+GitHub,YouTube,GitHub Full Course,0
+GitHub,Official Docs,GitHub Documentation,1
+Docker,YouTube,Docker Full Course,0
+Docker,Official Docs,Docker Documentation,1
+Kubernetes,YouTube,Kubernetes Full Course,0
+Kubernetes,Official Docs,Kubernetes Documentation,1
+AWS,YouTube,AWS Full Course,0
+AWS,Official Docs,AWS Documentation,1
+Azure,YouTube,Azure Full Course,0
+Azure,Official Docs,Azure Documentation,1
+GCP,YouTube,GCP Full Course,0
+GCP,Official Docs,GCP Documentation,1
+Linux,YouTube,Linux Full Course,0
+Linux,Official Docs,Linux Documentation,1
+Bash,YouTube,Bash Full Course,0
+Bash,Official Docs,Bash Documentation,1
+Machine Learning,YouTube,Machine Learning Full Course,0
+Machine Learning,Official Docs,Machine Learning Documentation,1
+Deep Learning,YouTube,Deep Learning Full Course,0
+Deep Learning,Official Docs,Deep Learning Documentation,1
+NLP,YouTube,NLP Full Course,0
+NLP,Official Docs,NLP Documentation,1
+Computer Vision,YouTube,Computer Vision Full Course,0
+Computer Vision,Official Docs,Computer Vision Documentation,1
+TensorFlow,YouTube,TensorFlow Full Course,0
+TensorFlow,Official Docs,TensorFlow Documentation,1
+PyTorch,YouTube,PyTorch Full Course,0
+PyTorch,Official Docs,PyTorch Documentation,1
+Scikit-learn,YouTube,Scikit-learn Full Course,0
+Scikit-learn,Official Docs,Scikit-learn Documentation,1
+Pandas,YouTube,Pandas Full Course,0
+Pandas,Official Docs,Pandas Documentation,1
+NumPy,YouTube,NumPy Full Course,0
+NumPy,Official Docs,NumPy Documentation,1
+Matplotlib,YouTube,Matplotlib Full Course,0
+Matplotlib,Official Docs,Matplotlib Documentation,1
+Seaborn,YouTube,Seaborn Full Course,0
+Seaborn,Official Docs,Seaborn Documentation,1
+Power BI,YouTube,Power BI Full Course,0
+Power BI,Official Docs,Power BI Documentation,1
+Excel,YouTube,Excel Full Course,0
+Excel,Official Docs,Excel Documentation,1
+Data Analysis,YouTube,Data Analysis Full Course,0
+Data Analysis,Official Docs,Data Analysis Documentation,1
+DSA,YouTube,DSA Full Course,0
+DSA,Official Docs,DSA Documentation,1
+OOP,YouTube,OOP Full Course,0
+OOP,Official Docs,OOP Documentation,1
+System Design,YouTube,System Design Full Course,0
+System Design,Official Docs,System Design Documentation,1
+Operating Systems,YouTube,Operating Systems Full Course,0
+Operating Systems,Official Docs,Operating Systems Documentation,1
+DBMS,YouTube,DBMS Full Course,0
+DBMS,Official Docs,DBMS Documentation,1
+Computer Networks,YouTube,Computer Networks Full Course,0
+Computer Networks,Official Docs,Computer Networks Documentation,1
+Cyber Security,YouTube,Cyber Security Full Course,0
+Cyber Security,Official Docs,Cyber Security Documentation,1
+Android,YouTube,Android Full Course,0
+Android,Official Docs,Android Documentation,1
+Kotlin,YouTube,Kotlin Full Course,0
+Kotlin,Official Docs,Kotlin Documentation,1
+Communication,YouTube,Communication Full Course,0
+Communication,Official Docs,Communication Documentation,1
+Problem Solving,YouTube,Problem Solving Full Course,0
+Problem Solving,Official Docs,Problem Solving Documentation,1

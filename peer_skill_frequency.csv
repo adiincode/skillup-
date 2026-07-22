@@ -1,0 +1,51 @@
+skill,peer_frequency
+AWS,21
+Android,16
+Azure,21
+Bash,19
+C,11
+C++,18
+CSS,22
+Communication,23
+Computer Networks,14
+Computer Vision,18
+Cyber Security,22
+DBMS,24
+DSA,18
+Data Analysis,15
+Deep Learning,20
+Django,20
+Docker,19
+Excel,21
+Express.js,18
+Flask,19
+GCP,11
+Git,16
+GitHub,21
+HTML,22
+Java,11
+JavaScript,19
+Kotlin,15
+Kubernetes,16
+Linux,15
+Machine Learning,18
+Matplotlib,16
+MongoDB,17
+MySQL,27
+NLP,19
+Node.js,17
+NumPy,21
+OOP,19
+Operating Systems,16
+Pandas,16
+PostgreSQL,22
+Power BI,16
+Problem Solving,18
+PyTorch,19
+Python,17
+React,14
+SQL,20
+Scikit-learn,19
+Seaborn,19
+System Design,18
+TensorFlow,17
