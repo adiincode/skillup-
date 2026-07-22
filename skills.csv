@@ -1,0 +1,51 @@
+skill_id,skill_name,category
+1,Python,Programming
+2,Java,Programming
+3,C++,Programming
+4,C,Programming
+5,JavaScript,Programming
+6,SQL,Database
+7,MongoDB,Database
+8,MySQL,Database
+9,PostgreSQL,Database
+10,HTML,Web
+11,CSS,Web
+12,React,Web
+13,Node.js,Web
+14,Express.js,Web
+15,Django,Backend
+16,Flask,Backend
+17,Git,Tools
+18,GitHub,Tools
+19,Docker,DevOps
+20,Kubernetes,DevOps
+21,AWS,Cloud
+22,Azure,Cloud
+23,GCP,Cloud
+24,Linux,OS
+25,Bash,OS
+26,Machine Learning,AI
+27,Deep Learning,AI
+28,NLP,AI
+29,Computer Vision,AI
+30,TensorFlow,AI
+31,PyTorch,AI
+32,Scikit-learn,AI
+33,Pandas,Data
+34,NumPy,Data
+35,Matplotlib,Data
+36,Seaborn,Data
+37,Power BI,Analytics
+38,Excel,Analytics
+39,Data Analysis,Analytics
+40,DSA,Core
+41,OOP,Core
+42,System Design,Core
+43,Operating Systems,Core
+44,DBMS,Core
+45,Computer Networks,Core
+46,Cyber Security,Security
+47,Android,Mobile
+48,Kotlin,Mobile
+49,Communication,Soft Skill
+50,Problem Solving,Soft Skill

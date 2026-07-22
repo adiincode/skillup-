@@ -1,0 +1,1001 @@
+college,branch,year,skill
+NIT Surat,AIML,4,MySQL
+IIT Kanpur,CSE,3,GitHub
+IIIT Lucknow,ECE,2,Scikit-learn
+IIIT Lucknow,AIML,4,Pandas
+NIT Trichy,CSE,3,Node.js
+NIT Surat,ECE,1,C
+AKGEC,AIML,1,HTML
+IIIT Lucknow,ECE,3,Kotlin
+IIIT Lucknow,ECE,3,Scikit-learn
+NIT Surat,CSE,4,Operating Systems
+IIT Kanpur,AIML,3,AWS
+NIT Trichy,AIML,4,Azure
+RRGI Lucknow,ECE,1,HTML
+RRGI Lucknow,CSE,1,Pandas
+AKGEC,AIML,3,CSS
+NIT Surat,ECE,1,Scikit-learn
+IIT Kanpur,AIML,3,Communication
+IIT Kanpur,CSE,4,MongoDB
+IIIT Lucknow,IT,3,C++
+IIT Kanpur,ECE,2,DSA
+IIT Kanpur,AIML,1,NLP
+IIT Kanpur,CSE,4,Kotlin
+RRGI Lucknow,AIML,1,Bash
+IIT Kanpur,AIML,3,SQL
+NIT Surat,ECE,3,Express.js
+NIT Trichy,AIML,3,Express.js
+AKGEC,CSE,4,Express.js
+RRGI Lucknow,ECE,3,JavaScript
+NIT Trichy,AIML,1,AWS
+RRGI Lucknow,IT,3,PyTorch
+NIT Trichy,AIML,3,AWS
+NIT Surat,AIML,1,Python
+IIT Kanpur,IT,1,Android
+RRGI Lucknow,IT,4,Operating Systems
+IIIT Lucknow,CSE,2,System Design
+IIT Kanpur,ECE,1,Cyber Security
+NIT Surat,ECE,4,Azure
+AKGEC,IT,2,Flask
+NIT Trichy,IT,2,MySQL
+IIT Kanpur,IT,3,Django
+NIT Surat,CSE,2,Deep Learning
+IIT Kanpur,IT,4,Deep Learning
+IIIT Lucknow,ECE,4,Computer Networks
+NIT Trichy,AIML,2,Linux
+IIIT Lucknow,IT,1,Excel
+NIT Surat,IT,2,Flask
+AKGEC,CSE,1,Python
+NIT Trichy,ECE,2,Azure
+IIT Kanpur,IT,2,PyTorch
+NIT Trichy,IT,3,Python
+IIIT Lucknow,ECE,4,JavaScript
+NIT Surat,ECE,3,System Design
+AKGEC,AIML,1,DBMS
+AKGEC,AIML,3,Python
+NIT Surat,IT,4,Git
+AKGEC,AIML,4,MySQL
+IIIT Lucknow,AIML,1,MySQL
+IIT Kanpur,ECE,2,C++
+IIIT Lucknow,IT,2,NLP
+NIT Trichy,ECE,1,JavaScript
+AKGEC,AIML,4,CSS
+AKGEC,ECE,4,React
+IIIT Lucknow,IT,2,Linux
+NIT Surat,CSE,4,Kotlin
+NIT Surat,IT,2,Seaborn
+IIT Kanpur,IT,4,C
+NIT Surat,AIML,2,Computer Vision
+NIT Surat,AIML,2,System Design
+IIT Kanpur,CSE,3,Cyber Security
+NIT Trichy,IT,3,Azure
+RRGI Lucknow,IT,4,Data Analysis
+RRGI Lucknow,AIML,2,Android
+RRGI Lucknow,ECE,4,Docker
+NIT Surat,CSE,2,NumPy
+NIT Trichy,AIML,2,Operating Systems
+IIIT Lucknow,CSE,3,Seaborn
+RRGI Lucknow,CSE,1,Excel
+NIT Surat,ECE,2,DBMS
+IIT Kanpur,IT,2,Cyber Security
+IIT Kanpur,CSE,4,Bash
+IIIT Lucknow,ECE,2,MySQL
+RRGI Lucknow,ECE,3,HTML
+AKGEC,ECE,4,Communication
+IIT Kanpur,CSE,2,Communication
+RRGI Lucknow,CSE,4,Node.js
+RRGI Lucknow,CSE,2,Bash
+RRGI Lucknow,CSE,4,Kubernetes
+RRGI Lucknow,CSE,4,OOP
+AKGEC,CSE,3,DBMS
+RRGI Lucknow,ECE,4,DBMS
+IIT Kanpur,CSE,2,Cyber Security
+AKGEC,CSE,2,Excel
+IIIT Lucknow,IT,4,Node.js
+NIT Trichy,ECE,3,Machine Learning
+RRGI Lucknow,AIML,3,Java
+AKGEC,AIML,4,JavaScript
+AKGEC,AIML,3,AWS
+IIIT Lucknow,IT,2,Kotlin
+RRGI Lucknow,ECE,3,Azure
+RRGI Lucknow,AIML,2,MySQL
+AKGEC,CSE,2,C++
+AKGEC,IT,1,React
+NIT Trichy,IT,4,Kubernetes
+RRGI Lucknow,IT,4,Bash
+IIIT Lucknow,ECE,4,Flask
+NIT Surat,IT,3,Azure
+NIT Trichy,ECE,4,JavaScript
+IIT Kanpur,CSE,2,Flask
+IIT Kanpur,AIML,3,Computer Networks
+RRGI Lucknow,AIML,1,NumPy
+IIIT Lucknow,ECE,1,Deep Learning
+NIT Trichy,CSE,1,C++
+RRGI Lucknow,IT,1,Matplotlib
+RRGI Lucknow,IT,2,OOP
+IIIT Lucknow,IT,4,Git
+RRGI Lucknow,CSE,3,GCP
+IIT Kanpur,ECE,3,MySQL
+NIT Surat,ECE,3,DSA
+IIIT Lucknow,ECE,1,Django
+NIT Surat,AIML,2,JavaScript
+NIT Surat,ECE,1,Azure
+IIIT Lucknow,AIML,1,NLP
+AKGEC,IT,2,Scikit-learn
+AKGEC,IT,2,Machine Learning
+IIT Kanpur,AIML,4,Cyber Security
+RRGI Lucknow,ECE,4,CSS
+AKGEC,IT,2,NLP
+IIIT Lucknow,ECE,3,Power BI
+NIT Surat,ECE,3,Excel
+NIT Surat,CSE,2,MySQL
+IIIT Lucknow,ECE,4,Power BI
+NIT Surat,CSE,4,Cyber Security
+IIT Kanpur,AIML,4,Problem Solving
+RRGI Lucknow,AIML,4,Android
+NIT Surat,IT,2,HTML
+IIIT Lucknow,IT,1,PyTorch
+IIT Kanpur,IT,1,Cyber Security
+RRGI Lucknow,AIML,2,Docker
+RRGI Lucknow,CSE,3,Communication
+IIIT Lucknow,AIML,1,GitHub
+RRGI Lucknow,CSE,1,Flask
+AKGEC,IT,1,NumPy
+NIT Surat,IT,2,HTML
+RRGI Lucknow,IT,4,Computer Networks
+RRGI Lucknow,ECE,4,Express.js
+NIT Trichy,IT,3,DSA
+NIT Trichy,CSE,2,React
+RRGI Lucknow,IT,2,Python
+IIIT Lucknow,AIML,2,GitHub
+IIIT Lucknow,IT,4,MySQL
+RRGI Lucknow,AIML,4,Problem Solving
+AKGEC,CSE,3,Communication
+RRGI Lucknow,AIML,4,Communication
+NIT Trichy,CSE,4,Power BI
+RRGI Lucknow,ECE,3,Git
+AKGEC,IT,3,GitHub
+IIIT Lucknow,IT,2,GitHub
+NIT Surat,AIML,1,GCP
+RRGI Lucknow,CSE,3,DBMS
+IIIT Lucknow,IT,3,Docker
+NIT Trichy,ECE,4,SQL
+NIT Surat,ECE,1,C
+IIT Kanpur,IT,4,MongoDB
+IIIT Lucknow,CSE,3,NumPy
+AKGEC,ECE,4,MySQL
+IIIT Lucknow,IT,4,Computer Vision
+RRGI Lucknow,CSE,2,Machine Learning
+NIT Trichy,ECE,1,Data Analysis
+IIIT Lucknow,CSE,4,Java
+IIIT Lucknow,CSE,1,Cyber Security
+IIT Kanpur,IT,3,JavaScript
+IIT Kanpur,CSE,1,MongoDB
+RRGI Lucknow,AIML,3,Git
+IIIT Lucknow,ECE,1,Bash
+NIT Surat,AIML,2,NumPy
+AKGEC,IT,2,MySQL
+NIT Surat,ECE,1,Linux
+NIT Trichy,CSE,1,Matplotlib
+AKGEC,ECE,4,TensorFlow
+NIT Surat,CSE,3,Python
+NIT Trichy,ECE,2,Flask
+NIT Surat,CSE,1,MySQL
+RRGI Lucknow,IT,3,Express.js
+RRGI Lucknow,ECE,2,Communication
+RRGI Lucknow,AIML,2,MongoDB
+RRGI Lucknow,IT,3,C++
+IIT Kanpur,IT,3,Scikit-learn
+NIT Surat,ECE,1,Matplotlib
+AKGEC,AIML,1,Seaborn
+IIIT Lucknow,AIML,4,Problem Solving
+IIT Kanpur,ECE,4,Linux
+RRGI Lucknow,ECE,1,OOP
+RRGI Lucknow,ECE,1,Excel
+IIIT Lucknow,IT,4,Pandas
+AKGEC,ECE,1,Problem Solving
+IIIT Lucknow,AIML,3,Cyber Security
+IIIT Lucknow,AIML,3,Pandas
+NIT Trichy,IT,1,C
+RRGI Lucknow,IT,2,Python
+NIT Surat,IT,4,NLP
+AKGEC,ECE,1,Kubernetes
+NIT Surat,ECE,2,React
+RRGI Lucknow,CSE,4,HTML
+NIT Trichy,IT,4,HTML
+NIT Surat,IT,3,Django
+AKGEC,CSE,1,Django
+NIT Surat,AIML,2,OOP
+RRGI Lucknow,CSE,4,MongoDB
+RRGI Lucknow,AIML,1,C++
+NIT Surat,ECE,1,Django
+IIIT Lucknow,ECE,2,PostgreSQL
+NIT Surat,AIML,2,Linux
+NIT Surat,AIML,3,Problem Solving
+IIIT Lucknow,AIML,3,C++
+IIT Kanpur,AIML,3,Azure
+IIIT Lucknow,CSE,1,Android
+AKGEC,ECE,3,DBMS
+NIT Trichy,CSE,2,Android
+NIT Surat,AIML,1,TensorFlow
+RRGI Lucknow,IT,4,MySQL
+NIT Trichy,ECE,1,HTML
+AKGEC,AIML,2,Linux
+IIIT Lucknow,AIML,4,Azure
+AKGEC,ECE,3,Scikit-learn
+IIIT Lucknow,ECE,1,CSS
+NIT Surat,CSE,4,Android
+IIT Kanpur,CSE,3,Excel
+RRGI Lucknow,AIML,3,System Design
+NIT Surat,CSE,3,Excel
+IIIT Lucknow,IT,2,NumPy
+RRGI Lucknow,ECE,1,SQL
+RRGI Lucknow,AIML,1,Node.js
+RRGI Lucknow,IT,3,AWS
+IIIT Lucknow,CSE,2,Android
+IIIT Lucknow,ECE,1,HTML
+RRGI Lucknow,CSE,2,DBMS
+IIT Kanpur,AIML,2,Problem Solving
+RRGI Lucknow,IT,1,React
+RRGI Lucknow,CSE,3,Docker
+IIIT Lucknow,IT,3,Node.js
+IIT Kanpur,CSE,1,Computer Networks
+NIT Trichy,AIML,2,System Design
+IIIT Lucknow,IT,1,PostgreSQL
+NIT Surat,CSE,1,HTML
+RRGI Lucknow,AIML,4,Git
+RRGI Lucknow,AIML,3,PostgreSQL
+IIIT Lucknow,ECE,2,HTML
+NIT Surat,CSE,3,PostgreSQL
+IIIT Lucknow,IT,1,Computer Vision
+IIT Kanpur,IT,1,OOP
+AKGEC,IT,1,Problem Solving
+IIIT Lucknow,AIML,1,Python
+AKGEC,ECE,4,Docker
+AKGEC,AIML,4,Azure
+RRGI Lucknow,AIML,2,GitHub
+RRGI Lucknow,AIML,1,Cyber Security
+IIT Kanpur,CSE,4,System Design
+IIIT Lucknow,IT,4,Kotlin
+AKGEC,AIML,1,Linux
+IIIT Lucknow,IT,4,Power BI
+AKGEC,AIML,4,Django
+RRGI Lucknow,AIML,1,Communication
+RRGI Lucknow,CSE,4,Git
+NIT Trichy,CSE,2,Operating Systems
+IIT Kanpur,AIML,4,Seaborn
+AKGEC,IT,1,Python
+IIT Kanpur,ECE,3,DSA
+NIT Trichy,ECE,2,JavaScript
+RRGI Lucknow,CSE,4,NLP
+AKGEC,IT,4,Git
+IIIT Lucknow,IT,2,MongoDB
+IIT Kanpur,IT,1,NLP
+AKGEC,AIML,3,Computer Vision
+NIT Surat,CSE,1,Linux
+IIIT Lucknow,IT,4,CSS
+NIT Surat,ECE,3,PyTorch
+AKGEC,CSE,4,System Design
+RRGI Lucknow,IT,1,DBMS
+IIT Kanpur,CSE,3,DBMS
+IIT Kanpur,ECE,2,SQL
+NIT Surat,IT,1,Kubernetes
+IIT Kanpur,IT,1,Machine Learning
+RRGI Lucknow,ECE,1,DBMS
+NIT Trichy,ECE,4,Node.js
+NIT Trichy,CSE,4,GCP
+IIIT Lucknow,AIML,1,Flask
+NIT Surat,AIML,4,Node.js
+IIIT Lucknow,ECE,3,TensorFlow
+AKGEC,AIML,3,Problem Solving
+AKGEC,AIML,2,MongoDB
+IIIT Lucknow,ECE,3,Power BI
+IIT Kanpur,CSE,3,OOP
+RRGI Lucknow,IT,4,Matplotlib
+NIT Surat,ECE,2,Excel
+IIT Kanpur,IT,2,Computer Vision
+IIIT Lucknow,ECE,3,Seaborn
+IIIT Lucknow,CSE,4,DBMS
+IIIT Lucknow,IT,3,SQL
+NIT Surat,AIML,4,Android
+RRGI Lucknow,CSE,4,Azure
+AKGEC,ECE,2,Express.js
+NIT Trichy,ECE,2,Docker
+IIIT Lucknow,ECE,3,Deep Learning
+IIIT Lucknow,CSE,4,System Design
+AKGEC,ECE,3,Excel
+AKGEC,ECE,4,MongoDB
+IIIT Lucknow,CSE,4,Seaborn
+RRGI Lucknow,CSE,2,Bash
+AKGEC,ECE,4,Express.js
+IIT Kanpur,AIML,1,CSS
+AKGEC,AIML,2,JavaScript
+NIT Surat,ECE,2,System Design
+NIT Surat,ECE,1,Kotlin
+NIT Trichy,AIML,4,Express.js
+NIT Surat,CSE,3,Django
+AKGEC,IT,3,Power BI
+RRGI Lucknow,CSE,4,Problem Solving
+IIT Kanpur,ECE,1,Seaborn
+IIT Kanpur,ECE,2,Computer Vision
+IIT Kanpur,ECE,2,Communication
+NIT Surat,AIML,3,Machine Learning
+IIIT Lucknow,AIML,2,Docker
+RRGI Lucknow,AIML,4,DSA
+NIT Surat,AIML,1,TensorFlow
+AKGEC,AIML,4,GitHub
+NIT Surat,AIML,3,DBMS
+IIIT Lucknow,CSE,2,HTML
+RRGI Lucknow,AIML,1,NLP
+IIT Kanpur,ECE,1,PostgreSQL
+IIIT Lucknow,IT,2,Node.js
+NIT Surat,IT,3,Deep Learning
+NIT Trichy,AIML,1,Git
+IIT Kanpur,CSE,3,GitHub
+NIT Trichy,AIML,2,MongoDB
+NIT Trichy,ECE,3,Pandas
+AKGEC,AIML,4,Flask
+RRGI Lucknow,ECE,3,Django
+AKGEC,ECE,4,CSS
+NIT Trichy,CSE,1,PyTorch
+IIT Kanpur,AIML,1,DBMS
+AKGEC,IT,2,PostgreSQL
+RRGI Lucknow,ECE,1,OOP
+NIT Surat,ECE,3,Matplotlib
+RRGI Lucknow,CSE,4,Matplotlib
+AKGEC,ECE,4,GCP
+AKGEC,ECE,1,Communication
+IIT Kanpur,AIML,1,Scikit-learn
+NIT Surat,CSE,1,Operating Systems
+NIT Trichy,IT,2,JavaScript
+AKGEC,CSE,1,Kubernetes
+IIIT Lucknow,CSE,2,Excel
+NIT Surat,CSE,2,TensorFlow
+AKGEC,IT,3,Node.js
+NIT Surat,ECE,1,C
+AKGEC,CSE,2,Express.js
+NIT Trichy,CSE,2,Django
+IIIT Lucknow,AIML,4,Node.js
+NIT Trichy,ECE,2,GitHub
+RRGI Lucknow,ECE,4,Azure
+NIT Trichy,IT,2,DBMS
+NIT Trichy,ECE,3,Django
+IIIT Lucknow,AIML,2,OOP
+AKGEC,AIML,1,MySQL
+RRGI Lucknow,AIML,4,GCP
+IIT Kanpur,CSE,2,Communication
+IIIT Lucknow,ECE,1,PostgreSQL
+NIT Surat,AIML,2,CSS
+IIIT Lucknow,IT,3,DSA
+AKGEC,ECE,2,TensorFlow
+AKGEC,CSE,2,Excel
+IIIT Lucknow,ECE,2,Linux
+RRGI Lucknow,AIML,1,Python
+AKGEC,IT,1,Django
+IIT Kanpur,CSE,1,Flask
+NIT Trichy,IT,1,Flask
+IIT Kanpur,ECE,4,React
+NIT Trichy,ECE,1,Express.js
+IIIT Lucknow,ECE,4,AWS
+RRGI Lucknow,CSE,2,NLP
+NIT Trichy,AIML,3,AWS
+IIIT Lucknow,ECE,3,DSA
+RRGI Lucknow,CSE,2,Computer Networks
+NIT Trichy,AIML,2,Excel
+AKGEC,CSE,1,NumPy
+IIT Kanpur,IT,3,OOP
+IIIT Lucknow,AIML,4,Flask
+IIIT Lucknow,AIML,3,Scikit-learn
+IIIT Lucknow,ECE,4,Seaborn
+NIT Surat,AIML,1,Cyber Security
+NIT Surat,AIML,4,Pandas
+IIT Kanpur,ECE,1,Docker
+NIT Surat,ECE,1,CSS
+NIT Surat,CSE,1,Cyber Security
+AKGEC,IT,1,Data Analysis
+RRGI Lucknow,IT,2,Deep Learning
+AKGEC,AIML,1,Docker
+IIT Kanpur,ECE,4,DSA
+RRGI Lucknow,IT,3,Scikit-learn
+NIT Surat,CSE,2,Excel
+IIIT Lucknow,CSE,3,Kubernetes
+IIIT Lucknow,AIML,4,Azure
+NIT Surat,CSE,4,Scikit-learn
+IIIT Lucknow,ECE,3,C++
+RRGI Lucknow,CSE,2,PostgreSQL
+RRGI Lucknow,ECE,3,Cyber Security
+NIT Trichy,CSE,4,C++
+AKGEC,ECE,1,GitHub
+RRGI Lucknow,AIML,1,Python
+IIT Kanpur,CSE,1,Cyber Security
+IIT Kanpur,IT,4,NLP
+NIT Surat,CSE,1,NLP
+RRGI Lucknow,IT,2,Seaborn
+NIT Surat,ECE,1,Machine Learning
+NIT Trichy,IT,2,Problem Solving
+NIT Trichy,AIML,3,Bash
+NIT Surat,IT,4,PostgreSQL
+IIT Kanpur,ECE,4,Computer Vision
+RRGI Lucknow,ECE,2,Kubernetes
+IIIT Lucknow,IT,1,Deep Learning
+IIIT Lucknow,AIML,2,PostgreSQL
+AKGEC,CSE,4,Java
+NIT Trichy,AIML,2,DBMS
+AKGEC,ECE,4,MySQL
+AKGEC,ECE,2,MongoDB
+NIT Trichy,ECE,4,Pandas
+IIIT Lucknow,IT,2,Power BI
+AKGEC,ECE,2,Docker
+IIIT Lucknow,AIML,3,React
+RRGI Lucknow,IT,2,NumPy
+RRGI Lucknow,AIML,1,DBMS
+IIT Kanpur,IT,3,Computer Networks
+RRGI Lucknow,CSE,2,Scikit-learn
+IIT Kanpur,ECE,2,Pandas
+IIT Kanpur,AIML,2,Machine Learning
+IIT Kanpur,AIML,4,Seaborn
+AKGEC,CSE,1,Express.js
+IIT Kanpur,ECE,1,MySQL
+NIT Trichy,CSE,3,Problem Solving
+RRGI Lucknow,CSE,3,Flask
+NIT Surat,CSE,4,Computer Networks
+IIT Kanpur,AIML,3,Computer Vision
+NIT Surat,IT,1,AWS
+NIT Trichy,CSE,1,PostgreSQL
+IIIT Lucknow,ECE,4,Java
+NIT Surat,ECE,4,MySQL
+AKGEC,IT,4,Flask
+IIIT Lucknow,ECE,2,React
+AKGEC,ECE,3,Computer Vision
+RRGI Lucknow,CSE,1,OOP
+NIT Surat,AIML,1,GitHub
+IIT Kanpur,ECE,1,PyTorch
+IIIT Lucknow,CSE,3,MySQL
+NIT Surat,CSE,2,C
+NIT Surat,AIML,1,Data Analysis
+RRGI Lucknow,CSE,1,Deep Learning
+NIT Surat,AIML,3,NumPy
+RRGI Lucknow,ECE,1,Docker
+AKGEC,CSE,1,Android
+NIT Surat,ECE,1,MySQL
+RRGI Lucknow,CSE,3,Linux
+IIIT Lucknow,CSE,4,GitHub
+NIT Trichy,ECE,2,JavaScript
+AKGEC,IT,4,System Design
+NIT Trichy,AIML,4,Python
+NIT Surat,ECE,2,TensorFlow
+IIT Kanpur,IT,4,NLP
+IIT Kanpur,AIML,2,PostgreSQL
+IIIT Lucknow,CSE,2,HTML
+IIIT Lucknow,CSE,3,DSA
+IIT Kanpur,AIML,2,Computer Networks
+IIT Kanpur,IT,3,Express.js
+AKGEC,CSE,4,Matplotlib
+IIT Kanpur,IT,3,SQL
+NIT Trichy,IT,4,Matplotlib
+AKGEC,IT,2,Communication
+NIT Surat,CSE,3,Data Analysis
+AKGEC,IT,1,Excel
+NIT Surat,IT,1,OOP
+NIT Trichy,ECE,3,Data Analysis
+RRGI Lucknow,AIML,4,Deep Learning
+IIIT Lucknow,AIML,2,C
+RRGI Lucknow,ECE,3,DSA
+IIIT Lucknow,ECE,2,Excel
+NIT Surat,AIML,2,Bash
+IIT Kanpur,ECE,1,PostgreSQL
+NIT Surat,IT,2,Android
+NIT Trichy,ECE,3,Scikit-learn
+AKGEC,IT,1,Bash
+NIT Trichy,CSE,1,Pandas
+RRGI Lucknow,ECE,3,HTML
+AKGEC,CSE,1,Computer Vision
+RRGI Lucknow,IT,4,PostgreSQL
+NIT Trichy,CSE,3,JavaScript
+RRGI Lucknow,IT,4,TensorFlow
+IIT Kanpur,ECE,4,DBMS
+AKGEC,ECE,2,Pandas
+IIT Kanpur,IT,3,Node.js
+IIIT Lucknow,ECE,3,CSS
+RRGI Lucknow,ECE,4,Kotlin
+IIT Kanpur,CSE,1,NLP
+IIIT Lucknow,IT,3,System Design
+NIT Surat,ECE,4,HTML
+NIT Surat,CSE,4,AWS
+AKGEC,AIML,3,DSA
+IIIT Lucknow,IT,1,Django
+AKGEC,CSE,2,PyTorch
+AKGEC,CSE,4,Operating Systems
+AKGEC,CSE,1,MongoDB
+IIIT Lucknow,AIML,3,Flask
+NIT Surat,ECE,3,AWS
+IIT Kanpur,AIML,4,PostgreSQL
+NIT Surat,AIML,2,Pandas
+IIIT Lucknow,CSE,3,Operating Systems
+NIT Surat,ECE,2,CSS
+IIT Kanpur,CSE,3,PyTorch
+RRGI Lucknow,CSE,1,Kotlin
+NIT Trichy,CSE,2,DBMS
+NIT Trichy,ECE,2,Cyber Security
+IIIT Lucknow,AIML,4,Kubernetes
+RRGI Lucknow,CSE,4,Operating Systems
+AKGEC,CSE,3,Azure
+IIT Kanpur,IT,2,Kotlin
+NIT Surat,CSE,4,Seaborn
+NIT Trichy,AIML,1,Communication
+AKGEC,CSE,3,Bash
+NIT Surat,CSE,4,Scikit-learn
+RRGI Lucknow,IT,3,DBMS
+NIT Trichy,AIML,1,NLP
+NIT Surat,IT,3,Docker
+RRGI Lucknow,IT,2,Computer Networks
+NIT Surat,ECE,2,OOP
+AKGEC,ECE,4,MongoDB
+NIT Trichy,CSE,4,NumPy
+NIT Surat,CSE,3,Machine Learning
+IIT Kanpur,AIML,1,Cyber Security
+IIIT Lucknow,IT,1,MySQL
+IIIT Lucknow,CSE,1,PyTorch
+RRGI Lucknow,IT,3,NLP
+AKGEC,AIML,1,MySQL
+NIT Trichy,CSE,1,Deep Learning
+NIT Trichy,CSE,2,NLP
+NIT Trichy,CSE,4,Communication
+IIT Kanpur,ECE,2,PyTorch
+NIT Surat,IT,1,TensorFlow
+RRGI Lucknow,AIML,3,Android
+NIT Surat,ECE,4,Bash
+NIT Trichy,CSE,1,Operating Systems
+NIT Trichy,ECE,2,CSS
+RRGI Lucknow,AIML,3,JavaScript
+IIT Kanpur,CSE,3,Data Analysis
+RRGI Lucknow,AIML,1,JavaScript
+IIIT Lucknow,CSE,1,JavaScript
+AKGEC,AIML,2,DSA
+IIIT Lucknow,CSE,4,Kubernetes
+RRGI Lucknow,CSE,2,TensorFlow
+IIT Kanpur,IT,4,JavaScript
+IIT Kanpur,ECE,3,MongoDB
+NIT Surat,CSE,1,MySQL
+IIT Kanpur,ECE,3,HTML
+IIT Kanpur,ECE,1,HTML
+NIT Trichy,CSE,4,MySQL
+NIT Trichy,ECE,1,Problem Solving
+RRGI Lucknow,IT,2,AWS
+NIT Trichy,IT,1,NumPy
+NIT Trichy,CSE,1,Bash
+NIT Trichy,CSE,2,MySQL
+NIT Surat,CSE,1,Communication
+IIT Kanpur,CSE,3,Machine Learning
+NIT Surat,ECE,3,Kubernetes
+RRGI Lucknow,AIML,4,Docker
+IIIT Lucknow,CSE,1,C
+NIT Surat,CSE,2,Data Analysis
+NIT Surat,ECE,3,Bash
+AKGEC,CSE,2,Kotlin
+IIT Kanpur,AIML,3,Power BI
+IIT Kanpur,ECE,4,CSS
+AKGEC,AIML,2,Problem Solving
+RRGI Lucknow,ECE,3,Communication
+IIT Kanpur,ECE,3,NLP
+AKGEC,IT,3,Django
+RRGI Lucknow,CSE,4,Kotlin
+NIT Trichy,IT,1,Node.js
+NIT Surat,CSE,1,HTML
+NIT Surat,AIML,2,Cyber Security
+RRGI Lucknow,IT,3,Docker
+IIT Kanpur,IT,2,Scikit-learn
+AKGEC,CSE,3,C++
+IIT Kanpur,AIML,1,Power BI
+IIT Kanpur,AIML,1,C++
+AKGEC,ECE,4,React
+NIT Trichy,AIML,1,Operating Systems
+AKGEC,IT,4,Java
+IIT Kanpur,ECE,2,Data Analysis
+IIT Kanpur,IT,3,Kotlin
+NIT Surat,ECE,3,Pandas
+AKGEC,ECE,3,Kubernetes
+AKGEC,CSE,3,CSS
+IIT Kanpur,AIML,3,Python
+NIT Trichy,ECE,3,DBMS
+IIIT Lucknow,CSE,3,PostgreSQL
+NIT Surat,IT,1,GitHub
+AKGEC,ECE,2,Computer Networks
+IIIT Lucknow,IT,2,DSA
+AKGEC,IT,4,Django
+IIIT Lucknow,AIML,2,NLP
+AKGEC,ECE,3,MongoDB
+RRGI Lucknow,AIML,3,Kubernetes
+RRGI Lucknow,CSE,3,GCP
+NIT Surat,AIML,3,Data Analysis
+AKGEC,ECE,2,CSS
+NIT Surat,CSE,2,Communication
+NIT Trichy,IT,4,Communication
+IIT Kanpur,ECE,3,Excel
+NIT Trichy,IT,3,CSS
+IIIT Lucknow,AIML,4,Operating Systems
+IIIT Lucknow,IT,1,C
+NIT Trichy,IT,2,Operating Systems
+NIT Surat,CSE,4,Python
+NIT Trichy,AIML,3,NumPy
+NIT Surat,ECE,2,TensorFlow
+NIT Trichy,AIML,2,C++
+IIT Kanpur,CSE,3,Django
+NIT Trichy,IT,3,Power BI
+IIT Kanpur,ECE,3,Scikit-learn
+NIT Trichy,AIML,4,Cyber Security
+IIIT Lucknow,AIML,1,SQL
+NIT Trichy,AIML,1,PostgreSQL
+AKGEC,IT,1,Android
+RRGI Lucknow,ECE,3,C++
+IIT Kanpur,ECE,3,Power BI
+AKGEC,AIML,4,CSS
+AKGEC,AIML,3,Matplotlib
+RRGI Lucknow,CSE,2,SQL
+AKGEC,AIML,4,JavaScript
+NIT Trichy,ECE,3,GitHub
+IIIT Lucknow,CSE,4,DSA
+NIT Trichy,IT,2,Flask
+IIIT Lucknow,IT,4,Bash
+IIT Kanpur,CSE,2,Computer Networks
+IIIT Lucknow,IT,1,TensorFlow
+AKGEC,AIML,3,CSS
+AKGEC,ECE,3,GitHub
+NIT Trichy,IT,3,DBMS
+NIT Surat,IT,2,TensorFlow
+IIIT Lucknow,IT,4,Python
+RRGI Lucknow,CSE,1,Git
+RRGI Lucknow,IT,2,System Design
+NIT Surat,IT,4,DSA
+RRGI Lucknow,ECE,3,CSS
+NIT Surat,ECE,1,Matplotlib
+IIIT Lucknow,ECE,1,C++
+RRGI Lucknow,AIML,2,Problem Solving
+NIT Surat,AIML,3,Deep Learning
+RRGI Lucknow,ECE,1,Java
+NIT Trichy,CSE,2,PostgreSQL
+NIT Trichy,IT,4,CSS
+RRGI Lucknow,ECE,3,NumPy
+NIT Surat,ECE,4,Bash
+NIT Surat,AIML,4,CSS
+IIT Kanpur,ECE,3,NLP
+IIIT Lucknow,CSE,2,Matplotlib
+NIT Surat,IT,2,Computer Networks
+IIIT Lucknow,CSE,1,Node.js
+RRGI Lucknow,IT,1,Data Analysis
+IIT Kanpur,ECE,3,Seaborn
+RRGI Lucknow,ECE,2,Operating Systems
+NIT Surat,ECE,4,Git
+IIIT Lucknow,CSE,1,TensorFlow
+AKGEC,CSE,1,DSA
+NIT Trichy,ECE,4,Computer Networks
+IIT Kanpur,ECE,1,Azure
+RRGI Lucknow,ECE,4,DBMS
+RRGI Lucknow,CSE,1,SQL
+AKGEC,AIML,2,Kotlin
+RRGI Lucknow,ECE,1,Pandas
+RRGI Lucknow,IT,4,GitHub
+IIIT Lucknow,CSE,1,PostgreSQL
+RRGI Lucknow,CSE,4,Android
+NIT Trichy,CSE,1,Java
+IIIT Lucknow,IT,1,OOP
+IIT Kanpur,IT,2,HTML
+IIIT Lucknow,IT,3,Node.js
+NIT Trichy,CSE,3,Express.js
+NIT Surat,CSE,2,Deep Learning
+NIT Trichy,CSE,2,Computer Vision
+AKGEC,AIML,1,Deep Learning
+NIT Surat,IT,4,Scikit-learn
+IIT Kanpur,CSE,2,Linux
+IIIT Lucknow,IT,1,GitHub
+IIIT Lucknow,CSE,4,Android
+IIIT Lucknow,CSE,3,JavaScript
+NIT Trichy,ECE,2,NumPy
+AKGEC,ECE,1,Problem Solving
+RRGI Lucknow,ECE,4,GCP
+NIT Surat,IT,4,Power BI
+AKGEC,AIML,4,PyTorch
+AKGEC,AIML,1,React
+RRGI Lucknow,ECE,1,MySQL
+RRGI Lucknow,AIML,1,PostgreSQL
+IIT Kanpur,ECE,2,AWS
+NIT Surat,IT,3,MongoDB
+RRGI Lucknow,IT,4,MongoDB
+NIT Trichy,IT,2,Java
+IIT Kanpur,AIML,3,SQL
+IIT Kanpur,AIML,4,Azure
+NIT Trichy,CSE,2,GitHub
+NIT Trichy,IT,2,Java
+NIT Trichy,IT,1,SQL
+NIT Trichy,CSE,4,HTML
+IIT Kanpur,AIML,1,Machine Learning
+NIT Trichy,AIML,2,Problem Solving
+RRGI Lucknow,ECE,3,GitHub
+NIT Surat,ECE,1,Git
+IIIT Lucknow,IT,3,React
+IIT Kanpur,CSE,2,Bash
+NIT Surat,ECE,2,PyTorch
+AKGEC,IT,3,Scikit-learn
+IIT Kanpur,IT,3,TensorFlow
+NIT Surat,CSE,4,NumPy
+AKGEC,CSE,4,PyTorch
+AKGEC,AIML,1,SQL
+AKGEC,AIML,4,Git
+AKGEC,ECE,3,PyTorch
+NIT Trichy,ECE,1,Django
+AKGEC,IT,4,Docker
+RRGI Lucknow,CSE,2,Deep Learning
+NIT Surat,ECE,1,NumPy
+AKGEC,AIML,2,DBMS
+AKGEC,AIML,2,System Design
+NIT Trichy,AIML,1,Computer Vision
+IIIT Lucknow,AIML,4,Machine Learning
+IIIT Lucknow,ECE,1,Computer Vision
+NIT Trichy,IT,1,Operating Systems
+RRGI Lucknow,IT,2,TensorFlow
+AKGEC,ECE,3,Seaborn
+NIT Surat,IT,4,Express.js
+AKGEC,AIML,4,Linux
+IIT Kanpur,ECE,3,Azure
+IIT Kanpur,IT,3,GitHub
+NIT Trichy,IT,4,System Design
+AKGEC,CSE,2,OOP
+NIT Surat,AIML,2,Seaborn
+IIIT Lucknow,AIML,4,SQL
+IIIT Lucknow,AIML,4,Seaborn
+IIIT Lucknow,IT,4,PyTorch
+AKGEC,ECE,2,Data Analysis
+RRGI Lucknow,AIML,4,Bash
+NIT Surat,AIML,1,Git
+IIT Kanpur,AIML,1,HTML
+AKGEC,CSE,3,GCP
+NIT Trichy,IT,4,Seaborn
+NIT Trichy,ECE,1,Seaborn
+AKGEC,CSE,2,Express.js
+NIT Trichy,AIML,4,MySQL
+NIT Trichy,ECE,1,NumPy
+RRGI Lucknow,IT,3,Computer Networks
+NIT Surat,IT,2,Data Analysis
+IIIT Lucknow,ECE,3,Kotlin
+RRGI Lucknow,IT,1,C
+IIT Kanpur,AIML,1,Node.js
+IIT Kanpur,IT,4,SQL
+IIIT Lucknow,AIML,4,Communication
+RRGI Lucknow,CSE,3,Cyber Security
+NIT Surat,CSE,4,Excel
+RRGI Lucknow,AIML,1,Flask
+NIT Trichy,ECE,2,Machine Learning
+IIIT Lucknow,IT,2,Android
+IIIT Lucknow,ECE,2,Power BI
+NIT Surat,ECE,3,MySQL
+RRGI Lucknow,CSE,1,Problem Solving
+NIT Surat,IT,2,Computer Networks
+NIT Trichy,ECE,4,Deep Learning
+NIT Surat,AIML,4,Power BI
+IIIT Lucknow,IT,3,React
+RRGI Lucknow,AIML,2,React
+AKGEC,CSE,4,NumPy
+NIT Trichy,AIML,4,CSS
+IIT Kanpur,AIML,2,Matplotlib
+AKGEC,AIML,2,Computer Vision
+RRGI Lucknow,AIML,3,Android
+IIIT Lucknow,ECE,3,Power BI
+IIT Kanpur,IT,3,Azure
+IIT Kanpur,ECE,3,Computer Vision
+IIIT Lucknow,IT,2,C++
+NIT Trichy,ECE,3,CSS
+NIT Surat,IT,2,OOP
+AKGEC,AIML,1,System Design
+AKGEC,CSE,2,Node.js
+NIT Surat,AIML,3,React
+NIT Surat,CSE,1,TensorFlow
+NIT Surat,CSE,3,Kubernetes
+AKGEC,AIML,3,Kotlin
+AKGEC,AIML,2,Linux
+NIT Trichy,CSE,1,AWS
+AKGEC,ECE,1,Machine Learning
+IIT Kanpur,CSE,1,Cyber Security
+NIT Surat,AIML,3,Computer Vision
+IIT Kanpur,IT,2,NumPy
+NIT Trichy,ECE,4,AWS
+RRGI Lucknow,AIML,3,Java
+NIT Trichy,IT,4,Python
+AKGEC,ECE,4,Linux
+NIT Surat,CSE,4,Kubernetes
+RRGI Lucknow,AIML,1,Node.js
+NIT Surat,CSE,3,Data Analysis
+NIT Trichy,CSE,3,GCP
+NIT Trichy,ECE,1,Matplotlib
+NIT Surat,CSE,4,Bash
+RRGI Lucknow,CSE,4,Express.js
+RRGI Lucknow,IT,1,Data Analysis
+NIT Surat,IT,2,Matplotlib
+NIT Surat,CSE,2,Java
+AKGEC,CSE,1,C++
+NIT Surat,IT,1,Azure
+IIT Kanpur,IT,2,DBMS
+IIIT Lucknow,IT,2,PostgreSQL
+RRGI Lucknow,AIML,1,Excel
+RRGI Lucknow,AIML,4,JavaScript
+IIT Kanpur,IT,1,PyTorch
+NIT Trichy,CSE,4,Express.js
+RRGI Lucknow,ECE,2,PyTorch
+RRGI Lucknow,IT,4,Django
+AKGEC,ECE,1,Bash
+NIT Surat,IT,1,HTML
+AKGEC,ECE,4,System Design
+NIT Surat,IT,1,AWS
+RRGI Lucknow,IT,3,NumPy
+NIT Trichy,AIML,2,Problem Solving
+NIT Trichy,ECE,4,GCP
+AKGEC,CSE,4,System Design
+RRGI Lucknow,IT,2,Computer Vision
+NIT Surat,AIML,2,Java
+NIT Surat,ECE,2,Machine Learning
+IIIT Lucknow,AIML,1,Deep Learning
+AKGEC,IT,3,AWS
+IIT Kanpur,ECE,1,PyTorch
+IIT Kanpur,AIML,1,AWS
+RRGI Lucknow,ECE,2,AWS
+IIIT Lucknow,ECE,4,Operating Systems
+RRGI Lucknow,IT,2,Problem Solving
+RRGI Lucknow,AIML,4,Flask
+NIT Trichy,AIML,2,Kotlin
+RRGI Lucknow,ECE,4,Machine Learning
+IIIT Lucknow,ECE,2,Excel
+NIT Surat,CSE,2,OOP
+RRGI Lucknow,AIML,4,React
+RRGI Lucknow,ECE,2,Cyber Security
+IIT Kanpur,IT,4,DSA
+NIT Surat,ECE,1,Deep Learning
+IIIT Lucknow,CSE,4,Bash
+AKGEC,ECE,4,Excel
+NIT Surat,ECE,1,Kotlin
+IIT Kanpur,AIML,1,Node.js
+IIT Kanpur,ECE,2,TensorFlow
+IIT Kanpur,IT,1,Node.js
+AKGEC,AIML,3,DBMS
+IIT Kanpur,CSE,3,SQL
+AKGEC,CSE,2,GCP
+NIT Trichy,CSE,4,MongoDB
+IIIT Lucknow,CSE,4,PyTorch
+NIT Trichy,IT,2,AWS
+NIT Trichy,IT,4,SQL
+NIT Surat,AIML,2,HTML
+RRGI Lucknow,AIML,3,Cyber Security
+IIT Kanpur,ECE,2,C
+AKGEC,CSE,1,Python
+IIIT Lucknow,CSE,4,C
+NIT Surat,AIML,3,DBMS
+NIT Surat,AIML,3,Scikit-learn
+RRGI Lucknow,CSE,1,Power BI
+IIT Kanpur,AIML,4,Linux
+AKGEC,ECE,3,C++
+IIT Kanpur,AIML,1,Git
+NIT Trichy,IT,4,MySQL
+IIIT Lucknow,CSE,2,C++
+NIT Surat,CSE,1,AWS
+AKGEC,IT,3,Matplotlib
+NIT Trichy,ECE,1,Deep Learning
+NIT Trichy,AIML,2,TensorFlow
+NIT Trichy,CSE,2,Excel
+NIT Surat,CSE,4,Bash
+IIIT Lucknow,CSE,1,TensorFlow
+NIT Trichy,ECE,1,Azure
+NIT Surat,AIML,1,Kubernetes
+NIT Trichy,AIML,1,C
+NIT Surat,AIML,2,Cyber Security
+IIT Kanpur,IT,4,Seaborn
+IIIT Lucknow,IT,3,Machine Learning
+IIT Kanpur,IT,1,PyTorch
+RRGI Lucknow,ECE,1,Git
+IIT Kanpur,ECE,1,Communication
+NIT Trichy,IT,2,Deep Learning
+AKGEC,IT,2,OOP
+IIT Kanpur,IT,2,Communication
+IIIT Lucknow,AIML,2,Deep Learning
+NIT Surat,CSE,4,Express.js
+IIT Kanpur,AIML,2,React
+NIT Trichy,ECE,3,JavaScript
+RRGI Lucknow,AIML,2,Seaborn
+IIIT Lucknow,CSE,1,Git
+AKGEC,ECE,1,Kubernetes
+NIT Trichy,ECE,2,GCP
+NIT Trichy,ECE,4,SQL
+AKGEC,AIML,3,Problem Solving
+RRGI Lucknow,IT,3,Matplotlib
+NIT Trichy,IT,2,OOP
+RRGI Lucknow,ECE,4,PyTorch
+RRGI Lucknow,CSE,4,Android
+NIT Surat,AIML,4,GitHub
+AKGEC,IT,2,Operating Systems
+IIT Kanpur,CSE,4,Scikit-learn
+AKGEC,CSE,4,Docker
+IIIT Lucknow,IT,2,HTML
+RRGI Lucknow,CSE,3,PostgreSQL
+NIT Surat,IT,1,Java
+AKGEC,AIML,1,System Design
+NIT Trichy,CSE,4,SQL
+IIT Kanpur,AIML,3,Deep Learning
+IIIT Lucknow,IT,4,Communication
+NIT Trichy,IT,4,NLP
+AKGEC,IT,2,MongoDB
+NIT Trichy,CSE,2,GitHub
+NIT Trichy,ECE,4,Pandas
+AKGEC,IT,2,Node.js
+NIT Surat,CSE,2,OOP
+NIT Surat,ECE,2,PyTorch
+RRGI Lucknow,CSE,1,Excel
+NIT Trichy,AIML,3,Power BI
+NIT Trichy,CSE,4,Data Analysis
+NIT Trichy,IT,3,Communication
+RRGI Lucknow,IT,1,MySQL
+NIT Trichy,IT,2,SQL
+AKGEC,CSE,3,Python
+NIT Surat,ECE,3,Python
+IIT Kanpur,IT,1,Django
+IIIT Lucknow,AIML,2,Deep Learning
+NIT Trichy,IT,1,Android
+IIIT Lucknow,IT,3,C++
+IIIT Lucknow,CSE,1,Bash
+IIIT Lucknow,IT,2,Docker
+NIT Trichy,ECE,2,Docker
+IIT Kanpur,IT,2,SQL
+NIT Trichy,CSE,4,C++
+RRGI Lucknow,AIML,3,Excel
+NIT Trichy,AIML,4,AWS
+AKGEC,AIML,3,Pandas
+NIT Trichy,CSE,1,Data Analysis
+IIIT Lucknow,ECE,1,Python
+IIT Kanpur,AIML,1,Pandas
+RRGI Lucknow,AIML,1,HTML
+NIT Trichy,CSE,1,HTML
+AKGEC,AIML,1,Machine Learning
+RRGI Lucknow,CSE,2,Matplotlib
+RRGI Lucknow,ECE,3,NumPy
+AKGEC,CSE,3,NumPy
+NIT Surat,ECE,1,Communication
+AKGEC,ECE,2,Kubernetes
+IIT Kanpur,ECE,1,SQL
+AKGEC,AIML,4,Computer Vision
+IIT Kanpur,CSE,2,Problem Solving
+NIT Trichy,IT,1,JavaScript
+AKGEC,IT,2,Power BI
+IIT Kanpur,AIML,1,Flask
+RRGI Lucknow,AIML,1,AWS
+AKGEC,AIML,3,NLP
+AKGEC,CSE,2,DSA
+IIIT Lucknow,CSE,2,MySQL
+NIT Trichy,ECE,1,OOP
+NIT Surat,CSE,1,Pandas
+AKGEC,CSE,2,DSA
+IIT Kanpur,AIML,4,System Design
+IIIT Lucknow,IT,4,OOP
+AKGEC,CSE,1,Machine Learning
+IIT Kanpur,CSE,1,Azure
+RRGI Lucknow,ECE,1,GitHub
+RRGI Lucknow,CSE,3,AWS
+IIT Kanpur,ECE,2,Scikit-learn
+IIIT Lucknow,AIML,4,Django
+AKGEC,AIML,3,Django
+NIT Surat,CSE,3,SQL
+NIT Surat,IT,3,System Design
+AKGEC,CSE,3,Linux
+AKGEC,AIML,3,Seaborn
+IIIT Lucknow,CSE,3,Cyber Security
+RRGI Lucknow,AIML,4,Android
+RRGI Lucknow,AIML,3,System Design
+NIT Surat,AIML,4,MySQL
+NIT Surat,AIML,1,Express.js
+NIT Surat,IT,4,Scikit-learn
+AKGEC,IT,1,Azure
+AKGEC,CSE,2,Flask
+IIIT Lucknow,CSE,4,PostgreSQL
+RRGI Lucknow,ECE,1,CSS
+AKGEC,AIML,3,Python
+RRGI Lucknow,CSE,2,Matplotlib
+RRGI Lucknow,CSE,1,Docker
+AKGEC,AIML,3,Excel
+RRGI Lucknow,ECE,3,GitHub
+NIT Surat,CSE,3,Docker
+NIT Trichy,ECE,1,Problem Solving

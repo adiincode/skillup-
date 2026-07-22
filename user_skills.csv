@@ -1,0 +1,3815 @@
+user_id,skill,level
+1,GitHub,Beginner
+1,Python,Advanced
+1,Android,Beginner
+1,NumPy,Beginner
+1,Pandas,Beginner
+1,HTML,Advanced
+1,Computer Vision,Advanced
+2,PyTorch,Beginner
+2,DBMS,Advanced
+2,GitHub,Beginner
+2,CSS,Advanced
+2,NLP,Advanced
+2,Excel,Intermediate
+2,MySQL,Intermediate
+2,DSA,Advanced
+3,Android,Advanced
+3,System Design,Advanced
+3,Computer Vision,Beginner
+3,Linux,Advanced
+3,Pandas,Intermediate
+4,Django,Intermediate
+4,Power BI,Beginner
+4,Communication,Intermediate
+4,Kubernetes,Intermediate
+4,DSA,Advanced
+4,Android,Intermediate
+4,OOP,Advanced
+4,Azure,Beginner
+4,MongoDB,Intermediate
+4,GCP,Advanced
+5,Power BI,Intermediate
+5,TensorFlow,Advanced
+5,Java,Beginner
+5,Azure,Advanced
+5,Data Analysis,Beginner
+5,Seaborn,Intermediate
+6,Computer Vision,Beginner
+6,DBMS,Advanced
+6,Computer Networks,Intermediate
+6,Excel,Beginner
+6,SQL,Advanced
+6,Communication,Beginner
+6,Node.js,Beginner
+6,Kotlin,Beginner
+6,Problem Solving,Intermediate
+7,Deep Learning,Intermediate
+7,Django,Beginner
+7,Git,Advanced
+7,Cyber Security,Intermediate
+7,SQL,Beginner
+7,JavaScript,Advanced
+8,Docker,Beginner
+8,HTML,Beginner
+8,OOP,Advanced
+8,Cyber Security,Advanced
+8,GitHub,Intermediate
+9,Machine Learning,Advanced
+9,DSA,Intermediate
+9,Computer Networks,Advanced
+9,Kubernetes,Intermediate
+9,Node.js,Intermediate
+9,C,Advanced
+9,GCP,Beginner
+9,SQL,Beginner
+10,HTML,Intermediate
+10,System Design,Advanced
+10,C,Beginner
+10,Pandas,Beginner
+10,Kubernetes,Advanced
+10,Computer Vision,Intermediate
+11,PyTorch,Intermediate
+11,Linux,Intermediate
+11,Matplotlib,Advanced
+11,Java,Advanced
+11,Deep Learning,Intermediate
+11,CSS,Intermediate
+11,C++,Intermediate
+11,Excel,Advanced
+11,Azure,Advanced
+11,OOP,Advanced
+12,Python,Intermediate
+12,Pandas,Advanced
+12,PostgreSQL,Advanced
+12,Excel,Advanced
+12,HTML,Beginner
+12,Java,Advanced
+13,Android,Beginner
+13,Machine Learning,Intermediate
+13,NumPy,Intermediate
+13,Java,Beginner
+13,CSS,Intermediate
+14,MongoDB,Beginner
+14,Docker,Advanced
+14,Power BI,Beginner
+14,AWS,Beginner
+14,CSS,Beginner
+14,Azure,Advanced
+14,TensorFlow,Intermediate
+15,Matplotlib,Intermediate
+15,Pandas,Intermediate
+15,Bash,Intermediate
+15,AWS,Intermediate
+15,Seaborn,Advanced
+15,TensorFlow,Beginner
+15,C++,Beginner
+16,Matplotlib,Beginner
+16,NLP,Beginner
+16,Deep Learning,Beginner
+16,NumPy,Intermediate
+16,PostgreSQL,Advanced
+17,Data Analysis,Intermediate
+17,React,Beginner
+17,Seaborn,Intermediate
+17,Computer Vision,Advanced
+17,MongoDB,Beginner
+18,PyTorch,Advanced
+18,MongoDB,Beginner
+18,SQL,Intermediate
+18,GitHub,Intermediate
+18,Problem Solving,Intermediate
+19,Machine Learning,Beginner
+19,Docker,Advanced
+19,GitHub,Beginner
+19,React,Intermediate
+19,Express.js,Intermediate
+19,MongoDB,Advanced
+20,GitHub,Advanced
+20,Seaborn,Advanced
+20,Kubernetes,Intermediate
+20,GCP,Advanced
+20,Pandas,Intermediate
+20,C++,Intermediate
+20,DBMS,Intermediate
+20,PostgreSQL,Intermediate
+20,Computer Networks,Beginner
+20,TensorFlow,Beginner
+21,Docker,Advanced
+21,Flask,Advanced
+21,PyTorch,Advanced
+21,PostgreSQL,Beginner
+21,Node.js,Advanced
+21,Cyber Security,Beginner
+21,MongoDB,Beginner
+21,Kubernetes,Intermediate
+21,System Design,Intermediate
+22,NLP,Intermediate
+22,Scikit-learn,Advanced
+22,HTML,Beginner
+22,MySQL,Intermediate
+22,Operating Systems,Beginner
+22,PyTorch,Advanced
+22,Computer Vision,Beginner
+23,Kotlin,Advanced
+23,Seaborn,Intermediate
+23,OOP,Beginner
+23,DBMS,Beginner
+23,GCP,Beginner
+23,Flask,Beginner
+23,Python,Advanced
+23,Pandas,Intermediate
+23,Java,Intermediate
+24,Kubernetes,Beginner
+24,Android,Advanced
+24,Azure,Beginner
+24,JavaScript,Advanced
+24,Linux,Advanced
+24,Pandas,Intermediate
+25,C,Intermediate
+25,TensorFlow,Beginner
+25,Deep Learning,Advanced
+25,React,Beginner
+25,Python,Intermediate
+25,NLP,Beginner
+25,Computer Networks,Intermediate
+25,Django,Beginner
+26,Docker,Beginner
+26,Matplotlib,Intermediate
+26,Pandas,Advanced
+26,Django,Intermediate
+26,Kotlin,Beginner
+26,SQL,Beginner
+27,Power BI,Beginner
+27,NumPy,Beginner
+27,GCP,Intermediate
+27,React,Beginner
+27,Cyber Security,Intermediate
+27,Azure,Beginner
+27,Seaborn,Advanced
+28,OOP,Advanced
+28,Computer Networks,Beginner
+28,Pandas,Advanced
+28,Problem Solving,Advanced
+28,MySQL,Intermediate
+29,System Design,Beginner
+29,Data Analysis,Beginner
+29,C,Beginner
+29,GitHub,Intermediate
+29,CSS,Beginner
+29,Android,Intermediate
+29,Problem Solving,Advanced
+29,Operating Systems,Intermediate
+30,Java,Beginner
+30,Azure,Advanced
+30,Operating Systems,Intermediate
+30,Django,Beginner
+30,TensorFlow,Intermediate
+30,Cyber Security,Beginner
+30,Matplotlib,Beginner
+31,Computer Networks,Beginner
+31,Python,Intermediate
+31,Django,Intermediate
+31,NumPy,Advanced
+31,Bash,Beginner
+31,Seaborn,Advanced
+31,Deep Learning,Advanced
+31,MongoDB,Advanced
+31,Computer Vision,Intermediate
+32,Cyber Security,Advanced
+32,Operating Systems,Advanced
+32,Excel,Intermediate
+32,NumPy,Advanced
+32,HTML,Advanced
+32,Python,Beginner
+32,Scikit-learn,Advanced
+32,Communication,Beginner
+32,PostgreSQL,Intermediate
+33,Express.js,Intermediate
+33,JavaScript,Beginner
+33,Node.js,Intermediate
+33,Linux,Advanced
+33,Flask,Advanced
+34,React,Advanced
+34,Scikit-learn,Advanced
+34,SQL,Intermediate
+34,Computer Vision,Intermediate
+34,JavaScript,Beginner
+34,Docker,Intermediate
+35,OOP,Beginner
+35,DSA,Advanced
+35,React,Advanced
+35,SQL,Beginner
+35,JavaScript,Advanced
+35,System Design,Advanced
+35,C++,Intermediate
+35,Kubernetes,Advanced
+36,Kotlin,Beginner
+36,Operating Systems,Beginner
+36,Azure,Intermediate
+36,GCP,Beginner
+36,Seaborn,Beginner
+37,Scikit-learn,Intermediate
+37,Django,Beginner
+37,GCP,Advanced
+37,C++,Intermediate
+37,PyTorch,Advanced
+37,Excel,Beginner
+37,Express.js,Intermediate
+37,Kotlin,Advanced
+37,Docker,Intermediate
+38,Kubernetes,Beginner
+38,Node.js,Intermediate
+38,Power BI,Intermediate
+38,PostgreSQL,Beginner
+38,Azure,Beginner
+38,DBMS,Intermediate
+38,Matplotlib,Intermediate
+38,MongoDB,Intermediate
+38,Django,Beginner
+39,C++,Intermediate
+39,Computer Networks,Advanced
+39,System Design,Advanced
+39,PostgreSQL,Beginner
+39,Excel,Advanced
+39,DSA,Advanced
+40,Git,Beginner
+40,C++,Beginner
+40,MongoDB,Intermediate
+40,Machine Learning,Intermediate
+40,Communication,Beginner
+40,Matplotlib,Advanced
+40,DSA,Intermediate
+40,Scikit-learn,Beginner
+41,Python,Beginner
+41,MongoDB,Advanced
+41,NumPy,Advanced
+41,NLP,Intermediate
+41,C,Beginner
+42,Data Analysis,Beginner
+42,Seaborn,Beginner
+42,Docker,Advanced
+42,DBMS,Beginner
+42,Matplotlib,Intermediate
+42,Machine Learning,Beginner
+42,PostgreSQL,Beginner
+43,Power BI,Advanced
+43,Docker,Advanced
+43,Linux,Beginner
+43,PyTorch,Advanced
+43,Excel,Beginner
+43,PostgreSQL,Advanced
+43,Data Analysis,Beginner
+43,HTML,Beginner
+44,JavaScript,Beginner
+44,Java,Advanced
+44,Operating Systems,Beginner
+44,Scikit-learn,Intermediate
+44,Pandas,Beginner
+44,Python,Intermediate
+44,DBMS,Intermediate
+45,Machine Learning,Advanced
+45,System Design,Intermediate
+45,Bash,Beginner
+45,Matplotlib,Intermediate
+45,NLP,Advanced
+45,DBMS,Advanced
+46,Problem Solving,Beginner
+46,NLP,Advanced
+46,SQL,Beginner
+46,Pandas,Advanced
+46,Python,Advanced
+46,Node.js,Advanced
+46,Computer Networks,Beginner
+46,Linux,Advanced
+47,Cyber Security,Beginner
+47,Python,Beginner
+47,PostgreSQL,Advanced
+47,OOP,Advanced
+47,React,Intermediate
+47,Node.js,Advanced
+48,PyTorch,Advanced
+48,HTML,Beginner
+48,Machine Learning,Advanced
+48,Power BI,Intermediate
+48,AWS,Beginner
+48,Android,Beginner
+49,Problem Solving,Beginner
+49,Scikit-learn,Beginner
+49,JavaScript,Beginner
+49,Node.js,Beginner
+49,NumPy,Intermediate
+50,Android,Advanced
+50,TensorFlow,Advanced
+50,JavaScript,Advanced
+50,Excel,Intermediate
+50,React,Intermediate
+50,Express.js,Beginner
+51,Power BI,Beginner
+51,Matplotlib,Advanced
+51,Data Analysis,Intermediate
+51,AWS,Beginner
+51,MySQL,Advanced
+51,Node.js,Intermediate
+51,Java,Intermediate
+51,Pandas,Intermediate
+51,Flask,Beginner
+52,Computer Networks,Beginner
+52,Express.js,Advanced
+52,PostgreSQL,Intermediate
+52,Deep Learning,Advanced
+52,SQL,Advanced
+52,HTML,Advanced
+52,React,Intermediate
+52,OOP,Intermediate
+52,Computer Vision,Beginner
+52,DSA,Intermediate
+53,Express.js,Advanced
+53,NLP,Advanced
+53,Machine Learning,Beginner
+53,C,Advanced
+53,Node.js,Advanced
+54,Flask,Advanced
+54,Python,Beginner
+54,GCP,Advanced
+54,Django,Intermediate
+54,Scikit-learn,Intermediate
+54,Pandas,Advanced
+54,Azure,Advanced
+54,Linux,Intermediate
+55,OOP,Advanced
+55,Kubernetes,Advanced
+55,C,Intermediate
+55,Data Analysis,Intermediate
+55,PostgreSQL,Intermediate
+55,Python,Advanced
+55,Computer Networks,Intermediate
+55,Pandas,Beginner
+56,GCP,Advanced
+56,React,Advanced
+56,Flask,Advanced
+56,Android,Advanced
+56,NLP,Beginner
+56,Computer Vision,Intermediate
+56,HTML,Beginner
+56,Java,Advanced
+56,Problem Solving,Advanced
+56,Express.js,Intermediate
+57,Power BI,Advanced
+57,Scikit-learn,Intermediate
+57,Seaborn,Intermediate
+57,MySQL,Advanced
+57,DBMS,Intermediate
+57,Problem Solving,Beginner
+58,Communication,Beginner
+58,Power BI,Intermediate
+58,Deep Learning,Intermediate
+58,GCP,Advanced
+58,Excel,Intermediate
+59,Express.js,Beginner
+59,Problem Solving,Beginner
+59,SQL,Intermediate
+59,Java,Beginner
+59,Python,Intermediate
+59,Kubernetes,Advanced
+60,DSA,Advanced
+60,Deep Learning,Advanced
+60,Bash,Intermediate
+60,Android,Intermediate
+60,Git,Advanced
+60,OOP,Intermediate
+60,Node.js,Intermediate
+60,NumPy,Intermediate
+61,AWS,Advanced
+61,Power BI,Beginner
+61,Cyber Security,Beginner
+61,Django,Intermediate
+61,NLP,Intermediate
+61,Data Analysis,Intermediate
+61,React,Intermediate
+61,Docker,Beginner
+62,MySQL,Intermediate
+62,Scikit-learn,Beginner
+62,AWS,Advanced
+62,Django,Intermediate
+62,Data Analysis,Intermediate
+62,Android,Advanced
+62,CSS,Beginner
+62,NumPy,Advanced
+62,Power BI,Advanced
+62,DSA,Advanced
+63,Operating Systems,Advanced
+63,Android,Advanced
+63,NumPy,Beginner
+63,Seaborn,Intermediate
+63,Data Analysis,Advanced
+63,Docker,Intermediate
+63,Kotlin,Beginner
+63,TensorFlow,Intermediate
+63,SQL,Advanced
+64,MySQL,Beginner
+64,Pandas,Intermediate
+64,Python,Advanced
+64,DSA,Intermediate
+64,C++,Intermediate
+64,Docker,Intermediate
+64,Computer Vision,Intermediate
+64,React,Beginner
+64,Azure,Beginner
+65,CSS,Advanced
+65,Power BI,Beginner
+65,Computer Networks,Advanced
+65,Java,Intermediate
+65,Cyber Security,Intermediate
+65,Azure,Advanced
+65,Deep Learning,Intermediate
+66,Machine Learning,Beginner
+66,React,Beginner
+66,Docker,Advanced
+66,CSS,Advanced
+66,Azure,Beginner
+66,GCP,Advanced
+66,Bash,Beginner
+66,Computer Networks,Intermediate
+67,Deep Learning,Advanced
+67,MySQL,Intermediate
+67,Computer Networks,Intermediate
+67,DBMS,Beginner
+67,CSS,Beginner
+67,C++,Advanced
+67,Bash,Intermediate
+68,HTML,Intermediate
+68,Django,Beginner
+68,Android,Advanced
+68,Node.js,Advanced
+68,DBMS,Beginner
+68,NumPy,Intermediate
+68,GCP,Beginner
+69,Java,Intermediate
+69,Kotlin,Beginner
+69,NLP,Advanced
+69,Communication,Advanced
+69,PyTorch,Advanced
+69,Node.js,Beginner
+69,Data Analysis,Beginner
+69,Scikit-learn,Beginner
+69,Matplotlib,Beginner
+70,Git,Intermediate
+70,Scikit-learn,Beginner
+70,Computer Vision,Intermediate
+70,System Design,Advanced
+70,Linux,Beginner
+70,GCP,Advanced
+70,NLP,Beginner
+70,Azure,Intermediate
+70,Pandas,Beginner
+70,JavaScript,Advanced
+71,React,Beginner
+71,Operating Systems,Intermediate
+71,Computer Vision,Intermediate
+71,Computer Networks,Advanced
+71,Scikit-learn,Advanced
+71,TensorFlow,Beginner
+71,System Design,Intermediate
+71,NumPy,Intermediate
+71,Android,Intermediate
+72,PostgreSQL,Advanced
+72,Computer Vision,Beginner
+72,Python,Intermediate
+72,Azure,Beginner
+72,MongoDB,Intermediate
+72,Communication,Beginner
+72,Flask,Intermediate
+72,CSS,Intermediate
+73,Problem Solving,Beginner
+73,C++,Advanced
+73,Flask,Advanced
+73,Java,Intermediate
+73,Scikit-learn,Beginner
+73,MySQL,Intermediate
+73,Deep Learning,Advanced
+73,Android,Beginner
+73,Git,Intermediate
+73,Kubernetes,Intermediate
+74,Data Analysis,Beginner
+74,Power BI,Beginner
+74,PyTorch,Advanced
+74,Kubernetes,Intermediate
+74,Problem Solving,Advanced
+74,C,Beginner
+75,Data Analysis,Advanced
+75,HTML,Advanced
+75,Deep Learning,Intermediate
+75,System Design,Beginner
+75,Matplotlib,Intermediate
+76,Git,Intermediate
+76,Azure,Advanced
+76,Linux,Intermediate
+76,Seaborn,Beginner
+76,Flask,Beginner
+76,Computer Networks,Intermediate
+76,Express.js,Intermediate
+76,Operating Systems,Advanced
+77,NLP,Beginner
+77,GitHub,Beginner
+77,Django,Advanced
+77,MongoDB,Beginner
+77,SQL,Advanced
+77,React,Advanced
+77,NumPy,Intermediate
+77,Azure,Intermediate
+77,DSA,Advanced
+78,AWS,Advanced
+78,Flask,Intermediate
+78,Django,Intermediate
+78,Linux,Intermediate
+78,TensorFlow,Advanced
+78,Seaborn,Advanced
+78,PostgreSQL,Beginner
+79,Kubernetes,Intermediate
+79,Machine Learning,Intermediate
+79,GitHub,Intermediate
+79,Communication,Intermediate
+79,Computer Vision,Advanced
+79,Java,Intermediate
+80,MySQL,Advanced
+80,Linux,Intermediate
+80,Operating Systems,Beginner
+80,MongoDB,Intermediate
+80,Scikit-learn,Beginner
+80,NLP,Beginner
+80,Express.js,Beginner
+80,OOP,Intermediate
+81,C++,Beginner
+81,C,Advanced
+81,Azure,Intermediate
+81,Problem Solving,Advanced
+81,Excel,Advanced
+81,Pandas,Beginner
+81,Computer Vision,Beginner
+82,Azure,Intermediate
+82,Docker,Beginner
+82,Java,Advanced
+82,Express.js,Advanced
+82,Deep Learning,Advanced
+82,MySQL,Advanced
+82,JavaScript,Beginner
+82,Excel,Advanced
+82,OOP,Beginner
+83,Seaborn,Advanced
+83,Scikit-learn,Advanced
+83,Cyber Security,Advanced
+83,Django,Beginner
+83,Excel,Advanced
+83,Java,Advanced
+83,Node.js,Beginner
+83,DSA,Advanced
+83,CSS,Advanced
+83,System Design,Intermediate
+84,C++,Advanced
+84,PostgreSQL,Intermediate
+84,HTML,Advanced
+84,Computer Vision,Beginner
+84,MySQL,Advanced
+84,Flask,Beginner
+85,Azure,Advanced
+85,Excel,Intermediate
+85,PyTorch,Intermediate
+85,Kotlin,Advanced
+85,DBMS,Beginner
+85,HTML,Intermediate
+85,Seaborn,Intermediate
+85,Django,Intermediate
+85,DSA,Advanced
+86,Linux,Intermediate
+86,Deep Learning,Beginner
+86,Computer Networks,Advanced
+86,Power BI,Beginner
+86,Cyber Security,Intermediate
+86,HTML,Beginner
+86,SQL,Beginner
+86,PostgreSQL,Intermediate
+87,Django,Beginner
+87,Excel,Beginner
+87,MongoDB,Intermediate
+87,Express.js,Beginner
+87,AWS,Beginner
+87,Data Analysis,Beginner
+87,Scikit-learn,Beginner
+87,Seaborn,Beginner
+88,C,Beginner
+88,Django,Intermediate
+88,Python,Advanced
+88,C++,Beginner
+88,Data Analysis,Advanced
+88,PostgreSQL,Beginner
+88,Deep Learning,Intermediate
+89,Computer Networks,Intermediate
+89,C++,Advanced
+89,Scikit-learn,Beginner
+89,Azure,Beginner
+89,React,Advanced
+89,Android,Intermediate
+89,Excel,Beginner
+89,Computer Vision,Beginner
+89,NLP,Advanced
+89,Docker,Intermediate
+90,Excel,Advanced
+90,Express.js,Intermediate
+90,Node.js,Beginner
+90,Git,Advanced
+90,Data Analysis,Advanced
+90,NumPy,Intermediate
+90,Docker,Intermediate
+90,DBMS,Advanced
+91,Problem Solving,Intermediate
+91,Java,Advanced
+91,C,Advanced
+91,React,Advanced
+91,Django,Intermediate
+91,PyTorch,Advanced
+91,CSS,Intermediate
+91,Linux,Intermediate
+91,Git,Advanced
+91,Deep Learning,Advanced
+92,Machine Learning,Beginner
+92,C,Advanced
+92,Kubernetes,Advanced
+92,System Design,Intermediate
+92,OOP,Beginner
+92,Azure,Beginner
+92,GitHub,Intermediate
+93,JavaScript,Beginner
+93,MySQL,Beginner
+93,Cyber Security,Intermediate
+93,CSS,Advanced
+93,Deep Learning,Beginner
+94,Communication,Intermediate
+94,React,Intermediate
+94,Pandas,Intermediate
+94,MySQL,Beginner
+94,System Design,Beginner
+95,Scikit-learn,Advanced
+95,PostgreSQL,Advanced
+95,Communication,Advanced
+95,Deep Learning,Intermediate
+95,Cyber Security,Advanced
+95,Operating Systems,Advanced
+95,Kubernetes,Advanced
+96,Python,Advanced
+96,OOP,Beginner
+96,Flask,Intermediate
+96,HTML,Intermediate
+96,Azure,Intermediate
+96,Seaborn,Advanced
+96,GitHub,Intermediate
+96,Power BI,Advanced
+96,Pandas,Intermediate
+96,NumPy,Beginner
+97,Docker,Advanced
+97,JavaScript,Advanced
+97,Pandas,Intermediate
+97,PyTorch,Beginner
+97,Azure,Beginner
+98,PostgreSQL,Beginner
+98,Scikit-learn,Intermediate
+98,Problem Solving,Advanced
+98,Cyber Security,Advanced
+98,C,Intermediate
+98,Node.js,Advanced
+99,React,Beginner
+99,DBMS,Intermediate
+99,Communication,Beginner
+99,Node.js,Intermediate
+99,Computer Vision,Intermediate
+100,Flask,Advanced
+100,Express.js,Advanced
+100,Node.js,Beginner
+100,Data Analysis,Intermediate
+100,Communication,Advanced
+100,AWS,Beginner
+101,Kubernetes,Intermediate
+101,Django,Intermediate
+101,Seaborn,Intermediate
+101,TensorFlow,Advanced
+101,Express.js,Beginner
+101,NumPy,Advanced
+101,MySQL,Beginner
+101,Cyber Security,Advanced
+101,Machine Learning,Advanced
+102,GitHub,Advanced
+102,Communication,Advanced
+102,Node.js,Intermediate
+102,Problem Solving,Intermediate
+102,AWS,Intermediate
+102,Bash,Beginner
+103,Communication,Advanced
+103,Excel,Beginner
+103,C++,Intermediate
+103,OOP,Beginner
+103,MySQL,Advanced
+103,Machine Learning,Advanced
+103,Problem Solving,Advanced
+103,Java,Beginner
+104,Scikit-learn,Intermediate
+104,React,Intermediate
+104,SQL,Advanced
+104,PyTorch,Intermediate
+104,GCP,Beginner
+104,Problem Solving,Intermediate
+104,Kotlin,Intermediate
+104,Python,Beginner
+104,Cyber Security,Intermediate
+104,C++,Intermediate
+105,System Design,Advanced
+105,Git,Intermediate
+105,Seaborn,Intermediate
+105,Docker,Beginner
+105,OOP,Advanced
+105,NLP,Advanced
+105,DSA,Intermediate
+105,Communication,Intermediate
+106,Scikit-learn,Advanced
+106,C++,Beginner
+106,C,Advanced
+106,Pandas,Advanced
+106,Express.js,Beginner
+106,Docker,Advanced
+106,Java,Advanced
+106,PyTorch,Intermediate
+106,Computer Networks,Beginner
+107,Android,Intermediate
+107,Data Analysis,Intermediate
+107,Seaborn,Advanced
+107,HTML,Advanced
+107,Docker,Beginner
+107,Git,Intermediate
+107,GCP,Beginner
+108,Bash,Advanced
+108,System Design,Intermediate
+108,Kotlin,Intermediate
+108,OOP,Beginner
+108,Linux,Beginner
+108,Python,Advanced
+108,C++,Advanced
+109,Kubernetes,Advanced
+109,System Design,Advanced
+109,DSA,Advanced
+109,MongoDB,Intermediate
+109,AWS,Beginner
+109,Data Analysis,Advanced
+109,Cyber Security,Beginner
+110,Problem Solving,Beginner
+110,SQL,Advanced
+110,Power BI,Advanced
+110,Communication,Advanced
+110,HTML,Beginner
+110,Operating Systems,Intermediate
+111,Django,Beginner
+111,System Design,Intermediate
+111,NumPy,Advanced
+111,Bash,Intermediate
+111,Pandas,Beginner
+111,Scikit-learn,Beginner
+111,PyTorch,Advanced
+111,Python,Advanced
+111,CSS,Advanced
+112,Data Analysis,Advanced
+112,CSS,Advanced
+112,Android,Advanced
+112,Matplotlib,Intermediate
+112,MySQL,Intermediate
+112,DBMS,Advanced
+112,Excel,Advanced
+112,DSA,Intermediate
+112,NLP,Advanced
+112,Operating Systems,Beginner
+113,Computer Networks,Intermediate
+113,Linux,Advanced
+113,DSA,Intermediate
+113,AWS,Beginner
+113,Matplotlib,Beginner
+113,React,Advanced
+114,Kubernetes,Intermediate
+114,Data Analysis,Beginner
+114,GCP,Advanced
+114,GitHub,Intermediate
+114,Matplotlib,Intermediate
+114,System Design,Advanced
+114,Pandas,Intermediate
+114,SQL,Intermediate
+115,Excel,Intermediate
+115,OOP,Intermediate
+115,NLP,Beginner
+115,Communication,Beginner
+115,GitHub,Advanced
+115,Kubernetes,Intermediate
+115,DBMS,Intermediate
+115,Java,Beginner
+115,Matplotlib,Intermediate
+115,JavaScript,Advanced
+116,Linux,Intermediate
+116,Operating Systems,Intermediate
+116,Problem Solving,Intermediate
+116,JavaScript,Intermediate
+116,MongoDB,Advanced
+116,C++,Beginner
+117,C,Advanced
+117,JavaScript,Beginner
+117,Node.js,Beginner
+117,Seaborn,Beginner
+117,NLP,Beginner
+117,Operating Systems,Intermediate
+117,Power BI,Intermediate
+117,C++,Beginner
+117,Python,Intermediate
+118,PyTorch,Advanced
+118,OOP,Beginner
+118,NLP,Beginner
+118,Matplotlib,Intermediate
+118,Pandas,Intermediate
+119,JavaScript,Beginner
+119,C++,Intermediate
+119,Seaborn,Intermediate
+119,CSS,Intermediate
+119,Bash,Intermediate
+119,Machine Learning,Beginner
+119,GitHub,Beginner
+120,Android,Beginner
+120,Cyber Security,Intermediate
+120,OOP,Intermediate
+120,Seaborn,Intermediate
+120,Data Analysis,Intermediate
+120,C,Advanced
+120,AWS,Beginner
+120,Kubernetes,Beginner
+120,MongoDB,Intermediate
+121,Scikit-learn,Beginner
+121,Seaborn,Beginner
+121,Python,Intermediate
+121,NumPy,Beginner
+121,System Design,Beginner
+121,Kubernetes,Intermediate
+121,Bash,Intermediate
+121,PyTorch,Beginner
+121,AWS,Intermediate
+122,TensorFlow,Beginner
+122,NumPy,Intermediate
+122,Computer Vision,Beginner
+122,Computer Networks,Beginner
+122,HTML,Intermediate
+123,Machine Learning,Intermediate
+123,SQL,Advanced
+123,System Design,Beginner
+123,JavaScript,Intermediate
+123,Computer Vision,Intermediate
+123,Django,Advanced
+123,Azure,Advanced
+124,HTML,Advanced
+124,Operating Systems,Advanced
+124,Computer Networks,Beginner
+124,Computer Vision,Advanced
+124,Cyber Security,Beginner
+124,JavaScript,Beginner
+124,Django,Advanced
+124,MySQL,Beginner
+124,Linux,Intermediate
+124,System Design,Intermediate
+125,Problem Solving,Advanced
+125,Operating Systems,Intermediate
+125,Bash,Advanced
+125,NLP,Beginner
+125,Machine Learning,Advanced
+125,JavaScript,Beginner
+126,NumPy,Advanced
+126,Java,Intermediate
+126,PostgreSQL,Intermediate
+126,Kubernetes,Intermediate
+126,TensorFlow,Intermediate
+126,SQL,Beginner
+126,JavaScript,Intermediate
+126,Python,Beginner
+126,Linux,Advanced
+126,Kotlin,Advanced
+127,Django,Intermediate
+127,Python,Beginner
+127,Power BI,Beginner
+127,Computer Networks,Intermediate
+127,Pandas,Advanced
+127,JavaScript,Advanced
+127,Docker,Advanced
+127,PyTorch,Beginner
+127,DBMS,Beginner
+127,Data Analysis,Advanced
+128,Git,Intermediate
+128,C,Advanced
+128,Machine Learning,Advanced
+128,SQL,Intermediate
+128,MySQL,Advanced
+128,GitHub,Intermediate
+128,DSA,Intermediate
+128,MongoDB,Advanced
+129,C++,Intermediate
+129,Express.js,Intermediate
+129,Computer Vision,Advanced
+129,Machine Learning,Intermediate
+129,Node.js,Beginner
+129,OOP,Beginner
+129,Operating Systems,Beginner
+129,Kotlin,Beginner
+129,Pandas,Advanced
+130,Django,Beginner
+130,CSS,Advanced
+130,Azure,Advanced
+130,Machine Learning,Intermediate
+130,PostgreSQL,Advanced
+130,Git,Advanced
+130,C,Advanced
+130,Java,Advanced
+130,Docker,Beginner
+130,Power BI,Advanced
+131,Kubernetes,Beginner
+131,Pandas,Advanced
+131,React,Intermediate
+131,Cyber Security,Beginner
+131,Excel,Advanced
+131,Computer Vision,Intermediate
+131,DBMS,Intermediate
+132,Computer Vision,Advanced
+132,Data Analysis,Advanced
+132,NLP,Intermediate
+132,Cyber Security,Intermediate
+132,TensorFlow,Beginner
+132,Linux,Advanced
+132,Problem Solving,Intermediate
+132,Azure,Beginner
+133,MongoDB,Intermediate
+133,AWS,Beginner
+133,Pandas,Advanced
+133,Computer Networks,Intermediate
+133,Problem Solving,Beginner
+133,NLP,Intermediate
+133,Android,Intermediate
+134,AWS,Intermediate
+134,Computer Vision,Advanced
+134,Kubernetes,Beginner
+134,PostgreSQL,Advanced
+134,Problem Solving,Beginner
+134,C++,Advanced
+135,Pandas,Advanced
+135,Excel,Intermediate
+135,PyTorch,Advanced
+135,TensorFlow,Beginner
+135,NLP,Advanced
+135,System Design,Advanced
+136,Kubernetes,Advanced
+136,PostgreSQL,Advanced
+136,MySQL,Intermediate
+136,HTML,Beginner
+136,C,Advanced
+136,DBMS,Beginner
+137,Data Analysis,Beginner
+137,Django,Advanced
+137,MongoDB,Advanced
+137,Kubernetes,Intermediate
+137,System Design,Beginner
+137,TensorFlow,Advanced
+137,NumPy,Advanced
+138,AWS,Advanced
+138,Docker,Advanced
+138,PostgreSQL,Advanced
+138,Excel,Advanced
+138,React,Intermediate
+138,Kubernetes,Advanced
+138,Flask,Intermediate
+138,Problem Solving,Advanced
+139,DBMS,Intermediate
+139,Node.js,Advanced
+139,DSA,Beginner
+139,NLP,Advanced
+139,C,Beginner
+139,System Design,Intermediate
+139,Cyber Security,Beginner
+139,Machine Learning,Beginner
+139,HTML,Intermediate
+139,NumPy,Beginner
+140,Pandas,Beginner
+140,GitHub,Intermediate
+140,CSS,Beginner
+140,Java,Beginner
+140,Android,Beginner
+140,Kotlin,Beginner
+140,Express.js,Intermediate
+140,Scikit-learn,Beginner
+141,PostgreSQL,Advanced
+141,React,Intermediate
+141,Kubernetes,Advanced
+141,JavaScript,Intermediate
+141,Matplotlib,Advanced
+141,Java,Beginner
+141,AWS,Advanced
+141,NLP,Beginner
+141,Computer Vision,Beginner
+142,Azure,Advanced
+142,Machine Learning,Beginner
+142,Express.js,Intermediate
+142,DSA,Advanced
+142,Flask,Advanced
+142,Computer Networks,Advanced
+142,Django,Advanced
+142,PostgreSQL,Advanced
+142,Android,Intermediate
+143,Express.js,Beginner
+143,Data Analysis,Advanced
+143,Machine Learning,Intermediate
+143,System Design,Intermediate
+143,DSA,Beginner
+143,CSS,Intermediate
+143,OOP,Beginner
+143,Excel,Advanced
+143,Kubernetes,Beginner
+144,C++,Intermediate
+144,Power BI,Intermediate
+144,PyTorch,Beginner
+144,GitHub,Advanced
+144,HTML,Intermediate
+144,Android,Advanced
+144,Cyber Security,Advanced
+145,Problem Solving,Advanced
+145,MySQL,Advanced
+145,Cyber Security,Intermediate
+145,Bash,Advanced
+145,HTML,Beginner
+145,NLP,Intermediate
+145,AWS,Intermediate
+145,Linux,Intermediate
+145,Kotlin,Beginner
+145,PyTorch,Beginner
+146,Bash,Advanced
+146,AWS,Intermediate
+146,Operating Systems,Beginner
+146,JavaScript,Advanced
+146,CSS,Advanced
+146,Linux,Intermediate
+146,NumPy,Intermediate
+146,Flask,Advanced
+147,Git,Intermediate
+147,Flask,Advanced
+147,Python,Intermediate
+147,GitHub,Beginner
+147,Seaborn,Advanced
+147,GCP,Beginner
+148,Scikit-learn,Advanced
+148,PostgreSQL,Beginner
+148,Kubernetes,Beginner
+148,Excel,Advanced
+148,NumPy,Advanced
+148,Bash,Advanced
+148,SQL,Intermediate
+148,C++,Advanced
+149,Excel,Advanced
+149,Deep Learning,Advanced
+149,Pandas,Intermediate
+149,C,Advanced
+149,Matplotlib,Beginner
+149,Git,Advanced
+149,Bash,Advanced
+149,Node.js,Intermediate
+149,Power BI,Beginner
+149,Android,Intermediate
+150,Computer Vision,Advanced
+150,Computer Networks,Intermediate
+150,OOP,Beginner
+150,Express.js,Beginner
+150,Pandas,Advanced
+150,Machine Learning,Intermediate
+150,Data Analysis,Intermediate
+150,C++,Advanced
+150,Node.js,Advanced
+150,Communication,Advanced
+151,NumPy,Intermediate
+151,DBMS,Advanced
+151,Django,Intermediate
+151,Azure,Intermediate
+151,DSA,Intermediate
+151,Express.js,Advanced
+151,Node.js,Intermediate
+152,Kotlin,Intermediate
+152,System Design,Beginner
+152,MySQL,Intermediate
+152,Azure,Intermediate
+152,Data Analysis,Beginner
+152,Flask,Advanced
+152,React,Advanced
+152,Seaborn,Beginner
+152,GCP,Advanced
+153,Django,Advanced
+153,GCP,Intermediate
+153,Git,Advanced
+153,Express.js,Intermediate
+153,Python,Advanced
+153,MongoDB,Advanced
+153,Docker,Intermediate
+154,Scikit-learn,Intermediate
+154,React,Intermediate
+154,PyTorch,Advanced
+154,GCP,Advanced
+154,Problem Solving,Advanced
+154,Docker,Advanced
+154,GitHub,Beginner
+155,DSA,Beginner
+155,Computer Networks,Advanced
+155,Problem Solving,Advanced
+155,Bash,Intermediate
+155,Linux,Intermediate
+155,MongoDB,Intermediate
+156,React,Advanced
+156,Deep Learning,Beginner
+156,HTML,Beginner
+156,GCP,Beginner
+156,JavaScript,Beginner
+156,System Design,Beginner
+156,GitHub,Advanced
+157,Kubernetes,Advanced
+157,NLP,Beginner
+157,CSS,Beginner
+157,Deep Learning,Advanced
+157,Machine Learning,Intermediate
+157,MySQL,Advanced
+157,Bash,Beginner
+157,OOP,Advanced
+158,Kotlin,Beginner
+158,PyTorch,Beginner
+158,Express.js,Advanced
+158,Deep Learning,Advanced
+158,System Design,Intermediate
+158,HTML,Beginner
+159,Data Analysis,Beginner
+159,Django,Intermediate
+159,Computer Networks,Advanced
+159,Communication,Beginner
+159,MySQL,Advanced
+160,NumPy,Intermediate
+160,PostgreSQL,Beginner
+160,Linux,Advanced
+160,Computer Vision,Intermediate
+160,Machine Learning,Beginner
+160,MongoDB,Advanced
+160,Matplotlib,Intermediate
+160,Android,Advanced
+160,AWS,Beginner
+161,Communication,Intermediate
+161,Android,Intermediate
+161,Seaborn,Advanced
+161,Azure,Intermediate
+161,Django,Intermediate
+161,Kotlin,Intermediate
+161,Excel,Beginner
+162,Django,Advanced
+162,Excel,Advanced
+162,Python,Intermediate
+162,Data Analysis,Beginner
+162,NLP,Advanced
+162,C,Advanced
+162,DBMS,Advanced
+162,Deep Learning,Intermediate
+162,PostgreSQL,Beginner
+163,HTML,Beginner
+163,Pandas,Beginner
+163,Scikit-learn,Beginner
+163,Docker,Beginner
+163,DBMS,Beginner
+163,Python,Intermediate
+163,Operating Systems,Intermediate
+163,C++,Beginner
+163,Power BI,Advanced
+163,Seaborn,Beginner
+164,NLP,Beginner
+164,DSA,Intermediate
+164,Docker,Advanced
+164,Linux,Beginner
+164,TensorFlow,Beginner
+164,Kubernetes,Beginner
+164,C++,Intermediate
+165,Android,Advanced
+165,Data Analysis,Advanced
+165,C,Advanced
+165,MongoDB,Beginner
+165,Power BI,Intermediate
+165,Machine Learning,Advanced
+166,CSS,Beginner
+166,JavaScript,Intermediate
+166,OOP,Intermediate
+166,C,Advanced
+166,Power BI,Intermediate
+166,Matplotlib,Advanced
+166,AWS,Beginner
+166,Data Analysis,Intermediate
+166,Node.js,Advanced
+167,Operating Systems,Intermediate
+167,SQL,Advanced
+167,Node.js,Beginner
+167,GitHub,Intermediate
+167,OOP,Beginner
+168,Django,Intermediate
+168,Excel,Advanced
+168,C,Advanced
+168,Node.js,Intermediate
+168,Java,Beginner
+168,MySQL,Advanced
+168,PostgreSQL,Beginner
+168,Linux,Beginner
+168,DSA,Beginner
+169,Django,Advanced
+169,Power BI,Beginner
+169,Docker,Beginner
+169,C,Beginner
+169,Kotlin,Beginner
+169,CSS,Advanced
+169,Machine Learning,Beginner
+169,Operating Systems,Beginner
+169,DBMS,Beginner
+169,DSA,Beginner
+170,React,Intermediate
+170,NumPy,Beginner
+170,Bash,Advanced
+170,Computer Vision,Intermediate
+170,Android,Intermediate
+171,Linux,Beginner
+171,CSS,Beginner
+171,Communication,Beginner
+171,Pandas,Advanced
+171,Operating Systems,Beginner
+171,Seaborn,Intermediate
+171,MySQL,Intermediate
+171,Android,Intermediate
+171,Kotlin,Beginner
+172,HTML,Advanced
+172,Deep Learning,Beginner
+172,Node.js,Beginner
+172,Kubernetes,Advanced
+172,Problem Solving,Advanced
+172,MySQL,Advanced
+172,Machine Learning,Beginner
+173,CSS,Beginner
+173,HTML,Intermediate
+173,MongoDB,Intermediate
+173,Excel,Beginner
+173,Machine Learning,Beginner
+173,DSA,Intermediate
+173,Power BI,Beginner
+173,Seaborn,Beginner
+174,Power BI,Advanced
+174,Android,Intermediate
+174,Operating Systems,Beginner
+174,Machine Learning,Beginner
+174,Node.js,Beginner
+174,Bash,Intermediate
+174,Java,Advanced
+174,AWS,Advanced
+174,JavaScript,Advanced
+174,C,Intermediate
+175,Docker,Beginner
+175,C,Advanced
+175,SQL,Beginner
+175,Android,Beginner
+175,Cyber Security,Advanced
+176,Kubernetes,Beginner
+176,Seaborn,Beginner
+176,NLP,Advanced
+176,TensorFlow,Advanced
+176,Java,Intermediate
+176,Excel,Beginner
+176,Pandas,Beginner
+176,NumPy,Beginner
+176,MongoDB,Beginner
+176,C,Intermediate
+177,Kotlin,Beginner
+177,Matplotlib,Intermediate
+177,JavaScript,Intermediate
+177,NLP,Advanced
+177,PostgreSQL,Advanced
+177,Communication,Advanced
+177,Scikit-learn,Beginner
+177,Problem Solving,Advanced
+178,Kubernetes,Advanced
+178,C++,Intermediate
+178,Problem Solving,Beginner
+178,DSA,Advanced
+178,React,Intermediate
+178,DBMS,Advanced
+178,Azure,Advanced
+178,Computer Networks,Intermediate
+178,Matplotlib,Intermediate
+178,Excel,Advanced
+179,Flask,Advanced
+179,HTML,Intermediate
+179,MongoDB,Advanced
+179,Java,Advanced
+179,Computer Vision,Intermediate
+179,NumPy,Advanced
+179,MySQL,Advanced
+179,C++,Intermediate
+180,Django,Advanced
+180,Communication,Intermediate
+180,GitHub,Beginner
+180,System Design,Intermediate
+180,NLP,Advanced
+180,React,Beginner
+181,Kubernetes,Advanced
+181,Excel,Beginner
+181,MySQL,Intermediate
+181,Azure,Intermediate
+181,Django,Advanced
+181,TensorFlow,Beginner
+181,System Design,Beginner
+181,Computer Vision,Advanced
+181,Scikit-learn,Intermediate
+182,Computer Networks,Intermediate
+182,Scikit-learn,Beginner
+182,GitHub,Advanced
+182,Deep Learning,Advanced
+182,SQL,Beginner
+182,Pandas,Beginner
+182,MongoDB,Advanced
+182,MySQL,Beginner
+182,Machine Learning,Intermediate
+182,C++,Intermediate
+183,HTML,Advanced
+183,Power BI,Beginner
+183,Android,Beginner
+183,Linux,Advanced
+183,DSA,Advanced
+184,Linux,Beginner
+184,Communication,Beginner
+184,Computer Networks,Beginner
+184,Seaborn,Beginner
+184,Azure,Advanced
+184,AWS,Intermediate
+184,C,Beginner
+184,Machine Learning,Beginner
+184,Express.js,Advanced
+184,Java,Intermediate
+185,Cyber Security,Beginner
+185,Problem Solving,Beginner
+185,Operating Systems,Intermediate
+185,Azure,Intermediate
+185,NLP,Advanced
+185,Excel,Beginner
+185,CSS,Advanced
+186,Cyber Security,Advanced
+186,Android,Intermediate
+186,Power BI,Advanced
+186,Bash,Beginner
+186,TensorFlow,Intermediate
+186,Azure,Intermediate
+186,Node.js,Advanced
+186,Deep Learning,Advanced
+186,Git,Intermediate
+186,MySQL,Intermediate
+187,HTML,Intermediate
+187,Linux,Advanced
+187,Machine Learning,Intermediate
+187,Node.js,Beginner
+187,Git,Beginner
+188,OOP,Beginner
+188,NumPy,Advanced
+188,MySQL,Advanced
+188,Pandas,Advanced
+188,NLP,Beginner
+188,Power BI,Advanced
+188,Android,Beginner
+188,SQL,Advanced
+188,Express.js,Advanced
+188,MongoDB,Advanced
+189,DSA,Intermediate
+189,PostgreSQL,Intermediate
+189,Azure,Beginner
+189,Docker,Beginner
+189,HTML,Beginner
+189,Problem Solving,Beginner
+189,MySQL,Advanced
+189,C++,Beginner
+189,Deep Learning,Intermediate
+189,AWS,Advanced
+190,GCP,Beginner
+190,PostgreSQL,Intermediate
+190,AWS,Beginner
+190,Deep Learning,Intermediate
+190,OOP,Advanced
+190,Problem Solving,Beginner
+190,Communication,Advanced
+191,Deep Learning,Intermediate
+191,Python,Intermediate
+191,Data Analysis,Intermediate
+191,Docker,Advanced
+191,Scikit-learn,Beginner
+191,Node.js,Beginner
+191,TensorFlow,Beginner
+192,TensorFlow,Intermediate
+192,Data Analysis,Advanced
+192,MySQL,Advanced
+192,Machine Learning,Intermediate
+192,SQL,Advanced
+192,OOP,Advanced
+192,HTML,Intermediate
+192,NLP,Advanced
+192,Linux,Advanced
+192,Git,Intermediate
+193,Git,Intermediate
+193,Java,Intermediate
+193,Problem Solving,Advanced
+193,Flask,Advanced
+193,React,Beginner
+193,Node.js,Advanced
+194,Bash,Beginner
+194,Machine Learning,Beginner
+194,OOP,Advanced
+194,Excel,Intermediate
+194,System Design,Intermediate
+194,CSS,Beginner
+194,Scikit-learn,Advanced
+195,Node.js,Intermediate
+195,CSS,Advanced
+195,NLP,Beginner
+195,NumPy,Intermediate
+195,Git,Beginner
+195,MongoDB,Intermediate
+195,GCP,Intermediate
+196,Git,Intermediate
+196,Android,Beginner
+196,Django,Intermediate
+196,GitHub,Beginner
+196,React,Intermediate
+196,Node.js,Intermediate
+196,Python,Beginner
+197,Java,Advanced
+197,Android,Intermediate
+197,Express.js,Beginner
+197,C++,Intermediate
+197,Git,Advanced
+197,Deep Learning,Beginner
+198,Operating Systems,Beginner
+198,Kotlin,Intermediate
+198,C++,Advanced
+198,Python,Intermediate
+198,AWS,Advanced
+198,C,Beginner
+198,Scikit-learn,Beginner
+198,Power BI,Beginner
+198,DSA,Intermediate
+198,Matplotlib,Advanced
+199,Android,Beginner
+199,Machine Learning,Advanced
+199,JavaScript,Intermediate
+199,Django,Beginner
+199,Bash,Advanced
+199,Excel,Advanced
+199,C,Advanced
+199,TensorFlow,Beginner
+199,NumPy,Advanced
+200,Machine Learning,Intermediate
+200,Flask,Beginner
+200,Kotlin,Advanced
+200,Azure,Intermediate
+200,Data Analysis,Intermediate
+200,Node.js,Advanced
+200,Problem Solving,Advanced
+200,Matplotlib,Beginner
+201,Kotlin,Beginner
+201,System Design,Intermediate
+201,Scikit-learn,Beginner
+201,Node.js,Advanced
+201,Android,Intermediate
+202,PyTorch,Beginner
+202,Operating Systems,Advanced
+202,Django,Beginner
+202,Git,Advanced
+202,GitHub,Intermediate
+202,Scikit-learn,Intermediate
+202,React,Advanced
+202,Azure,Intermediate
+203,NLP,Intermediate
+203,Express.js,Beginner
+203,Computer Vision,Advanced
+203,Machine Learning,Beginner
+203,DSA,Intermediate
+203,Cyber Security,Intermediate
+203,AWS,Advanced
+203,Flask,Intermediate
+203,Python,Advanced
+204,Kotlin,Intermediate
+204,React,Beginner
+204,Android,Advanced
+204,C++,Intermediate
+204,DBMS,Beginner
+205,GitHub,Intermediate
+205,Azure,Beginner
+205,Docker,Intermediate
+205,JavaScript,Advanced
+205,Computer Vision,Intermediate
+205,Kubernetes,Beginner
+206,Flask,Beginner
+206,Operating Systems,Advanced
+206,SQL,Intermediate
+206,OOP,Intermediate
+206,Linux,Intermediate
+206,AWS,Beginner
+206,Django,Beginner
+206,React,Intermediate
+206,NLP,Advanced
+207,CSS,Beginner
+207,Deep Learning,Advanced
+207,Problem Solving,Intermediate
+207,Computer Networks,Beginner
+207,Power BI,Advanced
+208,C++,Intermediate
+208,MongoDB,Intermediate
+208,AWS,Intermediate
+208,Power BI,Advanced
+208,DBMS,Intermediate
+208,Express.js,Intermediate
+208,Excel,Intermediate
+208,Java,Advanced
+208,Kotlin,Beginner
+208,Docker,Beginner
+209,PyTorch,Advanced
+209,Power BI,Beginner
+209,Operating Systems,Advanced
+209,Pandas,Beginner
+209,CSS,Advanced
+209,Linux,Intermediate
+209,GitHub,Beginner
+209,Java,Advanced
+209,Cyber Security,Beginner
+209,Express.js,Intermediate
+210,PostgreSQL,Intermediate
+210,Azure,Beginner
+210,MongoDB,Beginner
+210,Seaborn,Intermediate
+210,CSS,Intermediate
+210,Bash,Advanced
+210,Django,Advanced
+210,Express.js,Advanced
+211,Excel,Intermediate
+211,Kubernetes,Advanced
+211,Communication,Intermediate
+211,Bash,Intermediate
+211,PyTorch,Beginner
+211,GitHub,Intermediate
+211,Android,Beginner
+212,Docker,Intermediate
+212,AWS,Intermediate
+212,Power BI,Intermediate
+212,PostgreSQL,Advanced
+212,NLP,Beginner
+212,MongoDB,Beginner
+212,GitHub,Advanced
+213,AWS,Advanced
+213,Deep Learning,Intermediate
+213,Operating Systems,Beginner
+213,C,Advanced
+213,Matplotlib,Intermediate
+213,Scikit-learn,Beginner
+213,Flask,Intermediate
+213,Power BI,Intermediate
+213,Cyber Security,Beginner
+213,Azure,Beginner
+214,Scikit-learn,Advanced
+214,TensorFlow,Beginner
+214,OOP,Beginner
+214,AWS,Intermediate
+214,HTML,Advanced
+214,DSA,Intermediate
+214,MongoDB,Intermediate
+214,CSS,Beginner
+215,Kotlin,Intermediate
+215,Node.js,Advanced
+215,SQL,Beginner
+215,Communication,Intermediate
+215,C++,Advanced
+216,Express.js,Intermediate
+216,Pandas,Intermediate
+216,GitHub,Advanced
+216,Scikit-learn,Intermediate
+216,Matplotlib,Advanced
+217,JavaScript,Intermediate
+217,Power BI,Beginner
+217,React,Intermediate
+217,Data Analysis,Beginner
+217,GitHub,Intermediate
+218,Docker,Advanced
+218,Django,Intermediate
+218,Matplotlib,Beginner
+218,Kubernetes,Intermediate
+218,CSS,Beginner
+218,HTML,Beginner
+218,GitHub,Advanced
+218,Data Analysis,Beginner
+218,GCP,Advanced
+218,Bash,Advanced
+219,Operating Systems,Advanced
+219,OOP,Beginner
+219,SQL,Intermediate
+219,Computer Vision,Advanced
+219,Flask,Intermediate
+219,Matplotlib,Intermediate
+219,Python,Advanced
+220,Python,Intermediate
+220,DBMS,Advanced
+220,Communication,Beginner
+220,Django,Intermediate
+220,Azure,Intermediate
+220,GCP,Beginner
+220,CSS,Advanced
+220,SQL,Advanced
+221,React,Advanced
+221,Pandas,Beginner
+221,Power BI,Intermediate
+221,OOP,Advanced
+221,DSA,Advanced
+221,Azure,Advanced
+221,SQL,Advanced
+221,Kubernetes,Intermediate
+221,CSS,Beginner
+222,SQL,Intermediate
+222,Machine Learning,Intermediate
+222,DBMS,Advanced
+222,Pandas,Advanced
+222,HTML,Intermediate
+222,Seaborn,Intermediate
+222,Django,Advanced
+222,Problem Solving,Intermediate
+222,Communication,Advanced
+222,OOP,Intermediate
+223,OOP,Intermediate
+223,Power BI,Advanced
+223,TensorFlow,Intermediate
+223,Django,Beginner
+223,Docker,Advanced
+223,Git,Beginner
+223,Computer Networks,Intermediate
+224,Express.js,Beginner
+224,MongoDB,Advanced
+224,Azure,Advanced
+224,Computer Networks,Advanced
+224,OOP,Advanced
+224,Kubernetes,Intermediate
+225,TensorFlow,Intermediate
+225,JavaScript,Advanced
+225,Node.js,Intermediate
+225,OOP,Intermediate
+225,Azure,Advanced
+225,Express.js,Advanced
+225,Git,Advanced
+225,C,Advanced
+225,Scikit-learn,Intermediate
+226,Excel,Beginner
+226,Problem Solving,Beginner
+226,Matplotlib,Beginner
+226,GCP,Advanced
+226,System Design,Beginner
+226,Cyber Security,Advanced
+227,Python,Beginner
+227,SQL,Intermediate
+227,Power BI,Advanced
+227,DSA,Beginner
+227,Computer Networks,Beginner
+227,JavaScript,Advanced
+227,Problem Solving,Intermediate
+227,Bash,Intermediate
+227,Docker,Intermediate
+228,SQL,Advanced
+228,CSS,Advanced
+228,OOP,Advanced
+228,Android,Advanced
+228,Kotlin,Intermediate
+228,Kubernetes,Advanced
+229,CSS,Beginner
+229,Seaborn,Beginner
+229,Matplotlib,Intermediate
+229,PyTorch,Intermediate
+229,MongoDB,Beginner
+229,PostgreSQL,Beginner
+229,Problem Solving,Intermediate
+229,Power BI,Intermediate
+229,Git,Beginner
+229,Azure,Intermediate
+230,React,Advanced
+230,NumPy,Intermediate
+230,Linux,Intermediate
+230,DBMS,Intermediate
+230,System Design,Beginner
+230,Python,Beginner
+230,Seaborn,Intermediate
+230,Power BI,Advanced
+230,C,Beginner
+230,Problem Solving,Beginner
+231,SQL,Advanced
+231,OOP,Beginner
+231,C,Intermediate
+231,CSS,Beginner
+231,DSA,Beginner
+231,Excel,Advanced
+232,System Design,Intermediate
+232,HTML,Advanced
+232,AWS,Intermediate
+232,Python,Advanced
+232,MySQL,Advanced
+232,Django,Advanced
+232,SQL,Beginner
+232,Seaborn,Beginner
+232,Bash,Advanced
+232,Deep Learning,Advanced
+233,Data Analysis,Advanced
+233,Excel,Advanced
+233,NumPy,Beginner
+233,CSS,Intermediate
+233,Matplotlib,Intermediate
+233,Problem Solving,Advanced
+233,Cyber Security,Advanced
+233,Computer Vision,Beginner
+233,Android,Intermediate
+233,Git,Beginner
+234,System Design,Beginner
+234,Excel,Beginner
+234,Cyber Security,Intermediate
+234,Problem Solving,Beginner
+234,TensorFlow,Intermediate
+234,GCP,Intermediate
+235,NLP,Advanced
+235,JavaScript,Advanced
+235,Django,Advanced
+235,Kotlin,Intermediate
+235,C,Beginner
+235,Communication,Advanced
+235,AWS,Beginner
+235,Computer Vision,Intermediate
+235,Data Analysis,Advanced
+236,HTML,Beginner
+236,Communication,Advanced
+236,Azure,Beginner
+236,NumPy,Advanced
+236,OOP,Beginner
+237,Computer Vision,Advanced
+237,Flask,Beginner
+237,Python,Advanced
+237,Kubernetes,Advanced
+237,Git,Beginner
+237,Scikit-learn,Advanced
+237,Express.js,Advanced
+237,GCP,Advanced
+238,C,Beginner
+238,HTML,Beginner
+238,Computer Vision,Advanced
+238,Express.js,Beginner
+238,Python,Advanced
+238,PyTorch,Advanced
+239,Computer Vision,Advanced
+239,Problem Solving,Intermediate
+239,C,Intermediate
+239,GitHub,Advanced
+239,AWS,Intermediate
+239,MySQL,Beginner
+239,JavaScript,Beginner
+239,Python,Beginner
+239,Django,Intermediate
+239,CSS,Intermediate
+240,Machine Learning,Beginner
+240,Cyber Security,Beginner
+240,Computer Vision,Intermediate
+240,GCP,Intermediate
+240,Java,Advanced
+240,HTML,Advanced
+240,PostgreSQL,Advanced
+240,C++,Advanced
+240,Matplotlib,Intermediate
+241,Pandas,Advanced
+241,Operating Systems,Advanced
+241,Bash,Advanced
+241,Linux,Beginner
+241,Django,Intermediate
+241,SQL,Beginner
+241,Problem Solving,Intermediate
+241,Flask,Beginner
+242,Azure,Intermediate
+242,HTML,Beginner
+242,Communication,Advanced
+242,Computer Networks,Advanced
+242,Bash,Beginner
+242,C,Intermediate
+242,Python,Intermediate
+242,AWS,Beginner
+242,DSA,Beginner
+243,Azure,Intermediate
+243,JavaScript,Advanced
+243,Pandas,Advanced
+243,Python,Advanced
+243,System Design,Intermediate
+243,MySQL,Intermediate
+243,Communication,Advanced
+244,Machine Learning,Beginner
+244,Express.js,Beginner
+244,Django,Intermediate
+244,Python,Advanced
+244,Git,Intermediate
+244,System Design,Beginner
+244,JavaScript,Intermediate
+244,Linux,Advanced
+245,Data Analysis,Beginner
+245,DSA,Beginner
+245,JavaScript,Beginner
+245,TensorFlow,Advanced
+245,MongoDB,Intermediate
+246,Docker,Advanced
+246,Flask,Intermediate
+246,CSS,Beginner
+246,Git,Intermediate
+246,AWS,Beginner
+246,Java,Intermediate
+246,GitHub,Intermediate
+246,HTML,Intermediate
+246,Matplotlib,Advanced
+246,MySQL,Intermediate
+247,SQL,Intermediate
+247,Express.js,Advanced
+247,DBMS,Beginner
+247,Node.js,Intermediate
+247,Seaborn,Intermediate
+248,React,Beginner
+248,Seaborn,Advanced
+248,OOP,Advanced
+248,Kubernetes,Beginner
+248,MongoDB,Advanced
+249,Python,Intermediate
+249,OOP,Intermediate
+249,Pandas,Beginner
+249,C,Intermediate
+249,Computer Vision,Beginner
+249,Data Analysis,Advanced
+250,Machine Learning,Intermediate
+250,Kubernetes,Intermediate
+250,React,Advanced
+250,HTML,Advanced
+250,PostgreSQL,Beginner
+250,Computer Vision,Advanced
+251,PostgreSQL,Intermediate
+251,Communication,Advanced
+251,C++,Intermediate
+251,GCP,Beginner
+251,OOP,Advanced
+251,React,Advanced
+251,Git,Beginner
+251,HTML,Advanced
+251,DSA,Intermediate
+251,Excel,Advanced
+252,DBMS,Intermediate
+252,Node.js,Beginner
+252,Cyber Security,Beginner
+252,Matplotlib,Intermediate
+252,JavaScript,Intermediate
+252,C++,Advanced
+252,AWS,Advanced
+252,C,Beginner
+253,Computer Networks,Advanced
+253,AWS,Beginner
+253,PyTorch,Intermediate
+253,Power BI,Intermediate
+253,Seaborn,Advanced
+253,GCP,Advanced
+253,System Design,Intermediate
+253,Communication,Beginner
+253,C++,Advanced
+253,JavaScript,Advanced
+254,Git,Intermediate
+254,TensorFlow,Advanced
+254,Problem Solving,Intermediate
+254,Linux,Beginner
+254,NumPy,Advanced
+254,CSS,Advanced
+255,Java,Advanced
+255,DSA,Intermediate
+255,NLP,Intermediate
+255,Computer Vision,Intermediate
+255,PostgreSQL,Intermediate
+255,GitHub,Beginner
+255,Python,Intermediate
+255,Operating Systems,Beginner
+255,Machine Learning,Intermediate
+255,DBMS,Advanced
+256,NumPy,Advanced
+256,DSA,Advanced
+256,SQL,Intermediate
+256,Problem Solving,Advanced
+256,NLP,Advanced
+256,PyTorch,Beginner
+257,Cyber Security,Intermediate
+257,Power BI,Advanced
+257,C,Beginner
+257,C++,Intermediate
+257,Node.js,Advanced
+257,Matplotlib,Advanced
+257,Operating Systems,Intermediate
+257,Java,Intermediate
+258,TensorFlow,Advanced
+258,Android,Advanced
+258,HTML,Beginner
+258,Scikit-learn,Beginner
+258,Linux,Intermediate
+258,Communication,Beginner
+258,Seaborn,Beginner
+258,JavaScript,Advanced
+258,Machine Learning,Beginner
+258,Bash,Intermediate
+259,NumPy,Advanced
+259,DBMS,Beginner
+259,Data Analysis,Advanced
+259,Python,Beginner
+259,C,Advanced
+259,Problem Solving,Beginner
+259,PostgreSQL,Beginner
+260,Linux,Beginner
+260,Matplotlib,Intermediate
+260,GCP,Beginner
+260,SQL,Beginner
+260,Deep Learning,Advanced
+260,Data Analysis,Intermediate
+260,Kubernetes,Beginner
+261,SQL,Intermediate
+261,Docker,Beginner
+261,OOP,Beginner
+261,NumPy,Advanced
+261,Scikit-learn,Intermediate
+262,SQL,Advanced
+262,Computer Networks,Beginner
+262,Excel,Advanced
+262,Communication,Beginner
+262,GCP,Advanced
+262,Deep Learning,Intermediate
+263,GitHub,Advanced
+263,DBMS,Advanced
+263,Git,Advanced
+263,SQL,Advanced
+263,Communication,Beginner
+263,Matplotlib,Beginner
+263,HTML,Intermediate
+263,Machine Learning,Beginner
+263,Django,Intermediate
+264,NumPy,Beginner
+264,JavaScript,Advanced
+264,DBMS,Advanced
+264,React,Beginner
+264,AWS,Beginner
+264,Kubernetes,Beginner
+264,HTML,Intermediate
+264,Computer Vision,Beginner
+264,Computer Networks,Beginner
+265,Cyber Security,Intermediate
+265,MySQL,Beginner
+265,Azure,Beginner
+265,NLP,Intermediate
+265,Problem Solving,Intermediate
+265,Excel,Advanced
+265,Deep Learning,Advanced
+265,OOP,Intermediate
+265,CSS,Intermediate
+265,Scikit-learn,Advanced
+266,Kubernetes,Advanced
+266,Git,Beginner
+266,C++,Intermediate
+266,CSS,Advanced
+266,Docker,Intermediate
+266,Power BI,Intermediate
+266,SQL,Beginner
+266,TensorFlow,Advanced
+266,Python,Beginner
+267,NumPy,Intermediate
+267,Express.js,Beginner
+267,Computer Networks,Beginner
+267,Azure,Advanced
+267,Communication,Advanced
+267,DBMS,Intermediate
+267,Pandas,Advanced
+267,PostgreSQL,Intermediate
+267,AWS,Beginner
+267,Bash,Intermediate
+268,DBMS,Intermediate
+268,Kubernetes,Advanced
+268,Pandas,Intermediate
+268,Seaborn,Beginner
+268,Java,Intermediate
+268,HTML,Beginner
+268,Python,Beginner
+269,GitHub,Advanced
+269,Excel,Beginner
+269,Python,Beginner
+269,AWS,Beginner
+269,Computer Vision,Advanced
+269,Git,Advanced
+269,PostgreSQL,Beginner
+269,Flask,Advanced
+270,Problem Solving,Beginner
+270,OOP,Beginner
+270,JavaScript,Advanced
+270,Linux,Intermediate
+270,Matplotlib,Beginner
+270,Operating Systems,Advanced
+271,Python,Advanced
+271,JavaScript,Intermediate
+271,C++,Intermediate
+271,Seaborn,Advanced
+271,React,Beginner
+271,Git,Intermediate
+271,Docker,Intermediate
+271,GCP,Beginner
+271,Data Analysis,Advanced
+272,HTML,Intermediate
+272,Computer Vision,Advanced
+272,React,Intermediate
+272,System Design,Beginner
+272,GitHub,Advanced
+272,Django,Advanced
+272,Deep Learning,Advanced
+272,C++,Intermediate
+272,Java,Advanced
+273,PostgreSQL,Advanced
+273,AWS,Beginner
+273,PyTorch,Intermediate
+273,Express.js,Advanced
+273,Matplotlib,Intermediate
+273,Django,Advanced
+274,C++,Intermediate
+274,Django,Intermediate
+274,Pandas,Intermediate
+274,Git,Beginner
+274,Excel,Beginner
+274,GCP,Intermediate
+274,DSA,Intermediate
+274,NLP,Intermediate
+274,TensorFlow,Beginner
+274,Computer Networks,Beginner
+275,Machine Learning,Advanced
+275,DSA,Intermediate
+275,Node.js,Advanced
+275,Azure,Advanced
+275,Bash,Beginner
+275,Kotlin,Advanced
+275,Django,Advanced
+275,Computer Vision,Intermediate
+275,Pandas,Beginner
+275,JavaScript,Intermediate
+276,GCP,Advanced
+276,Express.js,Advanced
+276,Data Analysis,Beginner
+276,GitHub,Beginner
+276,Pandas,Advanced
+276,Linux,Advanced
+276,Python,Intermediate
+276,C,Advanced
+276,System Design,Intermediate
+277,Operating Systems,Beginner
+277,GCP,Advanced
+277,Bash,Intermediate
+277,PyTorch,Advanced
+277,Linux,Advanced
+277,Data Analysis,Beginner
+277,HTML,Beginner
+277,Matplotlib,Intermediate
+277,Power BI,Intermediate
+278,GitHub,Advanced
+278,Operating Systems,Beginner
+278,Linux,Beginner
+278,Scikit-learn,Intermediate
+278,Kotlin,Beginner
+278,Bash,Beginner
+279,Linux,Beginner
+279,HTML,Intermediate
+279,Pandas,Intermediate
+279,NumPy,Intermediate
+279,Excel,Advanced
+279,Android,Intermediate
+279,GCP,Intermediate
+279,Azure,Intermediate
+279,Scikit-learn,Intermediate
+280,PyTorch,Beginner
+280,HTML,Beginner
+280,Docker,Advanced
+280,JavaScript,Intermediate
+280,Scikit-learn,Beginner
+280,Kubernetes,Beginner
+280,Excel,Advanced
+280,Matplotlib,Advanced
+280,PostgreSQL,Advanced
+280,Deep Learning,Intermediate
+281,Communication,Intermediate
+281,MySQL,Intermediate
+281,Machine Learning,Beginner
+281,C++,Advanced
+281,HTML,Advanced
+282,GCP,Beginner
+282,Communication,Beginner
+282,Pandas,Beginner
+282,MongoDB,Beginner
+282,Operating Systems,Intermediate
+282,Seaborn,Beginner
+282,Python,Intermediate
+283,TensorFlow,Advanced
+283,Cyber Security,Beginner
+283,JavaScript,Beginner
+283,DBMS,Intermediate
+283,System Design,Advanced
+283,C++,Advanced
+283,GCP,Advanced
+283,Django,Intermediate
+283,PostgreSQL,Beginner
+284,Django,Beginner
+284,CSS,Intermediate
+284,System Design,Advanced
+284,MySQL,Beginner
+284,Cyber Security,Intermediate
+284,Git,Beginner
+284,Android,Intermediate
+284,Docker,Advanced
+284,Operating Systems,Beginner
+284,C++,Beginner
+285,Express.js,Beginner
+285,Android,Advanced
+285,Communication,Advanced
+285,Pandas,Beginner
+285,Bash,Intermediate
+285,Cyber Security,Intermediate
+286,C++,Advanced
+286,Node.js,Beginner
+286,JavaScript,Advanced
+286,Android,Beginner
+286,Git,Beginner
+286,Django,Beginner
+287,JavaScript,Advanced
+287,TensorFlow,Advanced
+287,Python,Intermediate
+287,PyTorch,Intermediate
+287,Express.js,Advanced
+287,DBMS,Advanced
+288,Flask,Beginner
+288,NLP,Intermediate
+288,React,Intermediate
+288,Data Analysis,Beginner
+288,C,Intermediate
+288,AWS,Intermediate
+288,Bash,Intermediate
+289,TensorFlow,Beginner
+289,Kubernetes,Advanced
+289,Data Analysis,Beginner
+289,Cyber Security,Intermediate
+289,Scikit-learn,Advanced
+289,Pandas,Beginner
+290,NumPy,Advanced
+290,Android,Beginner
+290,Express.js,Intermediate
+290,Git,Advanced
+290,C,Advanced
+290,React,Advanced
+290,Communication,Advanced
+290,TensorFlow,Intermediate
+290,Python,Beginner
+290,Node.js,Advanced
+291,Data Analysis,Intermediate
+291,MySQL,Advanced
+291,Flask,Advanced
+291,Communication,Intermediate
+291,Git,Beginner
+291,Cyber Security,Beginner
+291,Node.js,Beginner
+292,Python,Intermediate
+292,Kubernetes,Advanced
+292,MySQL,Beginner
+292,Computer Vision,Advanced
+292,System Design,Advanced
+292,React,Beginner
+292,Machine Learning,Advanced
+292,Deep Learning,Beginner
+292,MongoDB,Intermediate
+292,CSS,Intermediate
+293,Django,Beginner
+293,OOP,Advanced
+293,Machine Learning,Intermediate
+293,Pandas,Intermediate
+293,Linux,Intermediate
+293,PostgreSQL,Advanced
+293,GCP,Beginner
+293,MySQL,Intermediate
+293,Excel,Beginner
+294,Matplotlib,Beginner
+294,DBMS,Intermediate
+294,Problem Solving,Intermediate
+294,Computer Vision,Advanced
+294,GitHub,Advanced
+294,Kotlin,Intermediate
+294,Docker,Advanced
+294,OOP,Beginner
+294,DSA,Beginner
+295,DBMS,Intermediate
+295,Python,Beginner
+295,GitHub,Intermediate
+295,Data Analysis,Advanced
+295,CSS,Intermediate
+295,NumPy,Beginner
+295,Scikit-learn,Beginner
+295,AWS,Intermediate
+295,Operating Systems,Intermediate
+296,OOP,Beginner
+296,Deep Learning,Intermediate
+296,NumPy,Advanced
+296,C,Beginner
+296,Problem Solving,Advanced
+296,Communication,Intermediate
+296,Excel,Beginner
+297,MongoDB,Beginner
+297,HTML,Intermediate
+297,Linux,Advanced
+297,Computer Networks,Intermediate
+297,Communication,Intermediate
+298,DBMS,Beginner
+298,Kotlin,Intermediate
+298,Android,Beginner
+298,Computer Vision,Advanced
+298,MySQL,Beginner
+298,Python,Intermediate
+298,Data Analysis,Intermediate
+298,MongoDB,Intermediate
+299,C++,Advanced
+299,MongoDB,Advanced
+299,MySQL,Intermediate
+299,Flask,Intermediate
+299,Kubernetes,Beginner
+299,GitHub,Intermediate
+299,Power BI,Advanced
+299,Python,Advanced
+300,Cyber Security,Intermediate
+300,Django,Advanced
+300,Kubernetes,Intermediate
+300,C++,Beginner
+300,Matplotlib,Beginner
+301,Machine Learning,Beginner
+301,Linux,Beginner
+301,Seaborn,Intermediate
+301,Kubernetes,Intermediate
+301,Matplotlib,Advanced
+301,Kotlin,Beginner
+301,SQL,Advanced
+302,Django,Beginner
+302,DSA,Beginner
+302,HTML,Beginner
+302,TensorFlow,Advanced
+302,Computer Networks,Advanced
+302,Machine Learning,Intermediate
+302,Deep Learning,Intermediate
+302,Matplotlib,Beginner
+302,MongoDB,Intermediate
+303,Git,Intermediate
+303,Computer Networks,Intermediate
+303,Android,Beginner
+303,System Design,Advanced
+303,C++,Advanced
+303,Operating Systems,Beginner
+303,MySQL,Intermediate
+303,Cyber Security,Intermediate
+303,Java,Beginner
+304,DBMS,Intermediate
+304,Problem Solving,Beginner
+304,Cyber Security,Advanced
+304,DSA,Intermediate
+304,TensorFlow,Beginner
+305,JavaScript,Advanced
+305,Machine Learning,Advanced
+305,Problem Solving,Intermediate
+305,Kotlin,Intermediate
+305,Android,Beginner
+305,Django,Intermediate
+306,Computer Networks,Advanced
+306,PostgreSQL,Intermediate
+306,System Design,Beginner
+306,Problem Solving,Intermediate
+306,Docker,Advanced
+306,Operating Systems,Advanced
+307,Kotlin,Intermediate
+307,OOP,Intermediate
+307,Flask,Advanced
+307,Node.js,Intermediate
+307,Excel,Intermediate
+307,Express.js,Beginner
+307,MySQL,Advanced
+307,Pandas,Advanced
+307,Bash,Beginner
+307,Machine Learning,Intermediate
+308,Matplotlib,Beginner
+308,NumPy,Intermediate
+308,AWS,Advanced
+308,DSA,Beginner
+308,System Design,Intermediate
+308,Problem Solving,Advanced
+308,Express.js,Intermediate
+308,Communication,Advanced
+308,Linux,Beginner
+309,HTML,Beginner
+309,MySQL,Beginner
+309,Python,Intermediate
+309,Docker,Intermediate
+309,Communication,Intermediate
+309,PyTorch,Advanced
+309,TensorFlow,Advanced
+309,Power BI,Advanced
+310,Git,Advanced
+310,Express.js,Intermediate
+310,Deep Learning,Advanced
+310,GitHub,Beginner
+310,Power BI,Beginner
+310,Java,Advanced
+310,AWS,Advanced
+310,JavaScript,Beginner
+310,Problem Solving,Intermediate
+310,Kubernetes,Beginner
+311,Kotlin,Advanced
+311,TensorFlow,Beginner
+311,HTML,Beginner
+311,Computer Vision,Beginner
+311,Problem Solving,Intermediate
+311,Machine Learning,Intermediate
+311,React,Beginner
+311,SQL,Intermediate
+312,Azure,Intermediate
+312,Power BI,Intermediate
+312,React,Intermediate
+312,GitHub,Beginner
+312,Data Analysis,Advanced
+313,CSS,Beginner
+313,Node.js,Beginner
+313,PostgreSQL,Beginner
+313,AWS,Advanced
+313,Problem Solving,Beginner
+313,DSA,Beginner
+314,Cyber Security,Advanced
+314,GitHub,Advanced
+314,Linux,Beginner
+314,Power BI,Intermediate
+314,Java,Beginner
+315,Git,Intermediate
+315,Seaborn,Intermediate
+315,Problem Solving,Intermediate
+315,Data Analysis,Beginner
+315,Computer Networks,Advanced
+315,Kotlin,Intermediate
+316,Machine Learning,Beginner
+316,Problem Solving,Intermediate
+316,DSA,Beginner
+316,Data Analysis,Advanced
+316,Azure,Beginner
+317,Flask,Intermediate
+317,C++,Intermediate
+317,Azure,Intermediate
+317,PyTorch,Beginner
+317,NLP,Beginner
+317,Computer Vision,Intermediate
+317,Scikit-learn,Beginner
+318,Excel,Intermediate
+318,NLP,Intermediate
+318,DBMS,Beginner
+318,SQL,Beginner
+318,JavaScript,Beginner
+318,Linux,Intermediate
+318,Data Analysis,Advanced
+319,Bash,Beginner
+319,Kotlin,Intermediate
+319,DSA,Intermediate
+319,Django,Beginner
+319,Problem Solving,Advanced
+319,Azure,Intermediate
+319,MySQL,Advanced
+319,Android,Beginner
+320,Java,Intermediate
+320,Kubernetes,Intermediate
+320,Machine Learning,Advanced
+320,React,Beginner
+320,TensorFlow,Beginner
+320,Deep Learning,Beginner
+320,C,Advanced
+320,HTML,Intermediate
+321,Python,Advanced
+321,Data Analysis,Advanced
+321,MySQL,Beginner
+321,OOP,Beginner
+321,React,Intermediate
+321,Scikit-learn,Beginner
+321,Kotlin,Advanced
+321,Computer Vision,Beginner
+322,Matplotlib,Advanced
+322,DSA,Advanced
+322,MongoDB,Intermediate
+322,Cyber Security,Beginner
+322,Express.js,Beginner
+322,Kubernetes,Intermediate
+322,TensorFlow,Advanced
+322,PyTorch,Beginner
+322,Django,Beginner
+323,OOP,Advanced
+323,CSS,Advanced
+323,Communication,Advanced
+323,Scikit-learn,Beginner
+323,Docker,Beginner
+323,DSA,Intermediate
+323,Matplotlib,Advanced
+324,Kotlin,Beginner
+324,Express.js,Beginner
+324,Java,Intermediate
+324,Scikit-learn,Intermediate
+324,Seaborn,Intermediate
+324,System Design,Intermediate
+324,GCP,Beginner
+324,JavaScript,Beginner
+325,NumPy,Advanced
+325,Django,Intermediate
+325,C++,Beginner
+325,AWS,Advanced
+325,NLP,Advanced
+325,Git,Intermediate
+325,Azure,Intermediate
+325,Android,Beginner
+325,C,Intermediate
+326,DBMS,Intermediate
+326,Seaborn,Advanced
+326,Express.js,Beginner
+326,MongoDB,Advanced
+326,Flask,Advanced
+326,Problem Solving,Beginner
+326,System Design,Intermediate
+326,DSA,Advanced
+326,Scikit-learn,Intermediate
+327,Azure,Advanced
+327,Node.js,Beginner
+327,NumPy,Advanced
+327,DBMS,Intermediate
+327,Pandas,Intermediate
+328,OOP,Intermediate
+328,Git,Intermediate
+328,Node.js,Advanced
+328,Machine Learning,Beginner
+328,Power BI,Intermediate
+328,Kubernetes,Intermediate
+328,System Design,Intermediate
+328,CSS,Intermediate
+329,HTML,Beginner
+329,PostgreSQL,Beginner
+329,Azure,Beginner
+329,Android,Beginner
+329,Computer Networks,Beginner
+330,Excel,Advanced
+330,React,Advanced
+330,Android,Beginner
+330,Node.js,Advanced
+330,Kubernetes,Beginner
+330,Matplotlib,Advanced
+330,Docker,Beginner
+330,DSA,Advanced
+330,PostgreSQL,Beginner
+330,NLP,Intermediate
+331,NLP,Beginner
+331,Pandas,Beginner
+331,Cyber Security,Intermediate
+331,PyTorch,Intermediate
+331,SQL,Advanced
+331,Azure,Beginner
+332,PyTorch,Advanced
+332,C,Advanced
+332,Communication,Intermediate
+332,AWS,Beginner
+332,Operating Systems,Beginner
+333,NumPy,Intermediate
+333,AWS,Advanced
+333,Matplotlib,Intermediate
+333,Pandas,Advanced
+333,Azure,Beginner
+333,Kubernetes,Intermediate
+333,Deep Learning,Beginner
+333,C,Intermediate
+333,Flask,Beginner
+333,CSS,Beginner
+334,HTML,Intermediate
+334,Linux,Intermediate
+334,DSA,Intermediate
+334,NLP,Beginner
+334,C++,Advanced
+335,Flask,Advanced
+335,OOP,Intermediate
+335,Machine Learning,Intermediate
+335,HTML,Advanced
+335,Java,Intermediate
+335,Django,Advanced
+335,CSS,Intermediate
+335,Python,Intermediate
+336,Flask,Beginner
+336,HTML,Advanced
+336,Power BI,Advanced
+336,NLP,Beginner
+336,C++,Advanced
+336,Kotlin,Beginner
+336,Seaborn,Advanced
+336,GCP,Intermediate
+336,SQL,Intermediate
+336,Computer Vision,Beginner
+337,Python,Advanced
+337,Matplotlib,Advanced
+337,NumPy,Advanced
+337,CSS,Intermediate
+337,OOP,Advanced
+337,Express.js,Intermediate
+337,DBMS,Advanced
+338,Express.js,Intermediate
+338,Docker,Advanced
+338,System Design,Intermediate
+338,TensorFlow,Advanced
+338,AWS,Advanced
+338,Cyber Security,Advanced
+338,Linux,Advanced
+338,DSA,Beginner
+338,Computer Vision,Advanced
+338,Python,Advanced
+339,Cyber Security,Advanced
+339,Git,Beginner
+339,Computer Vision,Advanced
+339,NLP,Intermediate
+339,Matplotlib,Advanced
+340,Flask,Intermediate
+340,GCP,Beginner
+340,GitHub,Beginner
+340,Pandas,Intermediate
+340,Power BI,Beginner
+340,Node.js,Advanced
+341,Computer Vision,Intermediate
+341,Scikit-learn,Intermediate
+341,C,Intermediate
+341,Pandas,Advanced
+341,MongoDB,Advanced
+341,Operating Systems,Beginner
+342,Android,Intermediate
+342,Computer Vision,Beginner
+342,CSS,Advanced
+342,Bash,Beginner
+342,Node.js,Beginner
+342,Flask,Beginner
+342,Problem Solving,Beginner
+342,Docker,Advanced
+342,Cyber Security,Advanced
+343,Communication,Intermediate
+343,Cyber Security,Advanced
+343,Seaborn,Beginner
+343,AWS,Intermediate
+343,NumPy,Intermediate
+343,Operating Systems,Intermediate
+344,JavaScript,Beginner
+344,Python,Intermediate
+344,Pandas,Intermediate
+344,Linux,Beginner
+344,Matplotlib,Intermediate
+344,Express.js,Advanced
+345,Problem Solving,Intermediate
+345,GitHub,Beginner
+345,Bash,Advanced
+345,PyTorch,Beginner
+345,NLP,Advanced
+345,Data Analysis,Beginner
+345,Git,Intermediate
+346,Computer Networks,Beginner
+346,Communication,Intermediate
+346,TensorFlow,Beginner
+346,Django,Intermediate
+346,DSA,Advanced
+346,DBMS,Advanced
+346,C++,Advanced
+347,Node.js,Beginner
+347,Pandas,Beginner
+347,Kubernetes,Beginner
+347,GitHub,Intermediate
+347,AWS,Beginner
+347,Problem Solving,Beginner
+347,DBMS,Beginner
+347,NLP,Beginner
+347,MongoDB,Advanced
+348,Deep Learning,Advanced
+348,Android,Beginner
+348,Kubernetes,Advanced
+348,CSS,Intermediate
+348,Node.js,Advanced
+348,GitHub,Intermediate
+348,C,Intermediate
+348,Data Analysis,Beginner
+349,CSS,Beginner
+349,Linux,Beginner
+349,Bash,Advanced
+349,C++,Intermediate
+349,Data Analysis,Advanced
+349,Computer Networks,Advanced
+349,Java,Advanced
+349,React,Beginner
+349,NumPy,Intermediate
+350,PyTorch,Beginner
+350,Communication,Beginner
+350,C,Beginner
+350,AWS,Beginner
+350,Git,Beginner
+350,Pandas,Advanced
+351,NumPy,Advanced
+351,Machine Learning,Advanced
+351,Java,Intermediate
+351,Computer Networks,Beginner
+351,Express.js,Intermediate
+351,NLP,Beginner
+351,Excel,Advanced
+351,Operating Systems,Intermediate
+351,Python,Advanced
+352,Excel,Intermediate
+352,NLP,Advanced
+352,CSS,Intermediate
+352,PyTorch,Intermediate
+352,TensorFlow,Intermediate
+352,Azure,Intermediate
+353,C,Advanced
+353,AWS,Intermediate
+353,Data Analysis,Advanced
+353,OOP,Beginner
+353,MySQL,Advanced
+353,Azure,Advanced
+353,Matplotlib,Advanced
+353,SQL,Advanced
+353,GCP,Intermediate
+354,Flask,Advanced
+354,TensorFlow,Intermediate
+354,Pandas,Intermediate
+354,OOP,Beginner
+354,Cyber Security,Beginner
+354,Git,Advanced
+354,Django,Beginner
+355,Azure,Beginner
+355,MySQL,Beginner
+355,Python,Intermediate
+355,Operating Systems,Intermediate
+355,AWS,Beginner
+355,Power BI,Intermediate
+356,C,Advanced
+356,Data Analysis,Advanced
+356,Communication,Beginner
+356,Excel,Intermediate
+356,Java,Intermediate
+356,Pandas,Beginner
+357,C++,Advanced
+357,NLP,Intermediate
+357,AWS,Intermediate
+357,HTML,Advanced
+357,Java,Beginner
+357,Problem Solving,Intermediate
+357,MySQL,Intermediate
+357,Machine Learning,Advanced
+358,Scikit-learn,Beginner
+358,Git,Intermediate
+358,Cyber Security,Beginner
+358,DBMS,Intermediate
+358,Docker,Advanced
+358,TensorFlow,Intermediate
+358,Python,Advanced
+358,Flask,Intermediate
+359,GitHub,Beginner
+359,HTML,Advanced
+359,Bash,Intermediate
+359,NumPy,Intermediate
+359,MongoDB,Intermediate
+359,TensorFlow,Beginner
+359,Django,Beginner
+359,AWS,Advanced
+359,OOP,Advanced
+359,CSS,Beginner
+360,Data Analysis,Intermediate
+360,Cyber Security,Intermediate
+360,Python,Beginner
+360,Node.js,Beginner
+360,GitHub,Advanced
+360,PostgreSQL,Advanced
+360,Excel,Intermediate
+360,Computer Vision,Beginner
+360,MySQL,Advanced
+361,MySQL,Advanced
+361,System Design,Beginner
+361,Operating Systems,Advanced
+361,Android,Intermediate
+361,NLP,Advanced
+361,Deep Learning,Intermediate
+362,JavaScript,Advanced
+362,Data Analysis,Advanced
+362,PyTorch,Beginner
+362,System Design,Advanced
+362,DSA,Intermediate
+362,Node.js,Advanced
+362,Flask,Beginner
+362,Pandas,Intermediate
+362,Deep Learning,Beginner
+362,GitHub,Intermediate
+363,Node.js,Beginner
+363,PostgreSQL,Beginner
+363,React,Intermediate
+363,Java,Advanced
+363,GitHub,Beginner
+363,Linux,Beginner
+364,Data Analysis,Beginner
+364,Python,Beginner
+364,JavaScript,Beginner
+364,React,Advanced
+364,Deep Learning,Advanced
+364,MySQL,Beginner
+364,Django,Beginner
+364,MongoDB,Beginner
+364,Computer Networks,Beginner
+365,GitHub,Intermediate
+365,Cyber Security,Beginner
+365,Power BI,Beginner
+365,Problem Solving,Beginner
+365,React,Beginner
+365,Python,Beginner
+365,NumPy,Beginner
+366,Linux,Beginner
+366,PyTorch,Advanced
+366,Django,Beginner
+366,Matplotlib,Beginner
+366,GCP,Beginner
+366,Deep Learning,Intermediate
+366,Express.js,Advanced
+366,Computer Vision,Advanced
+367,Operating Systems,Advanced
+367,Kubernetes,Advanced
+367,Java,Beginner
+367,Git,Beginner
+367,GitHub,Intermediate
+367,Flask,Beginner
+367,TensorFlow,Advanced
+368,Pandas,Advanced
+368,MongoDB,Advanced
+368,PyTorch,Advanced
+368,Git,Intermediate
+368,DSA,Advanced
+368,Kubernetes,Beginner
+368,NumPy,Advanced
+368,Matplotlib,Beginner
+368,Docker,Intermediate
+369,GCP,Intermediate
+369,Linux,Intermediate
+369,Docker,Advanced
+369,Node.js,Advanced
+369,AWS,Beginner
+370,React,Beginner
+370,OOP,Intermediate
+370,Flask,Intermediate
+370,Node.js,Intermediate
+370,Express.js,Intermediate
+370,Operating Systems,Advanced
+370,Data Analysis,Intermediate
+371,Docker,Intermediate
+371,Machine Learning,Advanced
+371,PyTorch,Intermediate
+371,Matplotlib,Intermediate
+371,DBMS,Advanced
+371,Cyber Security,Intermediate
+371,OOP,Intermediate
+372,Deep Learning,Beginner
+372,Machine Learning,Beginner
+372,TensorFlow,Intermediate
+372,Communication,Beginner
+372,MongoDB,Intermediate
+372,PostgreSQL,Advanced
+372,Django,Intermediate
+372,HTML,Beginner
+372,OOP,Advanced
+372,Scikit-learn,Intermediate
+373,Python,Intermediate
+373,DBMS,Beginner
+373,Scikit-learn,Intermediate
+373,NLP,Beginner
+373,Data Analysis,Beginner
+373,PyTorch,Advanced
+374,Java,Advanced
+374,GCP,Advanced
+374,Seaborn,Intermediate
+374,Git,Advanced
+374,Scikit-learn,Advanced
+374,Cyber Security,Beginner
+374,Operating Systems,Advanced
+374,DBMS,Advanced
+375,React,Intermediate
+375,Python,Beginner
+375,Android,Advanced
+375,Bash,Advanced
+375,Express.js,Intermediate
+375,HTML,Beginner
+375,Flask,Beginner
+375,Data Analysis,Advanced
+375,Azure,Advanced
+376,MongoDB,Advanced
+376,Computer Networks,Beginner
+376,Azure,Intermediate
+376,DSA,Beginner
+376,Java,Advanced
+376,Docker,Beginner
+377,Cyber Security,Advanced
+377,Express.js,Intermediate
+377,Android,Advanced
+377,PyTorch,Advanced
+377,DSA,Intermediate
+377,Node.js,Advanced
+377,Azure,Intermediate
+377,Excel,Beginner
+377,MongoDB,Intermediate
+378,DBMS,Beginner
+378,System Design,Beginner
+378,PostgreSQL,Advanced
+378,HTML,Beginner
+378,Bash,Intermediate
+378,Machine Learning,Beginner
+378,GitHub,Intermediate
+379,PostgreSQL,Intermediate
+379,Computer Networks,Advanced
+379,Cyber Security,Beginner
+379,Flask,Intermediate
+379,PyTorch,Beginner
+379,Docker,Advanced
+380,React,Intermediate
+380,Computer Networks,Intermediate
+380,Python,Intermediate
+380,SQL,Beginner
+380,Excel,Intermediate
+380,Flask,Advanced
+380,GCP,Beginner
+380,PyTorch,Beginner
+380,Git,Beginner
+381,Azure,Advanced
+381,C++,Advanced
+381,Node.js,Advanced
+381,Flask,Advanced
+381,GitHub,Beginner
+382,HTML,Intermediate
+382,System Design,Intermediate
+382,PostgreSQL,Beginner
+382,MySQL,Beginner
+382,DBMS,Beginner
+382,Express.js,Beginner
+382,AWS,Advanced
+382,SQL,Intermediate
+382,Kubernetes,Advanced
+383,DSA,Beginner
+383,MongoDB,Beginner
+383,Git,Beginner
+383,Problem Solving,Intermediate
+383,Cyber Security,Advanced
+383,MySQL,Intermediate
+383,Linux,Advanced
+383,GCP,Advanced
+383,Pandas,Intermediate
+384,Linux,Advanced
+384,HTML,Intermediate
+384,Express.js,Intermediate
+384,Cyber Security,Advanced
+384,OOP,Beginner
+384,Data Analysis,Advanced
+384,Docker,Intermediate
+384,Matplotlib,Intermediate
+384,Power BI,Beginner
+385,HTML,Intermediate
+385,Pandas,Beginner
+385,Power BI,Beginner
+385,Node.js,Beginner
+385,Bash,Advanced
+385,Linux,Beginner
+385,NumPy,Advanced
+385,PyTorch,Intermediate
+385,Python,Intermediate
+386,CSS,Advanced
+386,Operating Systems,Advanced
+386,Pandas,Intermediate
+386,DSA,Intermediate
+386,Git,Beginner
+386,MongoDB,Intermediate
+387,JavaScript,Beginner
+387,Computer Vision,Advanced
+387,OOP,Intermediate
+387,MySQL,Intermediate
+387,Kotlin,Intermediate
+387,AWS,Beginner
+387,GCP,Beginner
+387,PyTorch,Intermediate
+388,Excel,Intermediate
+388,Scikit-learn,Intermediate
+388,Python,Advanced
+388,React,Beginner
+388,PyTorch,Beginner
+388,Communication,Beginner
+388,MongoDB,Advanced
+388,PostgreSQL,Intermediate
+388,JavaScript,Advanced
+388,C++,Beginner
+389,PyTorch,Advanced
+389,Express.js,Beginner
+389,OOP,Beginner
+389,Azure,Intermediate
+389,Flask,Intermediate
+389,Computer Networks,Beginner
+389,Deep Learning,Intermediate
+390,Docker,Intermediate
+390,Deep Learning,Advanced
+390,JavaScript,Beginner
+390,Java,Intermediate
+390,C,Advanced
+390,NumPy,Intermediate
+390,Express.js,Advanced
+390,Matplotlib,Intermediate
+391,Operating Systems,Intermediate
+391,DSA,Advanced
+391,NumPy,Beginner
+391,HTML,Beginner
+391,SQL,Advanced
+391,Bash,Beginner
+391,Azure,Intermediate
+391,MySQL,Advanced
+392,SQL,Intermediate
+392,GCP,Intermediate
+392,AWS,Advanced
+392,MongoDB,Advanced
+392,Problem Solving,Beginner
+392,Computer Networks,Advanced
+392,Bash,Beginner
+392,NumPy,Advanced
+393,PyTorch,Advanced
+393,Computer Networks,Beginner
+393,GCP,Advanced
+393,HTML,Advanced
+393,Seaborn,Intermediate
+393,Azure,Beginner
+393,Excel,Intermediate
+393,TensorFlow,Beginner
+394,Scikit-learn,Advanced
+394,Computer Vision,Intermediate
+394,OOP,Advanced
+394,MongoDB,Beginner
+394,HTML,Beginner
+394,Java,Intermediate
+395,CSS,Advanced
+395,Android,Intermediate
+395,System Design,Beginner
+395,DSA,Intermediate
+395,DBMS,Intermediate
+395,TensorFlow,Advanced
+396,Data Analysis,Intermediate
+396,HTML,Intermediate
+396,JavaScript,Advanced
+396,DSA,Advanced
+396,Git,Beginner
+396,Seaborn,Beginner
+396,Express.js,Intermediate
+396,Machine Learning,Beginner
+396,Java,Advanced
+397,NumPy,Advanced
+397,Cyber Security,Advanced
+397,OOP,Beginner
+397,React,Beginner
+397,Problem Solving,Advanced
+397,MySQL,Advanced
+397,Seaborn,Intermediate
+397,JavaScript,Intermediate
+397,Computer Networks,Intermediate
+397,Android,Beginner
+398,Java,Beginner
+398,TensorFlow,Advanced
+398,Android,Beginner
+398,Machine Learning,Beginner
+398,Git,Beginner
+399,CSS,Intermediate
+399,Linux,Advanced
+399,GitHub,Intermediate
+399,Kubernetes,Advanced
+399,Problem Solving,Beginner
+399,Computer Networks,Intermediate
+399,TensorFlow,Beginner
+399,Docker,Intermediate
+399,Deep Learning,Advanced
+399,NLP,Intermediate
+400,MongoDB,Beginner
+400,GitHub,Intermediate
+400,Django,Intermediate
+400,PyTorch,Intermediate
+400,Azure,Beginner
+400,Linux,Intermediate
+401,DBMS,Beginner
+401,OOP,Intermediate
+401,Node.js,Advanced
+401,Django,Advanced
+401,AWS,Beginner
+401,SQL,Advanced
+401,MongoDB,Advanced
+402,SQL,Advanced
+402,Data Analysis,Intermediate
+402,Scikit-learn,Beginner
+402,C,Advanced
+402,Django,Beginner
+402,Azure,Advanced
+402,AWS,Intermediate
+402,TensorFlow,Intermediate
+402,NLP,Intermediate
+403,Machine Learning,Intermediate
+403,Cyber Security,Intermediate
+403,GitHub,Intermediate
+403,JavaScript,Advanced
+403,GCP,Intermediate
+403,Express.js,Beginner
+404,Matplotlib,Advanced
+404,GitHub,Intermediate
+404,Django,Beginner
+404,Computer Networks,Advanced
+404,GCP,Intermediate
+404,PostgreSQL,Beginner
+404,Bash,Intermediate
+404,Communication,Advanced
+404,Machine Learning,Beginner
+405,HTML,Intermediate
+405,Django,Beginner
+405,Data Analysis,Beginner
+405,TensorFlow,Advanced
+405,Communication,Advanced
+405,AWS,Intermediate
+405,PostgreSQL,Advanced
+405,C,Beginner
+405,NLP,Beginner
+405,React,Intermediate
+406,Linux,Advanced
+406,Machine Learning,Beginner
+406,Django,Beginner
+406,Python,Beginner
+406,Kubernetes,Beginner
+406,GitHub,Advanced
+406,NumPy,Beginner
+407,Express.js,Beginner
+407,Cyber Security,Intermediate
+407,React,Beginner
+407,NumPy,Advanced
+407,Git,Beginner
+407,DSA,Intermediate
+407,Docker,Advanced
+407,PostgreSQL,Beginner
+408,Express.js,Intermediate
+408,Linux,Advanced
+408,Git,Advanced
+408,Flask,Advanced
+408,Excel,Beginner
+408,TensorFlow,Beginner
+408,GCP,Intermediate
+408,PostgreSQL,Beginner
+408,C++,Intermediate
+408,AWS,Advanced
+409,OOP,Beginner
+409,Kubernetes,Advanced
+409,Flask,Intermediate
+409,Linux,Advanced
+409,PostgreSQL,Advanced
+409,Bash,Advanced
+409,SQL,Beginner
+409,Deep Learning,Advanced
+409,React,Advanced
+409,Git,Beginner
+410,Seaborn,Intermediate
+410,System Design,Advanced
+410,Scikit-learn,Beginner
+410,Linux,Intermediate
+410,Operating Systems,Intermediate
+410,Java,Advanced
+410,Computer Vision,Intermediate
+410,Flask,Advanced
+411,Machine Learning,Intermediate
+411,Data Analysis,Beginner
+411,Java,Intermediate
+411,Operating Systems,Advanced
+411,Excel,Advanced
+411,Docker,Beginner
+411,Deep Learning,Intermediate
+411,Android,Intermediate
+411,C,Advanced
+412,Java,Intermediate
+412,Deep Learning,Beginner
+412,Seaborn,Advanced
+412,Express.js,Intermediate
+412,React,Beginner
+412,Django,Beginner
+412,HTML,Advanced
+412,SQL,Intermediate
+412,Kotlin,Advanced
+412,AWS,Advanced
+413,NLP,Beginner
+413,Seaborn,Advanced
+413,React,Intermediate
+413,Java,Intermediate
+413,NumPy,Beginner
+413,Problem Solving,Beginner
+413,SQL,Beginner
+413,Machine Learning,Beginner
+414,Seaborn,Intermediate
+414,Flask,Intermediate
+414,Git,Intermediate
+414,TensorFlow,Beginner
+414,Cyber Security,Advanced
+415,Git,Advanced
+415,Communication,Beginner
+415,Java,Intermediate
+415,Express.js,Intermediate
+415,Problem Solving,Beginner
+416,System Design,Beginner
+416,Git,Advanced
+416,CSS,Advanced
+416,Python,Intermediate
+416,Kubernetes,Beginner
+416,Kotlin,Beginner
+416,Power BI,Beginner
+417,PostgreSQL,Intermediate
+417,Git,Beginner
+417,Computer Vision,Intermediate
+417,SQL,Intermediate
+417,GitHub,Beginner
+417,Pandas,Advanced
+417,Seaborn,Advanced
+417,Communication,Beginner
+417,DSA,Advanced
+417,Computer Networks,Intermediate
+418,MongoDB,Advanced
+418,PyTorch,Advanced
+418,React,Beginner
+418,Operating Systems,Intermediate
+418,NumPy,Beginner
+418,Git,Advanced
+418,PostgreSQL,Advanced
+419,DSA,Intermediate
+419,Deep Learning,Intermediate
+419,Linux,Intermediate
+419,Computer Vision,Advanced
+419,Machine Learning,Beginner
+419,DBMS,Advanced
+419,PostgreSQL,Advanced
+419,System Design,Beginner
+419,Bash,Intermediate
+419,HTML,Advanced
+420,Django,Beginner
+420,C++,Advanced
+420,Matplotlib,Intermediate
+420,Node.js,Beginner
+420,Scikit-learn,Advanced
+421,Power BI,Beginner
+421,NumPy,Intermediate
+421,Excel,Advanced
+421,Linux,Beginner
+421,Data Analysis,Advanced
+421,DSA,Beginner
+422,Excel,Beginner
+422,NLP,Advanced
+422,Docker,Beginner
+422,Power BI,Beginner
+422,Machine Learning,Advanced
+422,JavaScript,Advanced
+423,Node.js,Intermediate
+423,JavaScript,Beginner
+423,C,Intermediate
+423,Kubernetes,Beginner
+423,MongoDB,Intermediate
+423,Excel,Advanced
+423,Kotlin,Beginner
+423,Data Analysis,Intermediate
+423,Scikit-learn,Beginner
+424,Android,Beginner
+424,Computer Vision,Beginner
+424,Docker,Advanced
+424,Pandas,Intermediate
+424,C++,Beginner
+424,PostgreSQL,Intermediate
+424,Java,Beginner
+424,Problem Solving,Intermediate
+424,TensorFlow,Advanced
+425,MySQL,Advanced
+425,MongoDB,Beginner
+425,System Design,Advanced
+425,Operating Systems,Intermediate
+425,Cyber Security,Beginner
+425,PostgreSQL,Advanced
+426,Data Analysis,Beginner
+426,DBMS,Advanced
+426,PyTorch,Intermediate
+426,GCP,Intermediate
+426,Azure,Beginner
+426,GitHub,Intermediate
+426,Flask,Beginner
+427,Flask,Advanced
+427,Machine Learning,Advanced
+427,GitHub,Beginner
+427,React,Advanced
+427,NLP,Intermediate
+427,NumPy,Intermediate
+427,DSA,Beginner
+427,Power BI,Intermediate
+427,PyTorch,Advanced
+428,Matplotlib,Beginner
+428,JavaScript,Advanced
+428,Python,Beginner
+428,Flask,Intermediate
+428,Bash,Beginner
+428,GCP,Beginner
+429,Data Analysis,Beginner
+429,Problem Solving,Beginner
+429,Excel,Advanced
+429,Python,Beginner
+429,GitHub,Intermediate
+429,Communication,Advanced
+429,Operating Systems,Advanced
+430,C++,Intermediate
+430,Cyber Security,Intermediate
+430,Linux,Beginner
+430,GitHub,Beginner
+430,Seaborn,Beginner
+431,Excel,Intermediate
+431,Linux,Beginner
+431,Power BI,Advanced
+431,Java,Intermediate
+431,System Design,Advanced
+431,DBMS,Advanced
+431,Android,Advanced
+431,CSS,Intermediate
+431,SQL,Beginner
+432,NumPy,Advanced
+432,Docker,Beginner
+432,Computer Vision,Beginner
+432,NLP,Beginner
+432,Java,Advanced
+432,OOP,Beginner
+432,Django,Intermediate
+432,JavaScript,Intermediate
+433,CSS,Intermediate
+433,Computer Networks,Beginner
+433,Kubernetes,Intermediate
+433,DBMS,Intermediate
+433,Kotlin,Intermediate
+433,Excel,Intermediate
+433,Node.js,Advanced
+433,Linux,Advanced
+433,DSA,Advanced
+433,Scikit-learn,Advanced
+434,Scikit-learn,Advanced
+434,Kubernetes,Intermediate
+434,AWS,Advanced
+434,Problem Solving,Advanced
+434,Bash,Beginner
+434,Flask,Advanced
+434,NumPy,Intermediate
+435,Power BI,Advanced
+435,Problem Solving,Intermediate
+435,Pandas,Beginner
+435,SQL,Advanced
+435,Git,Beginner
+435,Data Analysis,Intermediate
+435,Linux,Advanced
+435,Cyber Security,Advanced
+436,Kubernetes,Beginner
+436,Node.js,Beginner
+436,Bash,Intermediate
+436,Machine Learning,Intermediate
+436,MySQL,Advanced
+436,Communication,Intermediate
+436,DBMS,Beginner
+436,Azure,Advanced
+437,Git,Advanced
+437,Computer Vision,Intermediate
+437,DBMS,Intermediate
+437,Azure,Beginner
+437,Linux,Intermediate
+438,Azure,Beginner
+438,Linux,Beginner
+438,System Design,Advanced
+438,Python,Intermediate
+438,Kubernetes,Beginner
+438,Excel,Advanced
+439,GitHub,Beginner
+439,Machine Learning,Intermediate
+439,OOP,Beginner
+439,Git,Intermediate
+439,Linux,Intermediate
+439,NLP,Intermediate
+439,TensorFlow,Advanced
+440,Kotlin,Intermediate
+440,Machine Learning,Beginner
+440,Scikit-learn,Beginner
+440,Communication,Advanced
+440,Docker,Advanced
+440,Problem Solving,Beginner
+440,Seaborn,Intermediate
+440,OOP,Beginner
+440,Java,Advanced
+440,NLP,Intermediate
+441,GitHub,Intermediate
+441,GCP,Intermediate
+441,Flask,Intermediate
+441,Excel,Intermediate
+441,OOP,Advanced
+441,Scikit-learn,Beginner
+441,TensorFlow,Intermediate
+441,Machine Learning,Beginner
+441,Cyber Security,Beginner
+441,Operating Systems,Intermediate
+442,JavaScript,Intermediate
+442,Data Analysis,Beginner
+442,Seaborn,Beginner
+442,Java,Beginner
+442,Deep Learning,Intermediate
+442,DSA,Intermediate
+442,Python,Beginner
+442,Azure,Advanced
+442,Computer Vision,Beginner
+442,System Design,Beginner
+443,GCP,Intermediate
+443,Android,Intermediate
+443,MySQL,Beginner
+443,Linux,Intermediate
+443,PyTorch,Beginner
+443,Scikit-learn,Advanced
+444,NLP,Beginner
+444,Express.js,Beginner
+444,HTML,Beginner
+444,Scikit-learn,Intermediate
+444,Cyber Security,Beginner
+444,Kubernetes,Beginner
+445,Bash,Beginner
+445,TensorFlow,Advanced
+445,Azure,Intermediate
+445,Kubernetes,Intermediate
+445,Seaborn,Beginner
+445,NumPy,Beginner
+445,GCP,Advanced
+446,React,Advanced
+446,CSS,Intermediate
+446,GCP,Advanced
+446,Kubernetes,Beginner
+446,Express.js,Intermediate
+446,Power BI,Beginner
+446,Scikit-learn,Intermediate
+446,Deep Learning,Advanced
+446,Pandas,Advanced
+446,Machine Learning,Beginner
+447,GCP,Advanced
+447,PyTorch,Beginner
+447,Communication,Advanced
+447,Data Analysis,Intermediate
+447,DSA,Intermediate
+447,C++,Beginner
+447,Flask,Intermediate
+448,NLP,Intermediate
+448,CSS,Advanced
+448,Kotlin,Intermediate
+448,Git,Advanced
+448,MongoDB,Advanced
+448,Django,Advanced
+448,C++,Beginner
+448,Excel,Beginner
+449,Operating Systems,Advanced
+449,Android,Advanced
+449,PostgreSQL,Advanced
+449,Communication,Advanced
+449,SQL,Beginner
+449,Flask,Beginner
+449,Scikit-learn,Advanced
+449,Git,Advanced
+449,Matplotlib,Intermediate
+450,Java,Beginner
+450,Flask,Beginner
+450,SQL,Beginner
+450,Computer Vision,Intermediate
+450,Power BI,Beginner
+450,C++,Advanced
+451,Node.js,Beginner
+451,SQL,Advanced
+451,GitHub,Beginner
+451,GCP,Advanced
+451,Bash,Intermediate
+451,Azure,Advanced
+451,Docker,Beginner
+451,Django,Advanced
+452,Docker,Advanced
+452,Deep Learning,Intermediate
+452,Node.js,Advanced
+452,Azure,Beginner
+452,System Design,Intermediate
+452,Seaborn,Advanced
+452,Excel,Advanced
+452,Computer Vision,Beginner
+452,Flask,Beginner
+453,Node.js,Intermediate
+453,Linux,Intermediate
+453,MongoDB,Advanced
+453,AWS,Intermediate
+453,Problem Solving,Beginner
+453,GCP,Beginner
+454,Matplotlib,Advanced
+454,Django,Beginner
+454,Node.js,Advanced
+454,Python,Advanced
+454,Express.js,Beginner
+454,NumPy,Beginner
+454,Azure,Intermediate
+454,SQL,Advanced
+454,DBMS,Advanced
+455,Pandas,Intermediate
+455,Matplotlib,Beginner
+455,Data Analysis,Intermediate
+455,Bash,Advanced
+455,JavaScript,Beginner
+455,OOP,Advanced
+456,Bash,Advanced
+456,Kubernetes,Advanced
+456,PostgreSQL,Advanced
+456,Android,Beginner
+456,Java,Advanced
+456,NLP,Beginner
+456,Scikit-learn,Advanced
+456,C,Advanced
+457,Deep Learning,Beginner
+457,Java,Advanced
+457,Pandas,Advanced
+457,MySQL,Intermediate
+457,TensorFlow,Advanced
+457,SQL,Intermediate
+458,Scikit-learn,Intermediate
+458,Express.js,Advanced
+458,MySQL,Intermediate
+458,Communication,Beginner
+458,JavaScript,Beginner
+458,OOP,Beginner
+458,GitHub,Advanced
+458,Seaborn,Beginner
+458,Computer Vision,Advanced
+458,React,Advanced
+459,DSA,Intermediate
+459,GCP,Intermediate
+459,Problem Solving,Advanced
+459,System Design,Intermediate
+459,AWS,Advanced
+459,SQL,Advanced
+459,Kotlin,Advanced
+460,System Design,Beginner
+460,Android,Beginner
+460,GitHub,Advanced
+460,CSS,Beginner
+460,Python,Beginner
+460,Operating Systems,Advanced
+460,Problem Solving,Advanced
+460,Express.js,Advanced
+460,DSA,Beginner
+461,React,Advanced
+461,SQL,Beginner
+461,Excel,Beginner
+461,DSA,Advanced
+461,Data Analysis,Intermediate
+461,DBMS,Advanced
+461,Bash,Intermediate
+461,Express.js,Advanced
+461,PyTorch,Advanced
+461,PostgreSQL,Beginner
+462,MySQL,Intermediate
+462,DSA,Beginner
+462,TensorFlow,Beginner
+462,Pandas,Intermediate
+462,Data Analysis,Beginner
+463,Java,Advanced
+463,Azure,Beginner
+463,TensorFlow,Advanced
+463,SQL,Advanced
+463,DBMS,Advanced
+463,React,Advanced
+463,Communication,Beginner
+464,Python,Beginner
+464,Problem Solving,Beginner
+464,Power BI,Intermediate
+464,Computer Networks,Advanced
+464,Operating Systems,Advanced
+464,TensorFlow,Beginner
+464,Linux,Intermediate
+464,Java,Beginner
+464,System Design,Beginner
+464,NumPy,Advanced
+465,Computer Vision,Beginner
+465,HTML,Intermediate
+465,Scikit-learn,Intermediate
+465,MongoDB,Intermediate
+465,PostgreSQL,Intermediate
+465,Deep Learning,Advanced
+465,GitHub,Advanced
+466,Linux,Advanced
+466,Excel,Advanced
+466,JavaScript,Advanced
+466,MongoDB,Beginner
+466,Git,Advanced
+466,Python,Intermediate
+466,PyTorch,Advanced
+466,MySQL,Beginner
+466,PostgreSQL,Advanced
+467,CSS,Intermediate
+467,MySQL,Advanced
+467,Deep Learning,Beginner
+467,Communication,Beginner
+467,JavaScript,Intermediate
+467,Matplotlib,Advanced
+467,Cyber Security,Beginner
+468,Express.js,Beginner
+468,Operating Systems,Advanced
+468,Problem Solving,Advanced
+468,Kubernetes,Advanced
+468,JavaScript,Intermediate
+468,Node.js,Beginner
+468,Kotlin,Beginner
+469,Kotlin,Beginner
+469,C++,Intermediate
+469,MongoDB,Beginner
+469,SQL,Intermediate
+469,TensorFlow,Advanced
+469,JavaScript,Intermediate
+470,CSS,Advanced
+470,System Design,Advanced
+470,DSA,Beginner
+470,DBMS,Advanced
+470,Cyber Security,Beginner
+470,OOP,Beginner
+471,DSA,Beginner
+471,System Design,Beginner
+471,Express.js,Advanced
+471,Machine Learning,Intermediate
+471,NLP,Beginner
+471,AWS,Advanced
+471,Bash,Intermediate
+472,React,Intermediate
+472,GitHub,Advanced
+472,Excel,Advanced
+472,CSS,Intermediate
+472,Kubernetes,Advanced
+472,C++,Intermediate
+472,NumPy,Advanced
+473,Django,Intermediate
+473,Power BI,Beginner
+473,Communication,Beginner
+473,Docker,Advanced
+473,Computer Networks,Advanced
+473,Machine Learning,Intermediate
+473,React,Beginner
+473,Data Analysis,Intermediate
+473,GitHub,Intermediate
+474,Django,Intermediate
+474,Express.js,Advanced
+474,HTML,Beginner
+474,Pandas,Intermediate
+474,Kubernetes,Intermediate
+474,DSA,Intermediate
+474,Python,Intermediate
+474,Problem Solving,Intermediate
+474,Operating Systems,Advanced
+475,Power BI,Advanced
+475,Deep Learning,Intermediate
+475,Bash,Beginner
+475,NumPy,Beginner
+475,JavaScript,Intermediate
+476,Java,Advanced
+476,C,Intermediate
+476,Scikit-learn,Intermediate
+476,Bash,Beginner
+476,TensorFlow,Advanced
+476,Computer Networks,Beginner
+476,Flask,Beginner
+477,HTML,Advanced
+477,GitHub,Intermediate
+477,PyTorch,Intermediate
+477,Kotlin,Advanced
+477,Seaborn,Beginner
+477,Computer Vision,Intermediate
+478,Java,Advanced
+478,Seaborn,Beginner
+478,Excel,Beginner
+478,Django,Beginner
+478,CSS,Beginner
+478,Cyber Security,Advanced
+478,Kubernetes,Beginner
+478,GitHub,Beginner
+478,OOP,Beginner
+479,AWS,Intermediate
+479,Excel,Advanced
+479,Computer Vision,Beginner
+479,Problem Solving,Beginner
+479,MySQL,Advanced
+479,Operating Systems,Advanced
+480,Python,Intermediate
+480,Problem Solving,Intermediate
+480,Operating Systems,Intermediate
+480,Git,Beginner
+480,MongoDB,Beginner
+480,PyTorch,Intermediate
+480,Excel,Intermediate
+481,React,Advanced
+481,JavaScript,Intermediate
+481,Problem Solving,Beginner
+481,Seaborn,Intermediate
+481,Cyber Security,Advanced
+482,DBMS,Advanced
+482,Scikit-learn,Intermediate
+482,AWS,Beginner
+482,Java,Beginner
+482,Django,Advanced
+482,MySQL,Intermediate
+483,OOP,Beginner
+483,Java,Beginner
+483,Data Analysis,Advanced
+483,Pandas,Advanced
+483,Bash,Intermediate
+483,Node.js,Intermediate
+483,TensorFlow,Beginner
+483,Docker,Intermediate
+483,MySQL,Beginner
+483,Matplotlib,Advanced
+484,Kotlin,Advanced
+484,Computer Vision,Beginner
+484,Excel,Advanced
+484,Linux,Beginner
+484,Communication,Beginner
+484,Cyber Security,Advanced
+485,Deep Learning,Beginner
+485,Excel,Beginner
+485,Docker,Intermediate
+485,DBMS,Beginner
+485,Machine Learning,Intermediate
+485,Node.js,Beginner
+485,Python,Advanced
+485,Operating Systems,Intermediate
+485,Kubernetes,Beginner
+485,Kotlin,Advanced
+486,React,Advanced
+486,GCP,Beginner
+486,Machine Learning,Intermediate
+486,Express.js,Beginner
+486,Docker,Beginner
+486,Computer Vision,Advanced
+486,PostgreSQL,Beginner
+486,Django,Beginner
+487,TensorFlow,Advanced
+487,CSS,Advanced
+487,Azure,Advanced
+487,Deep Learning,Beginner
+487,Machine Learning,Beginner
+487,AWS,Intermediate
+487,Communication,Intermediate
+488,Machine Learning,Beginner
+488,Android,Advanced
+488,Kubernetes,Beginner
+488,Computer Vision,Beginner
+488,Bash,Intermediate
+488,Node.js,Beginner
+489,React,Intermediate
+489,Communication,Intermediate
+489,Excel,Intermediate
+489,TensorFlow,Intermediate
+489,Azure,Intermediate
+489,OOP,Beginner
+489,C,Beginner
+489,Django,Advanced
+489,Java,Advanced
+490,Problem Solving,Beginner
+490,GCP,Beginner
+490,TensorFlow,Intermediate
+490,Java,Advanced
+490,CSS,Beginner
+490,MongoDB,Advanced
+491,Django,Intermediate
+491,Docker,Advanced
+491,C++,Advanced
+491,Android,Intermediate
+491,MySQL,Intermediate
+491,Problem Solving,Beginner
+491,AWS,Advanced
+491,Data Analysis,Beginner
+491,GCP,Intermediate
+491,System Design,Intermediate
+492,C++,Advanced
+492,Docker,Intermediate
+492,Machine Learning,Intermediate
+492,Express.js,Beginner
+492,MySQL,Beginner
+492,AWS,Advanced
+492,Computer Networks,Beginner
+492,Deep Learning,Advanced
+492,Seaborn,Advanced
+492,Excel,Intermediate
+493,Operating Systems,Intermediate
+493,Communication,Intermediate
+493,Azure,Beginner
+493,Kotlin,Intermediate
+493,C++,Intermediate
+493,CSS,Intermediate
+493,Linux,Beginner
+493,Computer Networks,Intermediate
+493,Machine Learning,Intermediate
+493,Docker,Intermediate
+494,Pandas,Advanced
+494,CSS,Intermediate
+494,Matplotlib,Beginner
+494,Kubernetes,Beginner
+494,NLP,Advanced
+494,PyTorch,Intermediate
+494,JavaScript,Advanced
+494,Azure,Advanced
+494,Operating Systems,Beginner
+495,GitHub,Beginner
+495,DBMS,Intermediate
+495,Kubernetes,Intermediate
+495,Communication,Advanced
+495,Cyber Security,Beginner
+495,Flask,Beginner
+495,Deep Learning,Beginner
+495,Django,Advanced
+495,OOP,Intermediate
+495,MongoDB,Beginner
+496,Node.js,Advanced
+496,Kotlin,Intermediate
+496,MongoDB,Beginner
+496,CSS,Intermediate
+496,GCP,Intermediate
+496,OOP,Beginner
+497,Python,Intermediate
+497,NLP,Advanced
+497,OOP,Beginner
+497,Azure,Advanced
+497,MongoDB,Advanced
+497,NumPy,Advanced
+497,Computer Networks,Intermediate
+497,Power BI,Intermediate
+497,TensorFlow,Beginner
+498,Communication,Intermediate
+498,CSS,Advanced
+498,JavaScript,Intermediate
+498,Computer Vision,Advanced
+498,DSA,Intermediate
+498,HTML,Beginner
+498,Django,Intermediate
+498,System Design,Advanced
+499,MySQL,Advanced
+499,React,Advanced
+499,Pandas,Beginner
+499,PyTorch,Intermediate
+499,Docker,Beginner
+499,Android,Intermediate
+499,NumPy,Beginner
+500,Excel,Intermediate
+500,Cyber Security,Beginner
+500,System Design,Advanced
+500,Kubernetes,Beginner
+500,HTML,Beginner
+500,Operating Systems,Advanced
+500,DSA,Intermediate
+500,NumPy,Advanced

@@ -1,0 +1,42 @@
+role,required_skill,importance
+Software Engineer,Python,1.0
+Software Engineer,DSA,1.0
+Software Engineer,OOP,0.9
+Software Engineer,DBMS,0.8
+Software Engineer,SQL,0.8
+Software Engineer,System Design,0.8
+Software Engineer,Git,0.7
+Data Scientist,Python,1.0
+Data Scientist,Pandas,1.0
+Data Scientist,NumPy,1.0
+Data Scientist,Machine Learning,1.0
+Data Scientist,Scikit-learn,0.9
+Data Scientist,SQL,0.8
+Data Scientist,Power BI,0.7
+ML Engineer,Python,1.0
+ML Engineer,Machine Learning,1.0
+ML Engineer,Deep Learning,1.0
+ML Engineer,TensorFlow,0.9
+ML Engineer,PyTorch,0.9
+ML Engineer,NLP,0.8
+ML Engineer,Computer Vision,0.8
+Web Developer,HTML,1.0
+Web Developer,CSS,1.0
+Web Developer,JavaScript,1.0
+Web Developer,React,0.9
+Web Developer,Node.js,0.8
+Web Developer,Express.js,0.7
+Web Developer,Git,0.7
+Android Developer,Kotlin,1.0
+Android Developer,Android,1.0
+Android Developer,Git,0.8
+Android Developer,Java,0.8
+DevOps Engineer,Docker,1.0
+DevOps Engineer,Kubernetes,1.0
+DevOps Engineer,AWS,1.0
+DevOps Engineer,Linux,0.9
+DevOps Engineer,Bash,0.8
+Cyber Security Analyst,Linux,1.0
+Cyber Security Analyst,Cyber Security,1.0
+Cyber Security Analyst,Python,0.8
+Cyber Security Analyst,Computer Networks,0.8

@@ -1,0 +1,101 @@
+skill,platform,resource,difficulty
+Python,YouTube,Python Full Course,Beginner
+Python,Official Docs,Python Documentation,Intermediate
+Java,YouTube,Java Full Course,Beginner
+Java,Official Docs,Java Documentation,Intermediate
+C++,YouTube,C++ Full Course,Beginner
+C++,Official Docs,C++ Documentation,Intermediate
+C,YouTube,C Full Course,Beginner
+C,Official Docs,C Documentation,Intermediate
+JavaScript,YouTube,JavaScript Full Course,Beginner
+JavaScript,Official Docs,JavaScript Documentation,Intermediate
+SQL,YouTube,SQL Full Course,Beginner
+SQL,Official Docs,SQL Documentation,Intermediate
+MongoDB,YouTube,MongoDB Full Course,Beginner
+MongoDB,Official Docs,MongoDB Documentation,Intermediate
+MySQL,YouTube,MySQL Full Course,Beginner
+MySQL,Official Docs,MySQL Documentation,Intermediate
+PostgreSQL,YouTube,PostgreSQL Full Course,Beginner
+PostgreSQL,Official Docs,PostgreSQL Documentation,Intermediate
+HTML,YouTube,HTML Full Course,Beginner
+HTML,Official Docs,HTML Documentation,Intermediate
+CSS,YouTube,CSS Full Course,Beginner
+CSS,Official Docs,CSS Documentation,Intermediate
+React,YouTube,React Full Course,Beginner
+React,Official Docs,React Documentation,Intermediate
+Node.js,YouTube,Node.js Full Course,Beginner
+Node.js,Official Docs,Node.js Documentation,Intermediate
+Express.js,YouTube,Express.js Full Course,Beginner
+Express.js,Official Docs,Express.js Documentation,Intermediate
+Django,YouTube,Django Full Course,Beginner
+Django,Official Docs,Django Documentation,Intermediate
+Flask,YouTube,Flask Full Course,Beginner
+Flask,Official Docs,Flask Documentation,Intermediate
+Git,YouTube,Git Full Course,Beginner
+Git,Official Docs,Git Documentation,Intermediate
+GitHub,YouTube,GitHub Full Course,Beginner
+GitHub,Official Docs,GitHub Documentation,Intermediate
+Docker,YouTube,Docker Full Course,Beginner
+Docker,Official Docs,Docker Documentation,Intermediate
+Kubernetes,YouTube,Kubernetes Full Course,Beginner
+Kubernetes,Official Docs,Kubernetes Documentation,Intermediate
+AWS,YouTube,AWS Full Course,Beginner
+AWS,Official Docs,AWS Documentation,Intermediate
+Azure,YouTube,Azure Full Course,Beginner
+Azure,Official Docs,Azure Documentation,Intermediate
+GCP,YouTube,GCP Full Course,Beginner
+GCP,Official Docs,GCP Documentation,Intermediate
+Linux,YouTube,Linux Full Course,Beginner
+Linux,Official Docs,Linux Documentation,Intermediate
+Bash,YouTube,Bash Full Course,Beginner
+Bash,Official Docs,Bash Documentation,Intermediate
+Machine Learning,YouTube,Machine Learning Full Course,Beginner
+Machine Learning,Official Docs,Machine Learning Documentation,Intermediate
+Deep Learning,YouTube,Deep Learning Full Course,Beginner
+Deep Learning,Official Docs,Deep Learning Documentation,Intermediate
+NLP,YouTube,NLP Full Course,Beginner
+NLP,Official Docs,NLP Documentation,Intermediate
+Computer Vision,YouTube,Computer Vision Full Course,Beginner
+Computer Vision,Official Docs,Computer Vision Documentation,Intermediate
+TensorFlow,YouTube,TensorFlow Full Course,Beginner
+TensorFlow,Official Docs,TensorFlow Documentation,Intermediate
+PyTorch,YouTube,PyTorch Full Course,Beginner
+PyTorch,Official Docs,PyTorch Documentation,Intermediate
+Scikit-learn,YouTube,Scikit-learn Full Course,Beginner
+Scikit-learn,Official Docs,Scikit-learn Documentation,Intermediate
+Pandas,YouTube,Pandas Full Course,Beginner
+Pandas,Official Docs,Pandas Documentation,Intermediate
+NumPy,YouTube,NumPy Full Course,Beginner
+NumPy,Official Docs,NumPy Documentation,Intermediate
+Matplotlib,YouTube,Matplotlib Full Course,Beginner
+Matplotlib,Official Docs,Matplotlib Documentation,Intermediate
+Seaborn,YouTube,Seaborn Full Course,Beginner
+Seaborn,Official Docs,Seaborn Documentation,Intermediate
+Power BI,YouTube,Power BI Full Course,Beginner
+Power BI,Official Docs,Power BI Documentation,Intermediate
+Excel,YouTube,Excel Full Course,Beginner
+Excel,Official Docs,Excel Documentation,Intermediate
+Data Analysis,YouTube,Data Analysis Full Course,Beginner
+Data Analysis,Official Docs,Data Analysis Documentation,Intermediate
+DSA,YouTube,DSA Full Course,Beginner
+DSA,Official Docs,DSA Documentation,Intermediate
+OOP,YouTube,OOP Full Course,Beginner
+OOP,Official Docs,OOP Documentation,Intermediate
+System Design,YouTube,System Design Full Course,Beginner
+System Design,Official Docs,System Design Documentation,Intermediate
+Operating Systems,YouTube,Operating Systems Full Course,Beginner
+Operating Systems,Official Docs,Operating Systems Documentation,Intermediate
+DBMS,YouTube,DBMS Full Course,Beginner
+DBMS,Official Docs,DBMS Documentation,Intermediate
+Computer Networks,YouTube,Computer Networks Full Course,Beginner
+Computer Networks,Official Docs,Computer Networks Documentation,Intermediate
+Cyber Security,YouTube,Cyber Security Full Course,Beginner
+Cyber Security,Official Docs,Cyber Security Documentation,Intermediate
+Android,YouTube,Android Full Course,Beginner
+Android,Official Docs,Android Documentation,Intermediate
+Kotlin,YouTube,Kotlin Full Course,Beginner
+Kotlin,Official Docs,Kotlin Documentation,Intermediate
+Communication,YouTube,Communication Full Course,Beginner
+Communication,Official Docs,Communication Documentation,Intermediate
+Problem Solving,YouTube,Problem Solving Full Course,Beginner
+Problem Solving,Official Docs,Problem Solving Documentation,Intermediate

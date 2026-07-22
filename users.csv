@@ -1,0 +1,501 @@
+user_id,name,college,branch,year,target_role
+1,Student_1,AKGEC,ECE,3,Cyber Security Analyst
+2,Student_2,NIT Surat,AIML,1,Software Engineer
+3,Student_3,IIIT Lucknow,CSE,2,Software Engineer
+4,Student_4,IIT Kanpur,AIML,4,Data Scientist
+5,Student_5,IIIT Lucknow,CSE,3,Cyber Security Analyst
+6,Student_6,AKGEC,ECE,1,Data Scientist
+7,Student_7,NIT Surat,AIML,2,ML Engineer
+8,Student_8,IIT Kanpur,ECE,4,Web Developer
+9,Student_9,IIIT Lucknow,ECE,4,Software Engineer
+10,Student_10,IIIT Lucknow,AIML,3,DevOps Engineer
+11,Student_11,IIT Kanpur,IT,1,DevOps Engineer
+12,Student_12,IIT Kanpur,IT,2,DevOps Engineer
+13,Student_13,IIIT Lucknow,CSE,2,DevOps Engineer
+14,Student_14,NIT Surat,IT,3,ML Engineer
+15,Student_15,NIT Trichy,IT,4,Data Scientist
+16,Student_16,IIT Kanpur,IT,4,Software Engineer
+17,Student_17,AKGEC,ECE,4,Android Developer
+18,Student_18,IIT Kanpur,CSE,3,Software Engineer
+19,Student_19,AKGEC,IT,3,Android Developer
+20,Student_20,IIIT Lucknow,CSE,3,ML Engineer
+21,Student_21,NIT Trichy,AIML,1,Software Engineer
+22,Student_22,RRGI Lucknow,ECE,2,Cyber Security Analyst
+23,Student_23,IIT Kanpur,AIML,4,Data Scientist
+24,Student_24,NIT Surat,IT,1,Android Developer
+25,Student_25,AKGEC,ECE,2,Data Scientist
+26,Student_26,NIT Trichy,CSE,4,Software Engineer
+27,Student_27,AKGEC,AIML,1,Cyber Security Analyst
+28,Student_28,AKGEC,ECE,2,DevOps Engineer
+29,Student_29,NIT Surat,AIML,2,Android Developer
+30,Student_30,IIT Kanpur,IT,1,ML Engineer
+31,Student_31,NIT Surat,AIML,1,Software Engineer
+32,Student_32,IIT Kanpur,CSE,3,Data Scientist
+33,Student_33,IIT Kanpur,IT,1,ML Engineer
+34,Student_34,IIT Kanpur,AIML,1,Software Engineer
+35,Student_35,NIT Trichy,IT,1,ML Engineer
+36,Student_36,AKGEC,AIML,3,Android Developer
+37,Student_37,NIT Surat,CSE,3,ML Engineer
+38,Student_38,IIIT Lucknow,AIML,3,ML Engineer
+39,Student_39,AKGEC,ECE,2,Web Developer
+40,Student_40,NIT Surat,CSE,3,DevOps Engineer
+41,Student_41,NIT Trichy,CSE,3,Android Developer
+42,Student_42,NIT Surat,CSE,3,Android Developer
+43,Student_43,RRGI Lucknow,ECE,3,Cyber Security Analyst
+44,Student_44,IIIT Lucknow,ECE,4,DevOps Engineer
+45,Student_45,NIT Trichy,IT,4,DevOps Engineer
+46,Student_46,NIT Trichy,IT,3,DevOps Engineer
+47,Student_47,NIT Surat,AIML,2,Data Scientist
+48,Student_48,RRGI Lucknow,AIML,4,Software Engineer
+49,Student_49,IIT Kanpur,IT,3,ML Engineer
+50,Student_50,RRGI Lucknow,AIML,1,Data Scientist
+51,Student_51,NIT Trichy,IT,3,Web Developer
+52,Student_52,RRGI Lucknow,IT,3,Android Developer
+53,Student_53,AKGEC,ECE,2,DevOps Engineer
+54,Student_54,RRGI Lucknow,CSE,1,Web Developer
+55,Student_55,NIT Trichy,IT,1,Android Developer
+56,Student_56,NIT Surat,IT,2,Software Engineer
+57,Student_57,NIT Surat,CSE,4,Software Engineer
+58,Student_58,NIT Surat,IT,1,ML Engineer
+59,Student_59,AKGEC,CSE,1,Software Engineer
+60,Student_60,NIT Surat,IT,2,ML Engineer
+61,Student_61,AKGEC,ECE,3,Web Developer
+62,Student_62,RRGI Lucknow,ECE,4,Android Developer
+63,Student_63,IIIT Lucknow,IT,3,ML Engineer
+64,Student_64,RRGI Lucknow,ECE,3,ML Engineer
+65,Student_65,IIT Kanpur,CSE,1,ML Engineer
+66,Student_66,NIT Trichy,AIML,3,Software Engineer
+67,Student_67,NIT Trichy,IT,3,Cyber Security Analyst
+68,Student_68,IIT Kanpur,CSE,2,Android Developer
+69,Student_69,RRGI Lucknow,CSE,2,Android Developer
+70,Student_70,IIT Kanpur,ECE,1,Data Scientist
+71,Student_71,IIIT Lucknow,IT,1,Data Scientist
+72,Student_72,NIT Surat,AIML,1,Android Developer
+73,Student_73,IIIT Lucknow,CSE,1,Android Developer
+74,Student_74,NIT Trichy,CSE,3,DevOps Engineer
+75,Student_75,NIT Trichy,ECE,2,Web Developer
+76,Student_76,NIT Surat,AIML,2,Cyber Security Analyst
+77,Student_77,NIT Trichy,CSE,2,DevOps Engineer
+78,Student_78,IIIT Lucknow,IT,4,Cyber Security Analyst
+79,Student_79,IIIT Lucknow,ECE,4,Data Scientist
+80,Student_80,NIT Trichy,ECE,3,Cyber Security Analyst
+81,Student_81,IIIT Lucknow,CSE,4,DevOps Engineer
+82,Student_82,IIT Kanpur,CSE,2,Data Scientist
+83,Student_83,IIT Kanpur,ECE,4,Data Scientist
+84,Student_84,RRGI Lucknow,IT,1,Data Scientist
+85,Student_85,IIIT Lucknow,CSE,2,ML Engineer
+86,Student_86,RRGI Lucknow,ECE,1,Software Engineer
+87,Student_87,NIT Surat,CSE,1,ML Engineer
+88,Student_88,AKGEC,IT,1,Android Developer
+89,Student_89,NIT Trichy,IT,3,DevOps Engineer
+90,Student_90,NIT Trichy,AIML,3,Cyber Security Analyst
+91,Student_91,IIT Kanpur,CSE,1,Software Engineer
+92,Student_92,IIIT Lucknow,AIML,4,DevOps Engineer
+93,Student_93,NIT Surat,CSE,3,Cyber Security Analyst
+94,Student_94,NIT Surat,AIML,1,Cyber Security Analyst
+95,Student_95,AKGEC,IT,1,Data Scientist
+96,Student_96,IIIT Lucknow,CSE,2,Web Developer
+97,Student_97,AKGEC,ECE,2,Android Developer
+98,Student_98,RRGI Lucknow,AIML,3,DevOps Engineer
+99,Student_99,AKGEC,ECE,4,Android Developer
+100,Student_100,AKGEC,ECE,1,Software Engineer
+101,Student_101,IIIT Lucknow,IT,2,Software Engineer
+102,Student_102,AKGEC,ECE,2,DevOps Engineer
+103,Student_103,IIT Kanpur,CSE,2,Android Developer
+104,Student_104,IIT Kanpur,AIML,2,Web Developer
+105,Student_105,IIIT Lucknow,AIML,2,ML Engineer
+106,Student_106,AKGEC,AIML,2,ML Engineer
+107,Student_107,IIT Kanpur,ECE,1,Android Developer
+108,Student_108,IIT Kanpur,CSE,1,Data Scientist
+109,Student_109,NIT Surat,IT,4,Software Engineer
+110,Student_110,NIT Trichy,AIML,3,DevOps Engineer
+111,Student_111,AKGEC,CSE,1,ML Engineer
+112,Student_112,RRGI Lucknow,AIML,1,Cyber Security Analyst
+113,Student_113,RRGI Lucknow,AIML,3,ML Engineer
+114,Student_114,NIT Trichy,AIML,1,DevOps Engineer
+115,Student_115,RRGI Lucknow,CSE,2,ML Engineer
+116,Student_116,IIIT Lucknow,CSE,3,Web Developer
+117,Student_117,AKGEC,ECE,4,Android Developer
+118,Student_118,IIIT Lucknow,IT,4,Web Developer
+119,Student_119,RRGI Lucknow,CSE,1,Software Engineer
+120,Student_120,NIT Surat,AIML,1,Android Developer
+121,Student_121,NIT Trichy,CSE,2,Android Developer
+122,Student_122,NIT Trichy,CSE,2,Data Scientist
+123,Student_123,RRGI Lucknow,AIML,1,Android Developer
+124,Student_124,NIT Trichy,IT,3,Web Developer
+125,Student_125,NIT Trichy,ECE,4,Software Engineer
+126,Student_126,IIIT Lucknow,ECE,2,DevOps Engineer
+127,Student_127,NIT Surat,IT,4,Android Developer
+128,Student_128,IIIT Lucknow,AIML,4,Web Developer
+129,Student_129,AKGEC,IT,2,Software Engineer
+130,Student_130,NIT Trichy,AIML,2,Web Developer
+131,Student_131,RRGI Lucknow,ECE,1,Data Scientist
+132,Student_132,NIT Surat,ECE,4,DevOps Engineer
+133,Student_133,NIT Surat,ECE,2,Data Scientist
+134,Student_134,AKGEC,ECE,3,DevOps Engineer
+135,Student_135,NIT Trichy,AIML,2,Data Scientist
+136,Student_136,NIT Surat,AIML,4,Web Developer
+137,Student_137,NIT Trichy,CSE,1,Android Developer
+138,Student_138,AKGEC,CSE,2,ML Engineer
+139,Student_139,IIT Kanpur,CSE,1,DevOps Engineer
+140,Student_140,NIT Surat,IT,2,Web Developer
+141,Student_141,NIT Surat,AIML,1,Android Developer
+142,Student_142,NIT Trichy,CSE,4,Software Engineer
+143,Student_143,IIT Kanpur,CSE,2,Software Engineer
+144,Student_144,NIT Trichy,IT,1,ML Engineer
+145,Student_145,NIT Surat,AIML,2,Cyber Security Analyst
+146,Student_146,IIT Kanpur,CSE,4,Web Developer
+147,Student_147,IIIT Lucknow,AIML,2,Data Scientist
+148,Student_148,IIIT Lucknow,ECE,4,ML Engineer
+149,Student_149,AKGEC,ECE,3,Data Scientist
+150,Student_150,AKGEC,AIML,3,Data Scientist
+151,Student_151,IIIT Lucknow,ECE,2,DevOps Engineer
+152,Student_152,IIT Kanpur,AIML,2,DevOps Engineer
+153,Student_153,NIT Surat,AIML,4,Data Scientist
+154,Student_154,NIT Trichy,CSE,4,DevOps Engineer
+155,Student_155,NIT Trichy,IT,1,Web Developer
+156,Student_156,AKGEC,IT,1,DevOps Engineer
+157,Student_157,NIT Surat,IT,1,Software Engineer
+158,Student_158,AKGEC,ECE,4,ML Engineer
+159,Student_159,IIIT Lucknow,AIML,3,Web Developer
+160,Student_160,RRGI Lucknow,AIML,1,DevOps Engineer
+161,Student_161,RRGI Lucknow,IT,3,DevOps Engineer
+162,Student_162,IIIT Lucknow,IT,2,ML Engineer
+163,Student_163,IIT Kanpur,ECE,2,Web Developer
+164,Student_164,NIT Trichy,ECE,2,Data Scientist
+165,Student_165,IIIT Lucknow,ECE,1,Data Scientist
+166,Student_166,RRGI Lucknow,IT,2,Cyber Security Analyst
+167,Student_167,NIT Trichy,ECE,2,Software Engineer
+168,Student_168,IIIT Lucknow,AIML,3,Web Developer
+169,Student_169,AKGEC,CSE,4,ML Engineer
+170,Student_170,AKGEC,IT,2,Data Scientist
+171,Student_171,RRGI Lucknow,AIML,3,Web Developer
+172,Student_172,AKGEC,AIML,3,Software Engineer
+173,Student_173,NIT Trichy,AIML,1,Data Scientist
+174,Student_174,IIIT Lucknow,CSE,2,Android Developer
+175,Student_175,AKGEC,ECE,2,Android Developer
+176,Student_176,NIT Surat,IT,4,ML Engineer
+177,Student_177,NIT Trichy,CSE,1,ML Engineer
+178,Student_178,AKGEC,ECE,1,Cyber Security Analyst
+179,Student_179,NIT Trichy,ECE,4,Software Engineer
+180,Student_180,NIT Surat,ECE,4,Android Developer
+181,Student_181,AKGEC,ECE,4,Android Developer
+182,Student_182,AKGEC,CSE,3,DevOps Engineer
+183,Student_183,RRGI Lucknow,IT,1,Software Engineer
+184,Student_184,NIT Trichy,IT,1,ML Engineer
+185,Student_185,AKGEC,AIML,3,Cyber Security Analyst
+186,Student_186,AKGEC,ECE,2,Android Developer
+187,Student_187,IIIT Lucknow,IT,2,Software Engineer
+188,Student_188,IIIT Lucknow,IT,1,Web Developer
+189,Student_189,NIT Trichy,CSE,1,Cyber Security Analyst
+190,Student_190,AKGEC,CSE,4,Web Developer
+191,Student_191,AKGEC,AIML,3,Data Scientist
+192,Student_192,RRGI Lucknow,IT,2,Software Engineer
+193,Student_193,NIT Trichy,AIML,2,Android Developer
+194,Student_194,RRGI Lucknow,CSE,4,Android Developer
+195,Student_195,AKGEC,CSE,2,DevOps Engineer
+196,Student_196,RRGI Lucknow,IT,4,Android Developer
+197,Student_197,IIT Kanpur,IT,1,ML Engineer
+198,Student_198,IIIT Lucknow,AIML,2,DevOps Engineer
+199,Student_199,IIIT Lucknow,ECE,4,Android Developer
+200,Student_200,IIT Kanpur,CSE,4,Android Developer
+201,Student_201,NIT Surat,AIML,4,Software Engineer
+202,Student_202,RRGI Lucknow,ECE,1,ML Engineer
+203,Student_203,NIT Surat,AIML,1,DevOps Engineer
+204,Student_204,NIT Surat,AIML,1,DevOps Engineer
+205,Student_205,AKGEC,ECE,2,DevOps Engineer
+206,Student_206,NIT Trichy,AIML,2,DevOps Engineer
+207,Student_207,IIT Kanpur,IT,4,DevOps Engineer
+208,Student_208,RRGI Lucknow,AIML,4,Software Engineer
+209,Student_209,NIT Surat,ECE,2,ML Engineer
+210,Student_210,RRGI Lucknow,CSE,3,Android Developer
+211,Student_211,AKGEC,ECE,1,Web Developer
+212,Student_212,IIIT Lucknow,AIML,2,Data Scientist
+213,Student_213,AKGEC,ECE,4,Data Scientist
+214,Student_214,IIIT Lucknow,IT,3,DevOps Engineer
+215,Student_215,NIT Trichy,IT,3,Software Engineer
+216,Student_216,AKGEC,IT,2,DevOps Engineer
+217,Student_217,RRGI Lucknow,CSE,1,Software Engineer
+218,Student_218,RRGI Lucknow,AIML,4,Data Scientist
+219,Student_219,AKGEC,ECE,3,Web Developer
+220,Student_220,NIT Trichy,CSE,1,Android Developer
+221,Student_221,IIIT Lucknow,CSE,1,Data Scientist
+222,Student_222,IIT Kanpur,ECE,3,DevOps Engineer
+223,Student_223,RRGI Lucknow,CSE,1,Web Developer
+224,Student_224,NIT Trichy,CSE,2,Android Developer
+225,Student_225,NIT Surat,IT,4,ML Engineer
+226,Student_226,RRGI Lucknow,CSE,3,Data Scientist
+227,Student_227,AKGEC,ECE,3,ML Engineer
+228,Student_228,RRGI Lucknow,CSE,4,Software Engineer
+229,Student_229,IIT Kanpur,IT,2,Web Developer
+230,Student_230,IIIT Lucknow,CSE,1,Web Developer
+231,Student_231,NIT Surat,ECE,1,ML Engineer
+232,Student_232,IIT Kanpur,AIML,4,Web Developer
+233,Student_233,NIT Surat,ECE,1,ML Engineer
+234,Student_234,IIIT Lucknow,ECE,3,ML Engineer
+235,Student_235,NIT Trichy,CSE,4,ML Engineer
+236,Student_236,NIT Surat,IT,3,Data Scientist
+237,Student_237,NIT Trichy,ECE,2,Software Engineer
+238,Student_238,NIT Surat,IT,4,Cyber Security Analyst
+239,Student_239,NIT Trichy,AIML,3,Data Scientist
+240,Student_240,RRGI Lucknow,AIML,1,Android Developer
+241,Student_241,IIIT Lucknow,AIML,4,Data Scientist
+242,Student_242,RRGI Lucknow,ECE,4,DevOps Engineer
+243,Student_243,RRGI Lucknow,IT,2,Data Scientist
+244,Student_244,IIT Kanpur,AIML,4,DevOps Engineer
+245,Student_245,NIT Trichy,ECE,1,DevOps Engineer
+246,Student_246,IIT Kanpur,ECE,1,DevOps Engineer
+247,Student_247,IIIT Lucknow,AIML,1,Cyber Security Analyst
+248,Student_248,IIT Kanpur,AIML,1,Web Developer
+249,Student_249,AKGEC,AIML,1,DevOps Engineer
+250,Student_250,NIT Surat,CSE,1,DevOps Engineer
+251,Student_251,IIIT Lucknow,AIML,2,DevOps Engineer
+252,Student_252,NIT Surat,CSE,4,Software Engineer
+253,Student_253,AKGEC,CSE,4,Cyber Security Analyst
+254,Student_254,IIIT Lucknow,IT,2,Web Developer
+255,Student_255,IIIT Lucknow,CSE,3,DevOps Engineer
+256,Student_256,IIIT Lucknow,CSE,3,Data Scientist
+257,Student_257,IIT Kanpur,CSE,4,Data Scientist
+258,Student_258,AKGEC,CSE,1,DevOps Engineer
+259,Student_259,AKGEC,CSE,4,Cyber Security Analyst
+260,Student_260,RRGI Lucknow,AIML,3,Software Engineer
+261,Student_261,IIT Kanpur,IT,2,Android Developer
+262,Student_262,NIT Trichy,AIML,1,Android Developer
+263,Student_263,IIT Kanpur,IT,1,Cyber Security Analyst
+264,Student_264,IIT Kanpur,AIML,4,Cyber Security Analyst
+265,Student_265,AKGEC,CSE,1,Web Developer
+266,Student_266,NIT Trichy,CSE,2,DevOps Engineer
+267,Student_267,NIT Trichy,IT,2,Data Scientist
+268,Student_268,IIIT Lucknow,IT,2,Cyber Security Analyst
+269,Student_269,IIT Kanpur,AIML,2,DevOps Engineer
+270,Student_270,AKGEC,AIML,1,DevOps Engineer
+271,Student_271,IIT Kanpur,AIML,4,Cyber Security Analyst
+272,Student_272,RRGI Lucknow,ECE,3,Data Scientist
+273,Student_273,AKGEC,AIML,2,DevOps Engineer
+274,Student_274,IIIT Lucknow,IT,1,Web Developer
+275,Student_275,NIT Surat,CSE,3,Android Developer
+276,Student_276,RRGI Lucknow,AIML,1,DevOps Engineer
+277,Student_277,IIIT Lucknow,IT,2,DevOps Engineer
+278,Student_278,NIT Surat,CSE,1,Cyber Security Analyst
+279,Student_279,IIT Kanpur,ECE,2,DevOps Engineer
+280,Student_280,IIIT Lucknow,CSE,1,ML Engineer
+281,Student_281,IIT Kanpur,AIML,4,Software Engineer
+282,Student_282,IIT Kanpur,ECE,3,ML Engineer
+283,Student_283,NIT Surat,CSE,4,Android Developer
+284,Student_284,AKGEC,CSE,4,Web Developer
+285,Student_285,AKGEC,ECE,1,ML Engineer
+286,Student_286,IIT Kanpur,CSE,2,Web Developer
+287,Student_287,RRGI Lucknow,IT,1,DevOps Engineer
+288,Student_288,IIIT Lucknow,IT,1,Android Developer
+289,Student_289,NIT Surat,CSE,2,Web Developer
+290,Student_290,IIIT Lucknow,ECE,2,Data Scientist
+291,Student_291,IIIT Lucknow,ECE,2,Cyber Security Analyst
+292,Student_292,NIT Trichy,CSE,1,Web Developer
+293,Student_293,RRGI Lucknow,CSE,2,Web Developer
+294,Student_294,IIT Kanpur,AIML,1,Web Developer
+295,Student_295,IIIT Lucknow,CSE,1,ML Engineer
+296,Student_296,IIIT Lucknow,ECE,3,Web Developer
+297,Student_297,NIT Trichy,AIML,1,Cyber Security Analyst
+298,Student_298,NIT Surat,AIML,1,Cyber Security Analyst
+299,Student_299,NIT Trichy,CSE,2,Web Developer
+300,Student_300,IIT Kanpur,ECE,3,ML Engineer
+301,Student_301,IIIT Lucknow,IT,2,DevOps Engineer
+302,Student_302,NIT Surat,CSE,2,Android Developer
+303,Student_303,NIT Trichy,CSE,1,DevOps Engineer
+304,Student_304,IIT Kanpur,ECE,1,Data Scientist
+305,Student_305,AKGEC,ECE,2,Android Developer
+306,Student_306,RRGI Lucknow,CSE,2,Data Scientist
+307,Student_307,IIIT Lucknow,IT,1,Data Scientist
+308,Student_308,IIIT Lucknow,ECE,4,DevOps Engineer
+309,Student_309,AKGEC,AIML,2,ML Engineer
+310,Student_310,RRGI Lucknow,IT,2,Cyber Security Analyst
+311,Student_311,IIT Kanpur,ECE,4,Android Developer
+312,Student_312,AKGEC,IT,2,Cyber Security Analyst
+313,Student_313,IIIT Lucknow,ECE,3,DevOps Engineer
+314,Student_314,IIIT Lucknow,IT,1,Web Developer
+315,Student_315,NIT Surat,CSE,1,Data Scientist
+316,Student_316,IIIT Lucknow,IT,2,ML Engineer
+317,Student_317,NIT Trichy,IT,3,Data Scientist
+318,Student_318,IIIT Lucknow,ECE,1,DevOps Engineer
+319,Student_319,RRGI Lucknow,AIML,4,Data Scientist
+320,Student_320,NIT Trichy,CSE,4,Android Developer
+321,Student_321,IIT Kanpur,ECE,1,Android Developer
+322,Student_322,RRGI Lucknow,AIML,1,Data Scientist
+323,Student_323,RRGI Lucknow,AIML,3,Software Engineer
+324,Student_324,AKGEC,ECE,1,DevOps Engineer
+325,Student_325,NIT Surat,IT,2,Cyber Security Analyst
+326,Student_326,NIT Surat,ECE,1,Android Developer
+327,Student_327,NIT Trichy,IT,1,Data Scientist
+328,Student_328,IIT Kanpur,IT,3,Cyber Security Analyst
+329,Student_329,RRGI Lucknow,AIML,1,DevOps Engineer
+330,Student_330,AKGEC,AIML,4,ML Engineer
+331,Student_331,RRGI Lucknow,AIML,1,DevOps Engineer
+332,Student_332,IIT Kanpur,AIML,2,Android Developer
+333,Student_333,NIT Trichy,CSE,2,Cyber Security Analyst
+334,Student_334,AKGEC,ECE,1,Web Developer
+335,Student_335,RRGI Lucknow,IT,4,ML Engineer
+336,Student_336,RRGI Lucknow,IT,3,Software Engineer
+337,Student_337,AKGEC,CSE,4,DevOps Engineer
+338,Student_338,NIT Trichy,IT,1,Software Engineer
+339,Student_339,IIT Kanpur,ECE,1,Data Scientist
+340,Student_340,IIT Kanpur,AIML,2,Cyber Security Analyst
+341,Student_341,NIT Surat,IT,1,Android Developer
+342,Student_342,RRGI Lucknow,ECE,2,Android Developer
+343,Student_343,NIT Surat,IT,3,ML Engineer
+344,Student_344,RRGI Lucknow,AIML,1,Software Engineer
+345,Student_345,AKGEC,ECE,1,Web Developer
+346,Student_346,NIT Surat,IT,3,ML Engineer
+347,Student_347,NIT Surat,CSE,1,Cyber Security Analyst
+348,Student_348,AKGEC,AIML,2,Web Developer
+349,Student_349,IIIT Lucknow,CSE,2,Web Developer
+350,Student_350,IIT Kanpur,CSE,4,Android Developer
+351,Student_351,IIIT Lucknow,AIML,2,ML Engineer
+352,Student_352,RRGI Lucknow,ECE,3,ML Engineer
+353,Student_353,AKGEC,CSE,1,Android Developer
+354,Student_354,NIT Trichy,IT,2,Data Scientist
+355,Student_355,NIT Trichy,ECE,1,Software Engineer
+356,Student_356,IIIT Lucknow,CSE,4,Software Engineer
+357,Student_357,NIT Surat,AIML,3,ML Engineer
+358,Student_358,NIT Surat,ECE,2,Cyber Security Analyst
+359,Student_359,IIIT Lucknow,AIML,4,DevOps Engineer
+360,Student_360,RRGI Lucknow,IT,1,DevOps Engineer
+361,Student_361,IIT Kanpur,ECE,3,DevOps Engineer
+362,Student_362,IIIT Lucknow,IT,1,Data Scientist
+363,Student_363,IIIT Lucknow,AIML,1,Cyber Security Analyst
+364,Student_364,AKGEC,IT,1,DevOps Engineer
+365,Student_365,IIIT Lucknow,AIML,1,DevOps Engineer
+366,Student_366,RRGI Lucknow,CSE,2,Cyber Security Analyst
+367,Student_367,NIT Surat,IT,2,DevOps Engineer
+368,Student_368,IIIT Lucknow,IT,4,Android Developer
+369,Student_369,RRGI Lucknow,AIML,4,ML Engineer
+370,Student_370,RRGI Lucknow,ECE,4,DevOps Engineer
+371,Student_371,IIIT Lucknow,AIML,1,Web Developer
+372,Student_372,NIT Surat,IT,1,ML Engineer
+373,Student_373,NIT Trichy,IT,2,Data Scientist
+374,Student_374,AKGEC,CSE,1,ML Engineer
+375,Student_375,RRGI Lucknow,ECE,2,ML Engineer
+376,Student_376,IIIT Lucknow,IT,2,DevOps Engineer
+377,Student_377,IIT Kanpur,AIML,4,Cyber Security Analyst
+378,Student_378,IIIT Lucknow,CSE,2,Data Scientist
+379,Student_379,NIT Trichy,IT,2,Android Developer
+380,Student_380,RRGI Lucknow,CSE,2,Android Developer
+381,Student_381,IIIT Lucknow,AIML,2,DevOps Engineer
+382,Student_382,NIT Trichy,ECE,3,Android Developer
+383,Student_383,NIT Surat,ECE,2,Android Developer
+384,Student_384,IIT Kanpur,CSE,2,Web Developer
+385,Student_385,IIIT Lucknow,ECE,4,DevOps Engineer
+386,Student_386,NIT Trichy,IT,3,DevOps Engineer
+387,Student_387,IIT Kanpur,ECE,3,Web Developer
+388,Student_388,IIT Kanpur,CSE,4,Cyber Security Analyst
+389,Student_389,NIT Trichy,IT,4,ML Engineer
+390,Student_390,NIT Surat,ECE,2,Data Scientist
+391,Student_391,AKGEC,AIML,3,ML Engineer
+392,Student_392,AKGEC,CSE,1,Cyber Security Analyst
+393,Student_393,AKGEC,AIML,4,Android Developer
+394,Student_394,NIT Surat,ECE,1,Android Developer
+395,Student_395,IIIT Lucknow,IT,1,DevOps Engineer
+396,Student_396,NIT Surat,ECE,1,Software Engineer
+397,Student_397,NIT Trichy,CSE,1,ML Engineer
+398,Student_398,AKGEC,ECE,1,Web Developer
+399,Student_399,NIT Trichy,CSE,1,Data Scientist
+400,Student_400,NIT Surat,IT,3,Cyber Security Analyst
+401,Student_401,IIT Kanpur,ECE,2,Android Developer
+402,Student_402,IIT Kanpur,ECE,3,ML Engineer
+403,Student_403,NIT Trichy,IT,3,Android Developer
+404,Student_404,NIT Surat,IT,4,Data Scientist
+405,Student_405,AKGEC,ECE,3,Web Developer
+406,Student_406,NIT Surat,IT,4,Cyber Security Analyst
+407,Student_407,NIT Trichy,IT,3,Data Scientist
+408,Student_408,IIIT Lucknow,CSE,1,Web Developer
+409,Student_409,RRGI Lucknow,AIML,4,Cyber Security Analyst
+410,Student_410,IIIT Lucknow,CSE,2,Cyber Security Analyst
+411,Student_411,NIT Trichy,AIML,4,Cyber Security Analyst
+412,Student_412,IIIT Lucknow,IT,3,ML Engineer
+413,Student_413,IIT Kanpur,AIML,2,Data Scientist
+414,Student_414,IIIT Lucknow,IT,2,Software Engineer
+415,Student_415,NIT Surat,IT,4,Web Developer
+416,Student_416,AKGEC,IT,1,Software Engineer
+417,Student_417,IIIT Lucknow,ECE,4,Android Developer
+418,Student_418,AKGEC,CSE,3,Web Developer
+419,Student_419,AKGEC,AIML,4,Software Engineer
+420,Student_420,AKGEC,CSE,3,ML Engineer
+421,Student_421,AKGEC,AIML,4,Web Developer
+422,Student_422,AKGEC,CSE,1,Web Developer
+423,Student_423,IIIT Lucknow,AIML,3,ML Engineer
+424,Student_424,IIIT Lucknow,ECE,4,ML Engineer
+425,Student_425,IIT Kanpur,ECE,1,Android Developer
+426,Student_426,IIIT Lucknow,CSE,4,Cyber Security Analyst
+427,Student_427,AKGEC,AIML,1,DevOps Engineer
+428,Student_428,NIT Surat,CSE,4,ML Engineer
+429,Student_429,IIT Kanpur,AIML,3,Cyber Security Analyst
+430,Student_430,AKGEC,IT,3,Software Engineer
+431,Student_431,RRGI Lucknow,CSE,1,Android Developer
+432,Student_432,NIT Surat,CSE,3,Web Developer
+433,Student_433,AKGEC,AIML,4,DevOps Engineer
+434,Student_434,NIT Trichy,AIML,4,Software Engineer
+435,Student_435,NIT Trichy,IT,2,ML Engineer
+436,Student_436,NIT Surat,IT,4,DevOps Engineer
+437,Student_437,AKGEC,ECE,2,Software Engineer
+438,Student_438,NIT Surat,AIML,4,Software Engineer
+439,Student_439,IIT Kanpur,IT,2,Software Engineer
+440,Student_440,NIT Surat,ECE,2,Software Engineer
+441,Student_441,NIT Surat,IT,3,ML Engineer
+442,Student_442,IIT Kanpur,AIML,1,DevOps Engineer
+443,Student_443,IIIT Lucknow,IT,1,ML Engineer
+444,Student_444,IIIT Lucknow,ECE,3,Web Developer
+445,Student_445,IIIT Lucknow,ECE,4,Software Engineer
+446,Student_446,AKGEC,AIML,2,DevOps Engineer
+447,Student_447,RRGI Lucknow,IT,2,Cyber Security Analyst
+448,Student_448,RRGI Lucknow,IT,1,Cyber Security Analyst
+449,Student_449,IIIT Lucknow,ECE,2,Android Developer
+450,Student_450,NIT Trichy,AIML,2,DevOps Engineer
+451,Student_451,AKGEC,ECE,4,Data Scientist
+452,Student_452,IIIT Lucknow,CSE,4,Software Engineer
+453,Student_453,AKGEC,AIML,4,Cyber Security Analyst
+454,Student_454,AKGEC,CSE,3,Web Developer
+455,Student_455,NIT Trichy,IT,3,Web Developer
+456,Student_456,IIIT Lucknow,ECE,2,Android Developer
+457,Student_457,NIT Surat,CSE,3,Android Developer
+458,Student_458,NIT Trichy,CSE,3,Software Engineer
+459,Student_459,NIT Trichy,IT,3,Android Developer
+460,Student_460,RRGI Lucknow,CSE,4,ML Engineer
+461,Student_461,IIT Kanpur,ECE,1,Software Engineer
+462,Student_462,IIT Kanpur,ECE,1,Software Engineer
+463,Student_463,RRGI Lucknow,CSE,1,ML Engineer
+464,Student_464,NIT Trichy,ECE,3,Software Engineer
+465,Student_465,IIIT Lucknow,IT,2,Data Scientist
+466,Student_466,NIT Surat,CSE,2,Web Developer
+467,Student_467,IIT Kanpur,CSE,1,DevOps Engineer
+468,Student_468,IIT Kanpur,CSE,3,ML Engineer
+469,Student_469,IIIT Lucknow,IT,1,Data Scientist
+470,Student_470,IIIT Lucknow,CSE,1,Web Developer
+471,Student_471,AKGEC,IT,3,Software Engineer
+472,Student_472,IIIT Lucknow,AIML,2,Web Developer
+473,Student_473,IIT Kanpur,IT,1,Data Scientist
+474,Student_474,NIT Trichy,AIML,4,DevOps Engineer
+475,Student_475,RRGI Lucknow,IT,1,Cyber Security Analyst
+476,Student_476,AKGEC,CSE,1,Cyber Security Analyst
+477,Student_477,NIT Trichy,IT,2,Software Engineer
+478,Student_478,RRGI Lucknow,AIML,1,Data Scientist
+479,Student_479,AKGEC,AIML,3,DevOps Engineer
+480,Student_480,AKGEC,CSE,1,Android Developer
+481,Student_481,IIIT Lucknow,IT,3,ML Engineer
+482,Student_482,NIT Trichy,CSE,4,Android Developer
+483,Student_483,AKGEC,IT,1,ML Engineer
+484,Student_484,AKGEC,IT,3,Cyber Security Analyst
+485,Student_485,RRGI Lucknow,AIML,3,Web Developer
+486,Student_486,RRGI Lucknow,CSE,1,Cyber Security Analyst
+487,Student_487,IIT Kanpur,CSE,3,Cyber Security Analyst
+488,Student_488,AKGEC,AIML,1,ML Engineer
+489,Student_489,IIIT Lucknow,IT,4,Android Developer
+490,Student_490,IIIT Lucknow,IT,2,Android Developer
+491,Student_491,IIIT Lucknow,AIML,3,Web Developer
+492,Student_492,AKGEC,IT,1,Cyber Security Analyst
+493,Student_493,NIT Trichy,ECE,1,Web Developer
+494,Student_494,AKGEC,AIML,3,Android Developer
+495,Student_495,IIIT Lucknow,CSE,4,Web Developer
+496,Student_496,AKGEC,CSE,3,Web Developer
+497,Student_497,RRGI Lucknow,IT,3,Web Developer
+498,Student_498,IIIT Lucknow,AIML,2,Web Developer
+499,Student_499,IIT Kanpur,CSE,3,Web Developer
+500,Student_500,AKGEC,ECE,4,Android Developer
